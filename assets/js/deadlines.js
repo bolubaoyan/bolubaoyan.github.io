@@ -1,5 +1,4 @@
-/* 纯日期逻辑导出供本地测试；页面部分从 window.BOLU_DDL 读取数据文件，
-   不发起网络请求，也不需要后端。数据文件由 tools/build-deadlines.mjs 生成。 */
+/* CSV 数据只读展示；时间计算统一使用北京时间。 */
 (function (root) {
   'use strict';
   var DAY = 86400000;
@@ -10,182 +9,128 @@
     return Number.isFinite(time) && new Date(time).toISOString().slice(0, 10) === value;
   }
   function instant(value) {
-    // Every precise timestamp must explicitly declare the China offset.
     if (!/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(:\d{2})?\+08:00$/.test(value || '') || !validDate(value.slice(0, 10))) return NaN;
     return Date.parse(value);
   }
+  function cutoff(record) {
+    if (record.precision === 'exact') return instant(record.deadline);
+    // 仅有日期时，按当日结束计算；原始精度仍为 date，不改写维护表。
+    if (record.precision === 'date' && validDate(record.deadline)) return Date.parse(record.deadline + 'T00:00:00+08:00') + DAY;
+    return NaN;
+  }
   function state(record, now) {
     now = now === undefined ? Date.now() : now;
-    var result = function (kind, label, expired) { return {kind:kind, label:label, expired:!!expired}; };
-    if (record.validity === 'withdrawn') return result('withdrawn', '已撤销', true);
-    if (record.validity === 'review') return result('review', '信息待核实');
-    var today = beijingDay(now);
-    var precise = record.precision === 'exact';
-    var dateOnly = record.precision === 'date';
-    var end = precise ? instant(record.deadline) : NaN;
-    if ((precise && !Number.isFinite(end)) || (dateOnly && !validDate(record.deadline))) return result('review', '日期待核实');
-    if (precise && now >= end) return result('closed', '已截止', true);
-    if (dateOnly && today > record.deadline) return result('closed', '截止日期已过', true);
+    function result(kind, label, tone, hint) { return { kind:kind, label:label, expired:kind==='closed', tone:tone||'', hint:hint||'' }; }
+    if (record.validity === 'withdrawn') return result('closed', '已撤销', 'closed');
+    var end = cutoff(record);
+    // 日期已经过去的通知统一归档，即使链接或核验信息还有缺项。
+    if (Number.isFinite(end) && now >= end) return result('closed', '已截止', 'closed');
+    if (record.validity === 'review') return result('unknown', '信息待核实');
+    if (!Number.isFinite(end)) return result('unknown', record.precision === 'rolling' ? '滚动招生' : '截止待确认');
     var start = record.start ? instant(record.start) : NaN;
-    if (record.start && !Number.isFinite(start)) return result('review', '开放时间待核实');
-    if (Number.isFinite(start) && ((precise && start > end) || (dateOnly && beijingDay(start) > record.deadline))) return result('review', '时间范围待核实');
-    if (Number.isFinite(start) && now < start) return result('upcoming', '未开始');
-    // A date-only deadline never becomes an invented 23:59 countdown.
-    if (dateOnly && today === record.deadline) return result('today', '今日截止，时刻见原通知');
-    var open = record.openConfirmed === 'true' || record.openConfirmed === true || (Number.isFinite(start) && now >= start);
-    if (!precise && !dateOnly) return result('unknown', record.precision === 'rolling' ? '滚动招生' : '截止待确认');
-    if (!open) return result('review', '开放时间待核实');
-    if (precise && end - now <= 3 * DAY) return result('soon', '即将截止');
+    if (record.start && (!Number.isFinite(start) || start > end)) return result('unknown', '开放时间待核实');
+    if (Number.isFinite(start) && now < start) return result('unknown', '尚未开放');
+    // “报名中”是按截止日期计算的清单状态，实际开放情况以原通知为准。
+    if (end - now <= 3 * DAY) return result('open', '报名中', 'urgent', '3 天内截止');
+    if (end - now <= 7 * DAY) return result('open', '报名中', 'week', '7 天内截止');
     return result('open', '报名中');
   }
-  function dateKey(record) {
-    if (record.precision === 'exact' && Number.isFinite(instant(record.deadline))) return record.deadline.slice(0,10);
-    if (record.precision === 'date' && validDate(record.deadline)) return record.deadline;
-    return null;
-  }
-  function compare(a, b, direction, now) {
-    var sa=state(a,now), sb=state(b,now);
-    if(sa.expired !== sb.expired) return sa.expired ? 1 : -1;
-    var da=dateKey(a), db=dateKey(b);
-    if(!da || !db) return da ? -1 : db ? 1 : 0;
-    var sign = direction === 'desc' ? -1 : 1;
-    if(da !== db) return (da < db ? -1 : 1) * sign;
-    // Same-day exact times sort together; date-only entries are a distinct group.
-    if(a.precision !== b.precision) return a.precision === 'exact' ? -1 : 1;
-    if(a.precision === 'exact') return (instant(a.deadline)-instant(b.deadline))*sign;
-    return 0;
+  function compare(a, b, now) {
+    var sa=state(a,now), sb=state(b,now), rank={open:0,unknown:1,closed:2};
+    if(sa.kind!==sb.kind) return rank[sa.kind]-rank[sb.kind];
+    var da=cutoff(a), db=cutoff(b);
+    if(!Number.isFinite(da) || !Number.isFinite(db)) return Number.isFinite(da) ? -1 : Number.isFinite(db) ? 1 : 0;
+    return sa.expired ? db-da : da-db;
   }
   function matches(record, filters, now) {
-    var status=state(record,now);
     if(filters.year !== 'all' && record.year !== filters.year) return false;
-    if(!filters.archive && status.expired) return false;
-    if(filters.status !== 'all') {
-      if(filters.status === 'open' ? ['open','soon'].indexOf(status.kind) < 0 : filters.status !== status.kind) return false;
-    }
+    if(filters.status !== 'all' && state(record,now).kind !== filters.status) return false;
     var search=(record.search || '').toLocaleLowerCase().replace(/\s+/g,'');
     var query=(filters.query || '').toLocaleLowerCase().replace(/\s+/g,'');
-    return search.indexOf(query) >= 0;
+    return search.indexOf(query)>=0;
   }
-  var api={state:state,compare:compare,matches:matches,beijingDay:beijingDay};
-  if (typeof module !== 'undefined' && module.exports) module.exports=api;
-  if (!root.document) return;
-  var document=root.document;
-  var list=document.getElementById('deadline-list');
-  var form=document.getElementById('deadline-filters');
+  function schoolKey(value) { return value.replace(/（/g,'(').replace(/）/g,')').replace(/\s/g,''); }
+  var aliases={
+    '哈尔滨工业大学(深圳)':'哈尔滨工业大学','哈尔滨工业大学(威海)':'哈尔滨工业大学',
+    '电子科技大学(深圳)':'电子科技大学','清华大学(深圳)':'清华大学',
+    '华北电力大学(保定)':'华北电力大学','北京理工大学(珠海校区)':'北京理工大学',
+    '中国石油大学(北京)克拉玛依校区':'中国石油大学(北京)'
+  };
+  var api={state:state,compare:compare,matches:matches,cutoff:cutoff,beijingDay:beijingDay,schoolKey:schoolKey,schoolAliases:aliases};
+  if(typeof module !== 'undefined' && module.exports) module.exports=api;
+  if(!root.document) return;
+  var document=root.document, list=document.getElementById('deadline-list'), form=document.getElementById('deadline-filters');
   if(!list || !form) return;
+  var siteBase = new URL('../../', document.currentScript.src);
   var get=function(id){return document.getElementById(id);};
-  var yearSel=get('ddl-year'),statusSel=get('ddl-status'),sortSel=get('ddl-sort'),searchInput=get('ddl-search'),archiveBox=get('ddl-archive');
+  var yearSel=get('ddl-year'),statusSel=get('ddl-status'),searchInput=get('ddl-search');
   var countEl=get('ddl-count'),emptyEl=get('ddl-empty'),clearBtn=get('ddl-clear'),metaEl=get('ddl-meta-checked');
-  var data=root.BOLU_DDL;
-  var records=(data && Array.isArray(data.records)) ? data.records : [];
+  var data=root.BOLU_DDL, records=data && Array.isArray(data.records) ? data.records : [];
+  var logos=root.BOLU_SCHOOL_LOGOS || {};
 
   function el(tag,cls,text){var n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=text;return n;}
   function link(text,href){var a=el('a',null,text);a.href=href;a.target='_blank';a.rel='noopener noreferrer';return a;}
-
-  // 每条记录只建一次 DOM，之后刷新只做增删，避免 1000 多条时反复重建。
   var items=records.map(function(record){
-    var article=el('article','deadline-record');
-    article.id=record.id;
-    var summary=el('div','deadline-summary');
-
-    var head=el('div');
+    var article=el('article','deadline-record'); article.id=record.id;
+    var summary=el('div','deadline-summary'), head=el('div','deadline-school');
+    var badge=el('span','school-badge'); badge.setAttribute('aria-hidden','true');
+    var fallback=el('span','school-monogram',record.school.slice(0,2)); badge.appendChild(fallback);
+    var key=schoolKey(record.school), logo=logos[key] || logos[aliases[key]];
+    if(logo){
+      var img=el('img'); img.src=new URL(logo,siteBase).href;img.alt='';img.width=42;img.height=42;img.loading='lazy';img.decoding='async';
+      img.addEventListener('load',function(){fallback.hidden=true;});
+      img.addEventListener('error',function(){img.hidden=true;fallback.hidden=false;});
+      badge.appendChild(img);
+    }
+    head.appendChild(badge);
     head.appendChild(el('h3',null,record.dept ? record.school+' · '+record.dept : record.school));
     summary.appendChild(head);
-
-    var dateCell=el('div');
+    var dateCell=el('div','deadline-date');
     if(record.deadline && record.precision==='exact'){
-      var t=el('time',null,record.deadline.slice(0,10)+' '+record.deadline.slice(11,16));
-      t.dateTime=record.deadline;
-      dateCell.appendChild(t);
+      var t=el('time',null,record.deadline.slice(0,10)+' '+record.deadline.slice(11,16));t.dateTime=record.deadline;dateCell.appendChild(t);
     }else if(record.deadline && record.precision==='date'){
-      var d=el('time',null,record.deadline);
-      d.dateTime=record.deadline;
-      dateCell.appendChild(d);
-      dateCell.appendChild(el('span','time-note','时刻未注明'));
-    }else{
-      dateCell.appendChild(el('span','time-note',record.dateText || (record.precision==='rolling' ? '滚动招生' : '截止时间未公布')));
-    }
+      var d=el('time',null,record.deadline+' 24:00');d.dateTime=record.deadline;dateCell.appendChild(d);
+      dateCell.appendChild(el('span','time-note'));
+    }else dateCell.appendChild(el('span','time-note',record.dateText || '截止时间待确认'));
     summary.appendChild(dateCell);
-
-    var statusCell=el('div');
-    var label=el('span','deadline-status');
-    statusCell.appendChild(label);
-    summary.appendChild(statusCell);
-
+    var statusCell=el('div'),label=el('span','deadline-status'),hint=el('span','deadline-hint');
+    statusCell.append(label,hint);summary.appendChild(statusCell);
     var srcCell=el('div');
-    if(record.url) srcCell.appendChild(link('通知原文 ↗',record.url));
-    else srcCell.appendChild(el('span','muted','暂无来源'));
-    summary.appendChild(srcCell);
-
-    article.appendChild(summary);
-
-    if(record.note || record.applyUrl || record.checked){
-      var details=el('details');
-      details.appendChild(el('summary',null,'更多信息'));
-      var box=el('div');
-      if(record.note) box.appendChild(el('p',null,'备注：'+record.note));
-      if(record.checked) box.appendChild(el('p',null,'此条核验日期：'+record.checked));
+    if(record.url)srcCell.appendChild(link('通知原文 ↗',record.url));else srcCell.appendChild(el('span','muted','暂无来源'));
+    summary.appendChild(srcCell);article.appendChild(summary);
+    if(record.note || record.applyUrl || record.checked || record.validity==='review'){
+      var details=el('details');details.appendChild(el('summary',null,'更多信息'));var box=el('div');
+      if(record.validity==='review')box.appendChild(el('p',null,'此条信息仍需核实，请以院校通知为准。'));
+      if(record.note)box.appendChild(el('p',null,'备注：'+record.note));
+      if(record.checked)box.appendChild(el('p',null,'此条核验日期：'+record.checked));
       if(record.applyUrl){var p=el('p');p.appendChild(link('前往报名系统 ↗',record.applyUrl));box.appendChild(p);}
-      details.appendChild(box);
-      article.appendChild(details);
+      details.appendChild(box);article.appendChild(details);
     }
-    return {record:record,el:article,label:label};
+    return {record:record,el:article,label:label,hint:hint};
   });
-
-  var years=[];
-  items.forEach(function(it){if(years.indexOf(it.record.year)<0)years.push(it.record.year);});
-  years.sort().reverse();
-  years.forEach(function(y){var o=document.createElement('option');o.value=y;o.textContent=y+' 年申请';yearSel.appendChild(o);});
-  var latest=years[0]||'all';
-  yearSel.value=latest;
-  if(metaEl) metaEl.textContent=data && data.checked ? '最近单条核验：'+data.checked : '来源：历史清单整理，核验日期未记录';
-
-  function refresh() {
-    var now=Date.now();
-    var filters={year:yearSel.value,status:statusSel.value,query:searchInput.value,archive:archiveBox.checked};
-    var frag=document.createDocumentFragment();
-    var visible=0;
-    items.slice().sort(function(a,b){return compare(a.record,b.record,sortSel.value,now);}).forEach(function(it){
-      var value=state(it.record,now);
-      it.label.textContent=value.label;
-      it.label.dataset.kind=value.kind;
+  var years=Array.from(new Set(records.map(function(r){return r.year;}))).sort().reverse();
+  years.forEach(function(y){var o=el('option',null,y+' 年申请');o.value=y;yearSel.appendChild(o);});
+  var latest=years[0]||'all';yearSel.value=latest;
+  if(metaEl)metaEl.textContent=data && data.checked ? '最近单条核验：'+data.checked : '来源：历史清单整理，核验日期未记录';
+  function refresh(){
+    var now=Date.now(),filters={year:yearSel.value,status:statusSel.value,query:searchInput.value},frag=document.createDocumentFragment(),visible=0;
+    items.slice().sort(function(a,b){return compare(a.record,b.record,now);}).forEach(function(it){
+      var value=state(it.record,now);it.label.textContent=value.label;it.hint.textContent=value.hint;it.hint.hidden=!value.hint;it.el.dataset.tone=value.tone;
       if(matches(it.record,filters,now)){frag.appendChild(it.el);visible++;}
     });
-    list.replaceChildren(frag);
-    countEl.textContent=items.length ? '显示 '+visible+' / '+items.length+' 条院校通知' : '暂未收录院校通知';
-    var h2=emptyEl.querySelector('h2'), p=emptyEl.querySelector('p:not(.eyebrow)');
-    if(!data || !Array.isArray(data.records)){
-      h2.textContent='清单暂时未能加载。';
-      p.textContent='请刷新页面后重试，或稍后再来查看。';
-    }else if(!items.length){
-      h2.textContent='暂未收录院校通知。';
-      p.textContent='维护者录入并核验后，将在这里显示。';
-    }else if(!visible){
-      h2.textContent='没有符合条件的信息。';
-      p.textContent='试着修改筛选条件，或勾选“包含已截止 / 撤销”。';
-    }
-    emptyEl.hidden=visible>0;
-    clearBtn.hidden=!items.length;
+    list.replaceChildren(frag);countEl.textContent='显示 '+visible+' / '+items.length+' 条截止信息';
+    var h2=emptyEl.querySelector('h2'),p=emptyEl.querySelector('p:not(.eyebrow)');
+    if(!data || !Array.isArray(data.records)){h2.textContent='清单暂时未能加载。';p.textContent='请刷新页面后重试，或稍后再来查看。';countEl.textContent='清单加载失败';}
+    else if(!items.length){h2.textContent='暂未收录院校通知。';p.textContent='维护者录入后，将在这里显示。';}
+    else if(!visible){h2.textContent='没有符合条件的信息。';p.textContent='试着修改关键词或报名状态，也可以重置筛选。';}
+    emptyEl.hidden=visible>0;clearBtn.hidden=!items.length;
   }
   form.addEventListener('submit',function(event){event.preventDefault();});
   var timer=null;
-  searchInput.addEventListener('input',function(){
-    if(timer) clearTimeout(timer);
-    timer=setTimeout(function(){timer=null;refresh();},120);
-  });
-  form.addEventListener('change',function(event){
-    if(event.target===statusSel && ['closed','withdrawn'].indexOf(statusSel.value)>=0) archiveBox.checked=true;
-    refresh();
-  });
-  form.addEventListener('reset',function(){
-    setTimeout(function(){yearSel.value=latest;archiveBox.checked=false;refresh();},0);
-  });
-  archiveBox.addEventListener('change',function(){
-    if(!archiveBox.checked && ['closed','withdrawn'].indexOf(statusSel.value)>=0) statusSel.value='all';
-    refresh();
-  });
+  searchInput.addEventListener('input',function(){clearTimeout(timer);timer=setTimeout(refresh,120);});
+  form.addEventListener('change',refresh);
+  form.addEventListener('reset',function(){setTimeout(function(){yearSel.value=latest;refresh();},0);});
   clearBtn.addEventListener('click',function(){form.reset();});
   document.addEventListener('visibilitychange',function(){if(!document.hidden)refresh();});
-  setInterval(function(){if(!document.hidden)refresh();},60000);
-  refresh();
+  setInterval(function(){if(!document.hidden)refresh();},60000);refresh();
 })(typeof window!=='undefined' ? window : globalThis);

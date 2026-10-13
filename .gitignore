@@ -12,3 +12,8 @@ dist/
 # .nojekyll is a deployment file and must remain included.
 
 DDL维护指南.md
+
+# Local original logo library; publish extracted assets/images/universities/ instead.
+/logo/
+
+/更新网站.command

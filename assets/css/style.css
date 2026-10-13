@@ -1328,3 +1328,50 @@ img {
     break-inside:avoid
   }
 }
+
+/* 2026-10：可填写咨询清单与紧凑 DDL。 */
+.consult-fields { display:grid; gap:18px; margin-top:24px; }
+.consult-field label,.consult-preview label { display:block; font-size:14px; margin-bottom:7px; color:var(--ink); }
+.consult-field input,.consult-field textarea,.consult-preview textarea { width:100%; padding:10px 12px; border:1px solid #bec3b9; border-radius:3px; background:white; color:var(--ink); font:inherit; font-size:15px; line-height:1.65; }
+.consult-field textarea,.consult-preview textarea { resize:vertical; }
+.consult-preview { margin-top:26px; }
+.consult-preview textarea { background:#fafaf7; font-size:14px; }
+.consult-actions { display:flex; align-items:center; flex-wrap:wrap; gap:16px; margin-top:18px; }
+.has-js .deadline-filters { grid-template-columns:minmax(220px,2fr) repeat(2,minmax(125px,1fr)) auto; }
+.deadline-school { display:flex; align-items:flex-start; gap:14px; }
+.deadline-school h3 { padding-top:3px; }
+.school-badge { position:relative; display:grid; place-items:center; flex:0 0 42px; width:42px; height:42px; }
+.school-badge img { position:absolute; inset:0; width:42px; height:42px; object-fit:contain; background:var(--white); }
+.school-monogram { display:grid; place-items:center; width:42px; height:42px; background:#f1f2ed; color:var(--muted); font-size:13px; border-radius:3px; }
+.school-monogram[hidden],.school-badge img[hidden] { display:none; }
+.deadline-hint { display:block; margin-top:4px; font-size:12px; }
+.deadline-legend { display:flex; flex-wrap:wrap; gap:18px; }
+.legend-urgent,.deadline-record[data-tone=urgent] .deadline-date,.deadline-record[data-tone=urgent] .deadline-status,.deadline-record[data-tone=urgent] .deadline-hint { color:#af2924; }
+.legend-week,.deadline-record[data-tone=week] .deadline-date,.deadline-record[data-tone=week] .deadline-status,.deadline-record[data-tone=week] .deadline-hint { color:#806000; }
+.deadline-record[data-tone=urgent] { border-left:3px solid #af2924; }
+.deadline-record[data-tone=week] { border-left:3px solid #c79c28; }
+.deadline-record[data-tone=closed] { background:#f3f3ef; }
+.deadline-record[data-tone=closed] h3,.deadline-record[data-tone=closed] time,.deadline-record[data-tone=closed] a,.deadline-record[data-tone=closed] summary { color:#646963; }
+.deadline-record[data-tone=closed] .school-badge { filter:grayscale(1); opacity:.65; }
+@media(max-width:680px) {
+  .has-js .deadline-filters { grid-template-columns:1fr 1fr; }
+  .deadline-filters .button { grid-column:1/-1; }
+  .deadline-toolbar { flex-direction:column; gap:10px; }
+  .deadline-record { padding:18px 12px; }
+  .deadline-school { gap:10px; }
+  .deadline-school h3 { font-size:15px; }
+  .school-badge,.school-badge img,.school-monogram { width:36px; height:36px; }
+  .school-badge { flex-basis:36px; }
+  .deadline-summary { grid-template-columns:minmax(0,1fr) auto; }
+}
+
+/* 官方品牌图使用发布副本，原始 logo/ 无需上传。 */
+.brand { display: flex; flex-direction: column; align-items: flex-start; gap: 5px; }
+.brand-logo { display: block; width: 200px; height: auto; mix-blend-mode: multiply; }
+.brand small { margin: 0; font-size: 12px; letter-spacing: .06em; }
+.footer-logo { display: block; width: 180px; height: auto; mix-blend-mode: multiply; }
+@media (max-width: 760px) {
+  .brand-logo { width: 158px; }
+  .brand small { font-size: 10px; }
+  .footer-logo { width: 160px; }
+}
