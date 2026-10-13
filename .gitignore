@@ -1,0 +1,13 @@
+# Internal documents and QA files. Manual browser uploads must follow README's allowlist.
+博路保研网站建设方案.md
+README.md
+预览图/
+tests/
+data/
+tools/
+更新DDL.command
+.DS_Store
+dist/
+# .nojekyll is a deployment file and must remain included.
+
+DDL维护指南.md

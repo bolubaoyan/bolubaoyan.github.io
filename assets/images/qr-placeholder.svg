@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="480" height="480" role="img" aria-label="微信二维码占位图，待替换为真实二维码">
+  <title>微信二维码占位图（待替换）</title>
+  <rect width="480" height="480" fill="#F6F9FE"/>
+  <rect x="14" y="14" width="452" height="452" fill="none" stroke="#A9BEDF" stroke-width="2" stroke-dasharray="10 8"/>
+
+  <!-- 三个定位角：说明这是一张二维码的位置 -->
+  <g fill="none" stroke="#C3D2ED" stroke-width="10">
+    <rect x="64" y="64" width="84" height="84"/>
+    <rect x="332" y="64" width="84" height="84"/>
+    <rect x="64" y="332" width="84" height="84"/>
+  </g>
+  <g fill="#C3D2ED">
+    <rect x="92" y="92" width="28" height="28"/>
+    <rect x="360" y="92" width="28" height="28"/>
+    <rect x="92" y="360" width="28" height="28"/>
+  </g>
+
+  <!-- 中部说明 -->
+  <text x="240" y="228" text-anchor="middle" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="30" font-weight="600" fill="#5E7397">二维码待替换</text>
+  <text x="240" y="268" text-anchor="middle" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" fill="#6B768C">替换为经确认的微信二维码</text>
+  <text x="240" y="294" text-anchor="middle" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" fill="#6B768C">并确认在手机上可识别</text>
+</svg>
