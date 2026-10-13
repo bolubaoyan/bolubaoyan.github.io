@@ -3,7 +3,8 @@
 README.md
 预览图/
 tests/
-data/
+# Ignore only the local source table; assets/data/ must be published.
+/data/
 tools/
 更新DDL.command
 .DS_Store
