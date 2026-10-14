@@ -73,6 +73,7 @@ window.BOLU_SCHOOL_LOGOS = {
   "哈尔滨工业大学(深圳)": "assets/images/universities/哈尔滨工业大学(深圳).jpg",
   "哈尔滨工程大学": "assets/images/universities/哈尔滨工程大学.jpg",
   "四川大学": "assets/images/universities/四川大学.jpg",
+  "国防科技大学": "assets/images/universities/国防科技大学.jpg",
   "复旦大学": "assets/images/universities/复旦大学.jpg",
   "大连理工大学": "assets/images/universities/大连理工大学.jpg",
   "天津医科大学": "assets/images/universities/天津医科大学.jpg",

@@ -1,0 +1,54 @@
+/* DDL 信息强调，仅供 DDL 页面加载。 */
+.deadline-meta { font-size:16px; }
+#ddl-current-time { color:var(--ink); font-size:inherit; font-weight:750; font-variant-numeric:tabular-nums; }
+.deadline-record { border-left:4px solid transparent; }
+.deadline-summary h3 { font-weight:750; }
+.deadline-summary > div, .deadline-summary time, .deadline-summary .deadline-unknown { font-size:15px; font-weight:700; }
+.deadline-unknown { display:block; color:var(--ink); }
+.deadline-summary > div { min-width:0; overflow-wrap:anywhere; }
+.deadline-status { display:inline-block; padding:3px 9px; border-radius:3px; color:#174526; background:#e5f2e9; font-size:14px; font-weight:750; }
+.deadline-hint { font-weight:700; }
+.deadline-countdown { display:block; margin-top:7px; font-size:13px; font-weight:700; font-variant-numeric:tabular-nums; }
+.deadline-countdown[hidden] { display:none; }
+.deadline-notes { margin-top:4px; padding-top:0; border-top:0; font-size:12px; line-height:1.7; color:var(--muted); overflow-wrap:anywhere; }
+.deadline-notes p { margin:2px 0; }
+.deadline-record[data-tone=urgent] { border-left:4px solid #c51b23; background:#fff0f0; }
+.deadline-record[data-tone=urgent] .deadline-date, .deadline-record[data-tone=urgent] .deadline-hint { color:#a8111a; }
+.deadline-record[data-tone=urgent] .deadline-status { background:#b51620; color:white; }
+.deadline-record[data-tone=week] { border-left:4px solid #c78a00; background:#fff7d6; }
+.deadline-record[data-tone=week] .deadline-date, .deadline-record[data-tone=week] .deadline-hint { color:#785000; }
+.deadline-record[data-tone=week] .deadline-status { background:#f6c543; color:#493000; }
+.legend-urgent,.legend-week { padding:3px 9px; border-radius:3px; font-weight:750; }
+.legend-urgent { background:#b51620; color:white; }
+.legend-week { background:#f6c543; color:#493000; }
+ .deadline-record[data-tone=closed] { background:#f3f3ef; }
+.deadline-record[data-tone=closed] h3, .deadline-record[data-tone=closed] time, .deadline-record[data-tone=closed] .deadline-unknown, .deadline-record[data-tone=closed] a { color:#646963; }
+.deadline-record[data-tone=closed] .school-badge { filter:grayscale(1); opacity:.75; }
+.deadline-record[data-tone=closed] .deadline-status { color:#555d56; background:#e4e7e1; }
+.legend-closed { color:#555d56; background:#e4e7e1; padding:3px 9px; border-radius:3px; font-weight:700; }
+.school-badge { box-sizing:border-box; flex-basis:54px; width:54px; height:54px; border:1px solid #c9cfc4; border-radius:5px; background:white; }
+.school-badge img { inset:3px; width:46px; height:46px; border-radius:2px; }
+.school-monogram { width:46px; height:46px; }
+@media(max-width:680px) {
+ .school-badge { flex-basis:48px; width:48px; height:48px; }
+ .school-badge img,.school-monogram { width:40px; height:40px; }
+ .deadline-summary { grid-template-columns:minmax(0,1fr) auto; }
+ .deadline-meta { line-height:1.8; }
+ .deadline-countdown { font-size:12px; }
+ .deadline-legend { gap:8px; }
+}
+
+/* 学校与备注左对齐，其余三列居中。 */
+.deadline-head, .deadline-summary { align-items:center; text-align:center; }
+.deadline-record .deadline-summary > div { text-align:center; }
+.deadline-record .deadline-summary > .deadline-school { justify-content:flex-start; align-items:center; text-align:left; }
+.deadline-head > span:first-child { text-align:left; }
+.deadline-school-copy { min-width:0; flex:1; }
+.deadline-record .deadline-school h3 { margin:0; padding-top:0; }
+.deadline-notes { text-align:left; font-weight:400; }
+
+.has-js .deadline-filters { grid-template-columns:minmax(180px,2fr) repeat(3,minmax(125px,1fr)) auto; }
+@media(max-width:960px) {
+ .has-js .deadline-filters { grid-template-columns:repeat(2,minmax(0,1fr)); }
+ .deadline-filters .search-field { grid-column:1/-1; }
+}
