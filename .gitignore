@@ -1,19 +1,46 @@
-# Internal documents and QA files. Manual browser uploads must follow README's allowlist.
-博路保研网站建设方案.md
-README.md
-预览图/
-tests/
-# Ignore only the local source table; assets/data/ must be published.
-/data/
-tools/
-更新DDL.command
+# 仅将网站发布文件及 Git 配置纳入版本控制。
+# 根目录的新文件默认忽略；新增页面目录时，在下面增加对应放行规则。
+/*
+!/.gitignore
+!/.gitattributes
+!/.nojekyll
+!/*.html
+
+# 页面与运行资源（assets/data/ 是生成后的网页数据，必须上传）。
+!/about/
+!/cases/
+!/contact/
+!/deadlines/
+!/guide/
+!/join/
+!/privacy/
+!/services/
+!/assets/
+
+# 如以后使用自定义域名、搜索引擎配置或 GitHub Actions，允许提交这些文件。
+!/CNAME
+!/robots.txt
+!/sitemap.xml
+!/.github/
+
+# 任意目录中的本地说明、系统文件、编辑器配置及临时文件不上传。
+*.md
 .DS_Store
-dist/
-# .nojekyll is a deployment file and must remain included.
+._*
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.tmp-*
+*.bak
+*~
+.env
+.env.*
 
-DDL维护指南.md
-
-# Local original logo library; publish extracted assets/images/universities/ instead.
-/logo/
-
-/更新网站.command
+# data/、logo/、tools/、tests/、预览图/、dist/ 和 *.command 等根目录文件
+# 均由顶部默认忽略规则排除；只保留本地，不删除文件。

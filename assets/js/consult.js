@@ -10,11 +10,14 @@
     }).join('\n');
   }
   panel.addEventListener('input', update);
+  panel.addEventListener('change', update);
   document.getElementById('consult-clear').addEventListener('click', function () {
     panel.querySelectorAll('input, textarea').forEach(function (field) { field.value = ''; });
+    document.getElementById('consult-year').selectedIndex = 0;
+    output.scrollTop = 0;
     update();
-    document.getElementById('consult-status').textContent = '已清空本页填写内容。';
-    panel.querySelector('input').focus();
+    document.getElementById('consult-status').textContent = '已清空填写内容，申请年份已恢复为28保研。';
+    document.getElementById('consult-year').focus();
   });
   update();
 })();

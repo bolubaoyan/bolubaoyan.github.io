@@ -60,7 +60,11 @@
     if(!Number.isFinite(end)) return '';
     var seconds=Math.max(0,Math.ceil((end-now)/1000));
     var days=Math.floor(seconds/86400), hours=Math.floor(seconds%86400/3600), minutes=Math.floor(seconds%3600/60);
-    return '距截止 '+days+' 天 '+String(hours).padStart(2,'0')+':'+String(minutes).padStart(2,'0')+':'+String(seconds%60).padStart(2,'0');
+    var text='';
+    if(days>0) text+=days+'天';
+    if(days>0 || hours>0) text+=hours+'小时';
+    if(days>0 || hours>0 || minutes>0) text+=minutes+'分';
+    return '距截止 '+text+(seconds%60)+'秒';
   }
   function schoolKey(value) { return value.replace(/（/g,'(').replace(/）/g,')').replace(/\s/g,''); }
   var aliases={
@@ -117,7 +121,6 @@
     summary.appendChild(srcCell);article.appendChild(summary);
     if(record.note || record.applyUrl || record.checked || record.validity==='review'){
       var box=el('div','deadline-notes');
-      if(record.validity==='review')box.appendChild(el('p',null,'此条信息仍需核实，请以院校通知为准。'));
       if(record.note)box.appendChild(el('p',null,'备注：'+record.note));
       if(record.checked)box.appendChild(el('p',null,'此条核验日期：'+record.checked));
       if(record.applyUrl){var p=el('p');p.appendChild(link('前往报名系统 ↗',record.applyUrl));box.appendChild(p);}

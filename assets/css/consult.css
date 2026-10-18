@@ -1,0 +1,57 @@
+/* 咨询页年份选择与经历输入框。 */
+.consult-field select { box-sizing:border-box; width:100%; min-height:46px; padding:10px 12px; border:1px solid #bec3b9; border-radius:3px; background:white; color:var(--ink); font:inherit; font-size:15px; line-height:1.65; }
+#consult-experience { box-sizing:border-box; line-height:25px; height:222px; min-height:222px; max-height:222px; padding:10px 12px; resize:none; overflow-y:auto; }
+
+/* 13 行正文，加上下内边距和边框；超出内容在框内滚动。 */
+.consult-preview #consult-template { box-sizing:border-box; line-height:24px; height:334px; min-height:334px; max-height:334px; padding:10px 12px; resize:none; overflow-y:auto; }
+
+/* 桌面端左侧填写，右侧复制并联系；窄屏按操作顺序排列。 */
+.contact-layout { grid-template-columns:minmax(0,1.1fr) minmax(0,1fr); gap:48px; }
+.contact-layout > * { min-width:0; }
+.contact-aside { padding-left:32px; }
+.consult-output.template-box { margin:0; }
+.consult-output .consult-preview { margin-top:0; }
+.consult-output .consult-actions { gap:12px 20px; }
+#consult-status:empty { display:none; }
+.consult-wechat { display:grid; grid-template-columns:180px minmax(0,1fr); align-items:center; gap:24px; margin-top:28px; }
+.consult-wechat .qr-surface { width:100%; margin:0; padding:12px; }
+.consult-wechat-copy .eyebrow { margin-bottom:8px; }
+.consult-wechat-copy h2 { margin-bottom:16px; }
+.consult-wechat-copy .small { margin-top:12px; }
+@media (max-width:960px) {
+  .contact-layout { gap:28px; }
+  .contact-aside { padding-left:24px; }
+  .consult-output.template-box { padding:20px; }
+  .consult-wechat { grid-template-columns:140px minmax(0,1fr); gap:16px; }
+}
+@media (max-width:760px) {
+  .contact-layout { display:flex; flex-direction:column; gap:28px; }
+  .contact-copy { width:100%; border-top:0; padding-top:0; }
+  .contact-copy .template-box { margin-bottom:0; }
+  .contact-aside { width:100%; order:0; border:0; padding:0; }
+  .consult-wechat { grid-template-columns:160px minmax(0,1fr); }
+}
+@media (max-width:380px) {
+  .consult-wechat { grid-template-columns:130px minmax(0,1fr); gap:14px; }
+}
+
+/* 二维码保存入口与识别提示仅在手机布局显示。 */
+.consult-wechat-copy .consult-mobile-hint { display:none; }
+@media (max-width:760px) {
+  .consult-wechat-copy a.consult-mobile-hint { display:inline-block; }
+  .consult-wechat-copy p.consult-mobile-hint { display:block; }
+}
+
+/* 常见问题：标题在上，问答按行对齐。 */
+.consult-qa > h2 { margin-bottom:28px; }
+.consult-qa .faq summary { display:grid; grid-template-columns:24px minmax(0,1fr) 20px; gap:16px; padding:22px 0; }
+.consult-qa .qa-label { font:600 16px/1.85 var(--sans); color:var(--blue); }
+.consult-qa .qa-question { font-size:16px; font-weight:600; line-height:1.85; }
+.consult-qa .faq-body { display:grid; grid-template-columns:24px minmax(0,1fr); gap:16px; padding:0 36px 24px 0; }
+.consult-qa .faq-body .qa-label { color:var(--muted); }
+.consult-qa .faq-body p { margin:0; font-size:15px; line-height:1.85; }
+@media (max-width:760px) {
+  .consult-qa > h2 { margin-bottom:20px; }
+  .consult-qa .faq summary { gap:10px; padding:18px 0; }
+  .consult-qa .faq-body { gap:10px; padding-right:0; }
+}

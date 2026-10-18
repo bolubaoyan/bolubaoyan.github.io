@@ -216,7 +216,7 @@ img {
   gap:23px
 }
 .site-nav>a {
-  font-size:13px;
+  font-size:16px;
   color:var(--ink);
   white-space:nowrap;
   padding-block:13px
@@ -1374,4 +1374,24 @@ img {
   .brand-logo { width: 158px; }
   .brand small { font-size: 10px; }
   .footer-logo { width: 160px; }
+}
+
+/* 下拉箭头与右边框保持 14px 间距，并为文字留出空间。 */
+.deadline-filters select,
+.contact-layout .consult-field select {
+  -webkit-appearance:none;
+  appearance:none;
+  padding-right:42px;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='m1 1 5 5 5-5' fill='none' stroke='%235c625d' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;
+  background-position:right 14px center;
+  background-size:12px 8px;
+}
+@media (forced-colors:active) {
+  .deadline-filters select,
+  .contact-layout .consult-field select {
+    -webkit-appearance:auto;
+    appearance:auto;
+    background-image:none;
+  }
 }

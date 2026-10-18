@@ -1,7 +1,7 @@
 /* 自动生成；请编辑 data/ 下的年度 CSV 并运行 更新DDL.command。 */
 window.BOLU_DDL = {
   "checked": "",
-  "count": 1096,
+  "count": 1089,
   "years": [
     "2027",
     "2026"
@@ -9,7 +9,7 @@ window.BOLU_DDL = {
   "sources": [
     {
       "file": "deadlines-2026.csv",
-      "rows": 1096
+      "rows": 1089
     },
     {
       "file": "deadlines-2027.csv",
@@ -86,24 +86,7 @@ window.BOLU_DDL = {
       "search": "上海创智学院"
     },
     {
-      "id": "ddl-2026-0oyx3yv-5",
-      "year": "2026",
-      "school": "国家创新与金融研究院",
-      "dept": "",
-      "dateText": "2026/3/30 12:00",
-      "precision": "exact",
-      "deadline": "2026-03-30T12:00:00+08:00",
-      "start": "",
-      "openConfirmed": "false",
-      "validity": "normal",
-      "url": "https://mp.weixin.qq.com/s/u9RzDz8XNSJQBKEwRhoFJA",
-      "applyUrl": "",
-      "note": "",
-      "checked": "",
-      "search": "国家创新与金融研究院"
-    },
-    {
-      "id": "ddl-2026-0iuuoau-6",
+      "id": "ddl-2026-0iuuoau-5",
       "year": "2026",
       "school": "启元实验室",
       "dept": "",
@@ -120,7 +103,7 @@ window.BOLU_DDL = {
       "search": "启元实验室"
     },
     {
-      "id": "ddl-2026-0n1rlx3-7",
+      "id": "ddl-2026-0n1rlx3-6",
       "year": "2026",
       "school": "重庆邮电大学",
       "dept": "人工智能学院DEVC团队",
@@ -137,7 +120,7 @@ window.BOLU_DDL = {
       "search": "重庆邮电大学 人工智能学院DEVC团队"
     },
     {
-      "id": "ddl-2026-088cwyq-8",
+      "id": "ddl-2026-088cwyq-7",
       "year": "2026",
       "school": "北京大学",
       "dept": "数学科学学院",
@@ -154,7 +137,7 @@ window.BOLU_DDL = {
       "search": "北京大学 数学科学学院"
     },
     {
-      "id": "ddl-2026-0r7jk6x-9",
+      "id": "ddl-2026-0r7jk6x-8",
       "year": "2026",
       "school": "清华大学",
       "dept": "人工智能学院学术交流日",
@@ -171,7 +154,7 @@ window.BOLU_DDL = {
       "search": "清华大学 人工智能学院学术交流日"
     },
     {
-      "id": "ddl-2026-16n1hcb-10",
+      "id": "ddl-2026-16n1hcb-9",
       "year": "2026",
       "school": "深圳理工大学",
       "dept": "&宁波诺丁汉大学联培",
@@ -188,7 +171,7 @@ window.BOLU_DDL = {
       "search": "深圳理工大学 &宁波诺丁汉大学联培"
     },
     {
-      "id": "ddl-2026-1bkb8h8-11",
+      "id": "ddl-2026-1bkb8h8-10",
       "year": "2026",
       "school": "中国科学院",
       "dept": "数学与系统科学研究院",
@@ -205,7 +188,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 数学与系统科学研究院"
     },
     {
-      "id": "ddl-2026-136yxut-12",
+      "id": "ddl-2026-136yxut-11",
       "year": "2026",
       "school": "北京中关村学院",
       "dept": "",
@@ -222,7 +205,7 @@ window.BOLU_DDL = {
       "search": "北京中关村学院"
     },
     {
-      "id": "ddl-2026-1qvu5ua-13",
+      "id": "ddl-2026-1qvu5ua-12",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "精准智能化学全国重点实验室",
@@ -239,7 +222,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 精准智能化学全国重点实验室"
     },
     {
-      "id": "ddl-2026-14ha51d-14",
+      "id": "ddl-2026-14ha51d-13",
       "year": "2026",
       "school": "清华大学",
       "dept": "交叉信息研究院学术交流开放日",
@@ -256,7 +239,7 @@ window.BOLU_DDL = {
       "search": "清华大学 交叉信息研究院学术交流开放日"
     },
     {
-      "id": "ddl-2026-0x2x4yb-15",
+      "id": "ddl-2026-0x2x4yb-14",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "国家同步辐射实验室第一届“HALF英才”科学学营",
@@ -273,7 +256,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 国家同步辐射实验室第一届“HALF英才”科学学营"
     },
     {
-      "id": "ddl-2026-0ton4cv-16",
+      "id": "ddl-2026-0ton4cv-15",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "前沿交叉科学学院",
@@ -290,7 +273,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 前沿交叉科学学院"
     },
     {
-      "id": "ddl-2026-02wb10z-17",
+      "id": "ddl-2026-02wb10z-16",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "第一届空间科学与技术科学营",
@@ -307,7 +290,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 第一届空间科学与技术科学营"
     },
     {
-      "id": "ddl-2026-1tkori9-18",
+      "id": "ddl-2026-1tkori9-17",
       "year": "2026",
       "school": "南京大学",
       "dept": "2026年机器学习暑期学校",
@@ -324,7 +307,7 @@ window.BOLU_DDL = {
       "search": "南京大学 2026年机器学习暑期学校"
     },
     {
-      "id": "ddl-2026-05g94oo-19",
+      "id": "ddl-2026-05g94oo-18",
       "year": "2026",
       "school": "复旦大学",
       "dept": "数学科学学院",
@@ -341,7 +324,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 数学科学学院"
     },
     {
-      "id": "ddl-2026-0gkblyh-20",
+      "id": "ddl-2026-0gkblyh-19",
       "year": "2026",
       "school": "中国科学院",
       "dept": "苏州医工所",
@@ -358,7 +341,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 苏州医工所"
     },
     {
-      "id": "ddl-2026-0wgn6el-21",
+      "id": "ddl-2026-0wgn6el-20",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "2026年科技商学院、管理学院第一届 “量策未来” 科商营",
@@ -375,7 +358,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 2026年科技商学院、管理学院第一届 “量策未来” 科商营"
     },
     {
-      "id": "ddl-2026-1fwlvh0-22",
+      "id": "ddl-2026-1fwlvh0-21",
       "year": "2026",
       "school": "中国科学院",
       "dept": "空天信息创新研究院",
@@ -392,7 +375,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 空天信息创新研究院"
     },
     {
-      "id": "ddl-2026-01qmomc-23",
+      "id": "ddl-2026-01qmomc-22",
       "year": "2026",
       "school": "中国科学院",
       "dept": "计算技术研究所",
@@ -409,7 +392,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 计算技术研究所"
     },
     {
-      "id": "ddl-2026-1m19scr-24",
+      "id": "ddl-2026-1m19scr-23",
       "year": "2026",
       "school": "浙江大学",
       "dept": "数学科学学院2026年全国优秀大学生交流营",
@@ -426,7 +409,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 数学科学学院2026年全国优秀大学生交流营"
     },
     {
-      "id": "ddl-2026-0uzmwel-25",
+      "id": "ddl-2026-0uzmwel-24",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "地空学院资源与环境专业第一届科学营",
@@ -443,7 +426,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 地空学院资源与环境专业第一届科学营"
     },
     {
-      "id": "ddl-2026-1416w4e-26",
+      "id": "ddl-2026-1416w4e-25",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "未来技术学院",
@@ -460,7 +443,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 未来技术学院"
     },
     {
-      "id": "ddl-2026-0wr3174-27",
+      "id": "ddl-2026-0wr3174-26",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "生物医学工程学院",
@@ -477,7 +460,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 生物医学工程学院"
     },
     {
-      "id": "ddl-2026-06uqcbw-28",
+      "id": "ddl-2026-06uqcbw-27",
       "year": "2026",
       "school": "清华大学",
       "dept": "地球系统科学系地学学科全国优秀大学生论坛",
@@ -494,7 +477,7 @@ window.BOLU_DDL = {
       "search": "清华大学 地球系统科学系地学学科全国优秀大学生论坛"
     },
     {
-      "id": "ddl-2026-07165l6-29",
+      "id": "ddl-2026-07165l6-28",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "合肥物质科学研究所-科学岛",
@@ -511,7 +494,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 合肥物质科学研究所-科学岛"
     },
     {
-      "id": "ddl-2026-1pxkgvv-30",
+      "id": "ddl-2026-1pxkgvv-29",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "环境科学与光电技术学院-科学岛",
@@ -528,7 +511,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 环境科学与光电技术学院-科学岛"
     },
     {
-      "id": "ddl-2026-1n9hfh6-31",
+      "id": "ddl-2026-1n9hfh6-30",
       "year": "2026",
       "school": "西湖大学",
       "dept": "",
@@ -545,7 +528,7 @@ window.BOLU_DDL = {
       "search": "西湖大学"
     },
     {
-      "id": "ddl-2026-0di751o-32",
+      "id": "ddl-2026-0di751o-31",
       "year": "2026",
       "school": "清华大学",
       "dept": "工业工程系",
@@ -562,7 +545,7 @@ window.BOLU_DDL = {
       "search": "清华大学 工业工程系"
     },
     {
-      "id": "ddl-2026-0nvsm36-33",
+      "id": "ddl-2026-0nvsm36-32",
       "year": "2026",
       "school": "中国科学院",
       "dept": "古脊椎动物与古人类研究所分子古生物学实验室",
@@ -579,7 +562,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 古脊椎动物与古人类研究所分子古生物学实验室"
     },
     {
-      "id": "ddl-2026-1u2zoqe-34",
+      "id": "ddl-2026-1u2zoqe-33",
       "year": "2026",
       "school": "中国科学院",
       "dept": "古脊椎动物与古人类研究所分子古生物学实验室-第二轮",
@@ -596,7 +579,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 古脊椎动物与古人类研究所分子古生物学实验室-第二轮"
     },
     {
-      "id": "ddl-2026-1mca25l-35",
+      "id": "ddl-2026-1mca25l-34",
       "year": "2026",
       "school": "北京大学",
       "dept": "北京大学深圳研究生院2026年国际暑期探索营报名通知",
@@ -613,7 +596,7 @@ window.BOLU_DDL = {
       "search": "北京大学 北京大学深圳研究生院2026年国际暑期探索营报名通知"
     },
     {
-      "id": "ddl-2026-1b4ij5i-36",
+      "id": "ddl-2026-1b4ij5i-35",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "合肥微尺度物质科学国家研究中心",
@@ -630,7 +613,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 合肥微尺度物质科学国家研究中心"
     },
     {
-      "id": "ddl-2026-01qo2w6-37",
+      "id": "ddl-2026-01qo2w6-36",
       "year": "2026",
       "school": "北京大学",
       "dept": "生命科学联合中心",
@@ -647,7 +630,7 @@ window.BOLU_DDL = {
       "search": "北京大学 生命科学联合中心"
     },
     {
-      "id": "ddl-2026-166flph-38",
+      "id": "ddl-2026-166flph-37",
       "year": "2026",
       "school": "浙江大学",
       "dept": "良渚实验室",
@@ -664,7 +647,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 良渚实验室"
     },
     {
-      "id": "ddl-2026-1l9p6m1-39",
+      "id": "ddl-2026-1l9p6m1-38",
       "year": "2026",
       "school": "浙江大学",
       "dept": "脑科学与脑医学学院",
@@ -681,7 +664,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 脑科学与脑医学学院"
     },
     {
-      "id": "ddl-2026-0jpnkii-40",
+      "id": "ddl-2026-0jpnkii-39",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "经济与管理学院和中国科学院数学与系统科学研究院",
@@ -698,7 +681,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 经济与管理学院和中国科学院数学与系统科学研究院"
     },
     {
-      "id": "ddl-2026-149wajj-41",
+      "id": "ddl-2026-149wajj-40",
       "year": "2026",
       "school": "中国科学院",
       "dept": "分子细胞科学卓越创新中心",
@@ -715,7 +698,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 分子细胞科学卓越创新中心"
     },
     {
-      "id": "ddl-2026-0gge2g9-42",
+      "id": "ddl-2026-0gge2g9-41",
       "year": "2026",
       "school": "清华大学",
       "dept": "生命学院",
@@ -732,7 +715,7 @@ window.BOLU_DDL = {
       "search": "清华大学 生命学院"
     },
     {
-      "id": "ddl-2026-158z8pg-43",
+      "id": "ddl-2026-158z8pg-42",
       "year": "2026",
       "school": "中国科学院",
       "dept": "东北地理与农业生态研究所",
@@ -749,7 +732,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 东北地理与农业生态研究所"
     },
     {
-      "id": "ddl-2026-1jeg8fp-44",
+      "id": "ddl-2026-1jeg8fp-43",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "应急管理科学与工程学院",
@@ -766,7 +749,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 应急管理科学与工程学院"
     },
     {
-      "id": "ddl-2026-0b0kba6-45",
+      "id": "ddl-2026-0b0kba6-44",
       "year": "2026",
       "school": "清华大学",
       "dept": "电子工程系信息光电子研究所",
@@ -783,7 +766,7 @@ window.BOLU_DDL = {
       "search": "清华大学 电子工程系信息光电子研究所"
     },
     {
-      "id": "ddl-2026-17um29x-46",
+      "id": "ddl-2026-17um29x-45",
       "year": "2026",
       "school": "北京师范大学",
       "dept": "教育学部教育技术学院",
@@ -800,7 +783,7 @@ window.BOLU_DDL = {
       "search": "北京师范大学 教育学部教育技术学院"
     },
     {
-      "id": "ddl-2026-0maqac3-47",
+      "id": "ddl-2026-0maqac3-46",
       "year": "2026",
       "school": "深圳零一学院",
       "dept": "微纳与智造学域",
@@ -817,7 +800,7 @@ window.BOLU_DDL = {
       "search": "深圳零一学院 微纳与智造学域"
     },
     {
-      "id": "ddl-2026-04p9ot1-48",
+      "id": "ddl-2026-04p9ot1-47",
       "year": "2026",
       "school": "中国原子能科学研究院",
       "dept": "核物理研究所",
@@ -834,7 +817,7 @@ window.BOLU_DDL = {
       "search": "中国原子能科学研究院 核物理研究所"
     },
     {
-      "id": "ddl-2026-0gbmr3t-49",
+      "id": "ddl-2026-0gbmr3t-48",
       "year": "2026",
       "school": "中国科学院",
       "dept": "地质与地球物理研究所",
@@ -851,7 +834,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 地质与地球物理研究所"
     },
     {
-      "id": "ddl-2026-0kbccwa-50",
+      "id": "ddl-2026-0kbccwa-49",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "工程科学学院",
@@ -868,7 +851,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 工程科学学院"
     },
     {
-      "id": "ddl-2026-1jmqd7p-51",
+      "id": "ddl-2026-1jmqd7p-50",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "自动化科学与工程学院",
@@ -885,7 +868,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 自动化科学与工程学院"
     },
     {
-      "id": "ddl-2026-15jvkyk-52",
+      "id": "ddl-2026-15jvkyk-51",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电子与信息学部-电子科学与工程学院",
@@ -902,7 +885,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电子与信息学部-电子科学与工程学院"
     },
     {
-      "id": "ddl-2026-1y7vo9v-53",
+      "id": "ddl-2026-1y7vo9v-52",
       "year": "2026",
       "school": "浙江大学",
       "dept": "转化医学研究院",
@@ -919,7 +902,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 转化医学研究院"
     },
     {
-      "id": "ddl-2026-1xtochw-54",
+      "id": "ddl-2026-1xtochw-53",
       "year": "2026",
       "school": "中国科学院",
       "dept": "武汉岩土力学研究所",
@@ -936,7 +919,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 武汉岩土力学研究所"
     },
     {
-      "id": "ddl-2026-0to8jqb-55",
+      "id": "ddl-2026-0to8jqb-54",
       "year": "2026",
       "school": "北京大学",
       "dept": "前沿交叉学科研究院",
@@ -953,7 +936,7 @@ window.BOLU_DDL = {
       "search": "北京大学 前沿交叉学科研究院"
     },
     {
-      "id": "ddl-2026-0m95w4d-56",
+      "id": "ddl-2026-0m95w4d-55",
       "year": "2026",
       "school": "北京大学",
       "dept": "大数据科学研究中心",
@@ -970,7 +953,7 @@ window.BOLU_DDL = {
       "search": "北京大学 大数据科学研究中心"
     },
     {
-      "id": "ddl-2026-1xoh9w3-57",
+      "id": "ddl-2026-1xoh9w3-56",
       "year": "2026",
       "school": "北京大学",
       "dept": "未来技术学院",
@@ -987,7 +970,7 @@ window.BOLU_DDL = {
       "search": "北京大学 未来技术学院"
     },
     {
-      "id": "ddl-2026-1vd7dkh-58",
+      "id": "ddl-2026-1vd7dkh-57",
       "year": "2026",
       "school": "中国科学院",
       "dept": "精密测量科学与技术创新研究院",
@@ -1004,7 +987,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 精密测量科学与技术创新研究院"
     },
     {
-      "id": "ddl-2026-032dk0q-59",
+      "id": "ddl-2026-032dk0q-58",
       "year": "2026",
       "school": "北京脑科学与类脑研究所",
       "dept": "2026脑科学前沿探索·卓越人才夏令营",
@@ -1021,7 +1004,7 @@ window.BOLU_DDL = {
       "search": "北京脑科学与类脑研究所 2026脑科学前沿探索·卓越人才夏令营"
     },
     {
-      "id": "ddl-2026-0nkcge3-60",
+      "id": "ddl-2026-0nkcge3-59",
       "year": "2026",
       "school": "北京协和医学院",
       "dept": "脑和类脑学院",
@@ -1038,7 +1021,7 @@ window.BOLU_DDL = {
       "search": "北京协和医学院 脑和类脑学院"
     },
     {
-      "id": "ddl-2026-0hnag59-61",
+      "id": "ddl-2026-0hnag59-60",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "创新创意设计学院",
@@ -1055,7 +1038,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 创新创意设计学院"
     },
     {
-      "id": "ddl-2026-0urrx66-62",
+      "id": "ddl-2026-0urrx66-61",
       "year": "2026",
       "school": "北京大学",
       "dept": "电子学院",
@@ -1072,7 +1055,7 @@ window.BOLU_DDL = {
       "search": "北京大学 电子学院"
     },
     {
-      "id": "ddl-2026-1dniub7-63",
+      "id": "ddl-2026-1dniub7-62",
       "year": "2026",
       "school": "北京大学",
       "dept": "集成电路学院",
@@ -1089,7 +1072,7 @@ window.BOLU_DDL = {
       "search": "北京大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-0t4wdyb-64",
+      "id": "ddl-2026-0t4wdyb-63",
       "year": "2026",
       "school": "北京大学",
       "dept": "智能学院",
@@ -1106,7 +1089,7 @@ window.BOLU_DDL = {
       "search": "北京大学 智能学院"
     },
     {
-      "id": "ddl-2026-0w2niys-65",
+      "id": "ddl-2026-0w2niys-64",
       "year": "2026",
       "school": "北京大学",
       "dept": "计算机学院",
@@ -1123,7 +1106,7 @@ window.BOLU_DDL = {
       "search": "北京大学 计算机学院"
     },
     {
-      "id": "ddl-2026-0lwh7cn-66",
+      "id": "ddl-2026-0lwh7cn-65",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "杭州高等研究院智能科学与技术学院",
@@ -1140,7 +1123,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 杭州高等研究院智能科学与技术学院"
     },
     {
-      "id": "ddl-2026-09ppj3x-67",
+      "id": "ddl-2026-09ppj3x-66",
       "year": "2026",
       "school": "中国科学院",
       "dept": "上海天文台",
@@ -1157,7 +1140,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 上海天文台"
     },
     {
-      "id": "ddl-2026-0owfuvh-68",
+      "id": "ddl-2026-0owfuvh-67",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "人文与社会科学学院",
@@ -1174,7 +1157,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 人文与社会科学学院"
     },
     {
-      "id": "ddl-2026-0n0vru9-69",
+      "id": "ddl-2026-06p4k3n-68",
       "year": "2026",
       "school": "中国科学院",
       "dept": "国家纳米科学中心",
@@ -1183,15 +1166,15 @@ window.BOLU_DDL = {
       "deadline": "2026-06-15T00:00:00+08:00",
       "start": "",
       "openConfirmed": "false",
-      "validity": "review",
-      "url": "",
+      "validity": "normal",
+      "url": "http://www.xjipc.cahttp//edu.nanoctr.cas.cn/zs/zsxx/xlyzs/202605/t20260512_837470.htmls.cn/yjs/tzgg/202605/t20260511_8199711.html",
       "applyUrl": "",
       "note": "",
       "checked": "",
       "search": "中国科学院 国家纳米科学中心"
     },
     {
-      "id": "ddl-2026-0naejtu-70",
+      "id": "ddl-2026-0naejtu-69",
       "year": "2026",
       "school": "中国科学院",
       "dept": "生物物理研究所",
@@ -1208,7 +1191,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 生物物理研究所"
     },
     {
-      "id": "ddl-2026-1q4kcxk-71",
+      "id": "ddl-2026-1q4kcxk-70",
       "year": "2026",
       "school": "清华大学",
       "dept": "神经调控国家工程研究中心",
@@ -1225,7 +1208,7 @@ window.BOLU_DDL = {
       "search": "清华大学 神经调控国家工程研究中心"
     },
     {
-      "id": "ddl-2026-1dbgq7d-72",
+      "id": "ddl-2026-1dbgq7d-71",
       "year": "2026",
       "school": "中国科学院",
       "dept": "国家天文台",
@@ -1242,7 +1225,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 国家天文台"
     },
     {
-      "id": "ddl-2026-0pooh07-73",
+      "id": "ddl-2026-0pooh07-72",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "仪器科学与技术学院",
@@ -1259,7 +1242,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 仪器科学与技术学院"
     },
     {
-      "id": "ddl-2026-1jnoz95-74",
+      "id": "ddl-2026-1jnoz95-73",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电信学部-软件学院",
@@ -1276,7 +1259,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电信学部-软件学院"
     },
     {
-      "id": "ddl-2026-0syf3hr-75",
+      "id": "ddl-2026-0syf3hr-74",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电信学部-信息与通信工程学院",
@@ -1293,7 +1276,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电信学部-信息与通信工程学院"
     },
     {
-      "id": "ddl-2026-1nui0xb-76",
+      "id": "ddl-2026-1nui0xb-75",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电信学部-微电子学院",
@@ -1310,7 +1293,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电信学部-微电子学院"
     },
     {
-      "id": "ddl-2026-1r6fmig-77",
+      "id": "ddl-2026-1r6fmig-76",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "计算机科学与技术学院",
@@ -1327,7 +1310,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-1xa06wo-78",
+      "id": "ddl-2026-1xa06wo-77",
       "year": "2026",
       "school": "北京师范大学",
       "dept": "政府管理学院信息资源管理专业",
@@ -1344,7 +1327,7 @@ window.BOLU_DDL = {
       "search": "北京师范大学 政府管理学院信息资源管理专业"
     },
     {
-      "id": "ddl-2026-1d21s1t-79",
+      "id": "ddl-2026-1d21s1t-78",
       "year": "2026",
       "school": "北京大学",
       "dept": "数学科学学院大数据",
@@ -1361,7 +1344,7 @@ window.BOLU_DDL = {
       "search": "北京大学 数学科学学院大数据"
     },
     {
-      "id": "ddl-2026-1j49k3s-80",
+      "id": "ddl-2026-1j49k3s-79",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "计算机科学与技术学科",
@@ -1378,7 +1361,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 计算机科学与技术学科"
     },
     {
-      "id": "ddl-2026-12vef4z-81",
+      "id": "ddl-2026-12vef4z-80",
       "year": "2026",
       "school": "厦门大学",
       "dept": "化学化工学院",
@@ -1395,7 +1378,7 @@ window.BOLU_DDL = {
       "search": "厦门大学 化学化工学院"
     },
     {
-      "id": "ddl-2026-1p7v1o5-82",
+      "id": "ddl-2026-1p7v1o5-81",
       "year": "2026",
       "school": "上海人工智能实验室",
       "dept": "",
@@ -1412,7 +1395,7 @@ window.BOLU_DDL = {
       "search": "上海人工智能实验室"
     },
     {
-      "id": "ddl-2026-0vvqdvk-83",
+      "id": "ddl-2026-0vvqdvk-82",
       "year": "2026",
       "school": "北京师范大学",
       "dept": "地理科学学部-遥感科学与技术",
@@ -1429,7 +1412,7 @@ window.BOLU_DDL = {
       "search": "北京师范大学 地理科学学部-遥感科学与技术"
     },
     {
-      "id": "ddl-2026-1960cw8-84",
+      "id": "ddl-2026-1960cw8-83",
       "year": "2026",
       "school": "浙江大学",
       "dept": "光电科学与工程学院",
@@ -1446,7 +1429,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 光电科学与工程学院"
     },
     {
-      "id": "ddl-2026-1aadv65-85",
+      "id": "ddl-2026-1aadv65-84",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "数学科学学院",
@@ -1463,7 +1446,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 数学科学学院"
     },
     {
-      "id": "ddl-2026-146aekn-86",
+      "id": "ddl-2026-146aekn-85",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "前沿科学技术研究院",
@@ -1480,7 +1463,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 前沿科学技术研究院"
     },
     {
-      "id": "ddl-2026-0elv74z-87",
+      "id": "ddl-2026-0elv74z-86",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "杭州高等研究院生命与健康科学学院",
@@ -1497,7 +1480,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 杭州高等研究院生命与健康科学学院"
     },
     {
-      "id": "ddl-2026-06uivfz-88",
+      "id": "ddl-2026-06uivfz-87",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电气工程学院",
@@ -1514,7 +1497,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-0qifxlh-89",
+      "id": "ddl-2026-0qifxlh-88",
       "year": "2026",
       "school": "华东政法大学",
       "dept": "知识产权学院",
@@ -1531,7 +1514,7 @@ window.BOLU_DDL = {
       "search": "华东政法大学 知识产权学院"
     },
     {
-      "id": "ddl-2026-1fl6fy0-90",
+      "id": "ddl-2026-1fl6fy0-89",
       "year": "2026",
       "school": "北京师范大学",
       "dept": "未来技术学院",
@@ -1548,7 +1531,7 @@ window.BOLU_DDL = {
       "search": "北京师范大学 未来技术学院"
     },
     {
-      "id": "ddl-2026-1bv6i7p-91",
+      "id": "ddl-2026-1bv6i7p-90",
       "year": "2026",
       "school": "广东工业大学",
       "dept": "信息工程学院",
@@ -1565,7 +1548,7 @@ window.BOLU_DDL = {
       "search": "广东工业大学 信息工程学院"
     },
     {
-      "id": "ddl-2026-0ej6bxe-92",
+      "id": "ddl-2026-0ej6bxe-91",
       "year": "2026",
       "school": "北京师范大学",
       "dept": "系统科学学院",
@@ -1582,7 +1565,7 @@ window.BOLU_DDL = {
       "search": "北京师范大学 系统科学学院"
     },
     {
-      "id": "ddl-2026-0xvrxre-93",
+      "id": "ddl-2026-0xvrxre-92",
       "year": "2026",
       "school": "北京大学",
       "dept": "城市规划与设计学院",
@@ -1599,7 +1582,7 @@ window.BOLU_DDL = {
       "search": "北京大学 城市规划与设计学院"
     },
     {
-      "id": "ddl-2026-0rjb3j0-94",
+      "id": "ddl-2026-0rjb3j0-93",
       "year": "2026",
       "school": "山东大学",
       "dept": "空间科学与技术学院",
@@ -1616,7 +1599,7 @@ window.BOLU_DDL = {
       "search": "山东大学 空间科学与技术学院"
     },
     {
-      "id": "ddl-2026-05jbywn-95",
+      "id": "ddl-2026-05jbywn-94",
       "year": "2026",
       "school": "吉林大学",
       "dept": "电子科学与工程学院",
@@ -1633,7 +1616,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 电子科学与工程学院"
     },
     {
-      "id": "ddl-2026-042nqkm-96",
+      "id": "ddl-2026-042nqkm-95",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "生命科学与技术学院",
@@ -1650,7 +1633,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 生命科学与技术学院"
     },
     {
-      "id": "ddl-2026-0z6gvd2-97",
+      "id": "ddl-2026-0z6gvd2-96",
       "year": "2026",
       "school": "中国科学院",
       "dept": "微小卫星创新研究院",
@@ -1667,7 +1650,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 微小卫星创新研究院"
     },
     {
-      "id": "ddl-2026-0m2jm5p-98",
+      "id": "ddl-2026-0m2jm5p-97",
       "year": "2026",
       "school": "湖南科技大学",
       "dept": "计算机科学与工程学院",
@@ -1684,7 +1667,7 @@ window.BOLU_DDL = {
       "search": "湖南科技大学 计算机科学与工程学院"
     },
     {
-      "id": "ddl-2026-1foiepy-99",
+      "id": "ddl-2026-1foiepy-98",
       "year": "2026",
       "school": "湖南科技大学",
       "dept": "信息与电气工程学院",
@@ -1701,7 +1684,7 @@ window.BOLU_DDL = {
       "search": "湖南科技大学 信息与电气工程学院"
     },
     {
-      "id": "ddl-2026-1nbhcf3-100",
+      "id": "ddl-2026-1nbhcf3-99",
       "year": "2026",
       "school": "西湖大学",
       "dept": "交叉科学中心",
@@ -1718,7 +1701,7 @@ window.BOLU_DDL = {
       "search": "西湖大学 交叉科学中心"
     },
     {
-      "id": "ddl-2026-0503hu7-101",
+      "id": "ddl-2026-0503hu7-100",
       "year": "2026",
       "school": "中国科学院",
       "dept": "上海硅酸盐研究所",
@@ -1735,7 +1718,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 上海硅酸盐研究所"
     },
     {
-      "id": "ddl-2026-0eurqeh-102",
+      "id": "ddl-2026-0eurqeh-101",
       "year": "2026",
       "school": "中国科学院",
       "dept": "南海海洋研究所",
@@ -1752,7 +1735,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 南海海洋研究所"
     },
     {
-      "id": "ddl-2026-19jzbta-103",
+      "id": "ddl-2026-19jzbta-102",
       "year": "2026",
       "school": "中国科学院",
       "dept": "宁波材料所",
@@ -1769,7 +1752,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 宁波材料所"
     },
     {
-      "id": "ddl-2026-1vwzfbv-104",
+      "id": "ddl-2026-1vwzfbv-103",
       "year": "2026",
       "school": "中国科学院",
       "dept": "上海营养与健康研究所",
@@ -1786,7 +1769,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 上海营养与健康研究所"
     },
     {
-      "id": "ddl-2026-0o2pjzj-105",
+      "id": "ddl-2026-0o2pjzj-104",
       "year": "2026",
       "school": "中国科学院",
       "dept": "遗传发育所2026年“筑梦科学”大学生夏令营",
@@ -1803,7 +1786,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 遗传发育所2026年“筑梦科学”大学生夏令营"
     },
     {
-      "id": "ddl-2026-0uiiz07-106",
+      "id": "ddl-2026-0uiiz07-105",
       "year": "2026",
       "school": "中国科学院",
       "dept": "高能物理研究所2026年全国大学生夏令营及暑期学校活动",
@@ -1820,7 +1803,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 高能物理研究所2026年全国大学生夏令营及暑期学校活动"
     },
     {
-      "id": "ddl-2026-08a5jlf-107",
+      "id": "ddl-2026-08a5jlf-106",
       "year": "2026",
       "school": "中国科学院",
       "dept": "上海微系统与信息技术研究所2026年全国优秀大学生暑期学术夏令营",
@@ -1837,7 +1820,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 上海微系统与信息技术研究所2026年全国优秀大学生暑期学术夏令营"
     },
     {
-      "id": "ddl-2026-1b68o0n-108",
+      "id": "ddl-2026-1b68o0n-107",
       "year": "2026",
       "school": "中国科学院",
       "dept": "2026年上海技术物理研究所“红外筑梦”优秀大学生夏令营",
@@ -1854,7 +1837,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 2026年上海技术物理研究所“红外筑梦”优秀大学生夏令营"
     },
     {
-      "id": "ddl-2026-1icck99-109",
+      "id": "ddl-2026-1icck99-108",
       "year": "2026",
       "school": "中国科学院",
       "dept": "云南天文台",
@@ -1871,7 +1854,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 云南天文台"
     },
     {
-      "id": "ddl-2026-06lvqzp-110",
+      "id": "ddl-2026-06lvqzp-109",
       "year": "2026",
       "school": "中国科学院",
       "dept": "昆明动物研究所",
@@ -1888,7 +1871,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 昆明动物研究所"
     },
     {
-      "id": "ddl-2026-0fteww0-111",
+      "id": "ddl-2026-0fteww0-110",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "生物医学工程系",
@@ -1905,7 +1888,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 生物医学工程系"
     },
     {
-      "id": "ddl-2026-15ufsww-112",
+      "id": "ddl-2026-15ufsww-111",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "材料科学与工程学院",
@@ -1922,7 +1905,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 材料科学与工程学院"
     },
     {
-      "id": "ddl-2026-1bdmqg8-113",
+      "id": "ddl-2026-1bdmqg8-112",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "计算机科学与技术学院",
@@ -1939,7 +1922,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-1p8ld3k-114",
+      "id": "ddl-2026-1p8ld3k-113",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "人居环境与建筑工程学院",
@@ -1956,7 +1939,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 人居环境与建筑工程学院"
     },
     {
-      "id": "ddl-2026-0c4hllw-115",
+      "id": "ddl-2026-0c4hllw-114",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "光电学院",
@@ -1973,7 +1956,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 光电学院"
     },
     {
-      "id": "ddl-2026-05xfm8o-116",
+      "id": "ddl-2026-05xfm8o-115",
       "year": "2026",
       "school": "浙江大学",
       "dept": "环境与资源学院",
@@ -1990,7 +1973,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 环境与资源学院"
     },
     {
-      "id": "ddl-2026-0ygjba0-117",
+      "id": "ddl-2026-0ygjba0-116",
       "year": "2026",
       "school": "浙江大学",
       "dept": "数据科学研究中心",
@@ -2007,7 +1990,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 数据科学研究中心"
     },
     {
-      "id": "ddl-2026-19lxh81-118",
+      "id": "ddl-2026-19lxh81-117",
       "year": "2026",
       "school": "浙江大学",
       "dept": "国际联合商学院",
@@ -2024,7 +2007,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 国际联合商学院"
     },
     {
-      "id": "ddl-2026-01vppoi-119",
+      "id": "ddl-2026-01vppoi-118",
       "year": "2026",
       "school": "浙江大学",
       "dept": "航空航天学院",
@@ -2041,7 +2024,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 航空航天学院"
     },
     {
-      "id": "ddl-2026-0x99tzy-120",
+      "id": "ddl-2026-0x99tzy-119",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "电气工程及自动化学院",
@@ -2058,7 +2041,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 电气工程及自动化学院"
     },
     {
-      "id": "ddl-2026-1mcuoca-121",
+      "id": "ddl-2026-1mcuoca-120",
       "year": "2026",
       "school": "吉林大学",
       "dept": "汽车工程学院",
@@ -2075,7 +2058,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 汽车工程学院"
     },
     {
-      "id": "ddl-2026-00czl50-122",
+      "id": "ddl-2026-00czl50-121",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "华大专项",
@@ -2092,7 +2075,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 华大专项"
     },
     {
-      "id": "ddl-2026-0u0eu2l-123",
+      "id": "ddl-2026-0u0eu2l-122",
       "year": "2026",
       "school": "吉林大学",
       "dept": "人工智能学院",
@@ -2109,7 +2092,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-14ggtjk-124",
+      "id": "ddl-2026-14ggtjk-123",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "自动化与智能制造学院",
@@ -2126,7 +2109,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 自动化与智能制造学院"
     },
     {
-      "id": "ddl-2026-0q1jipz-125",
+      "id": "ddl-2026-0q1jipz-124",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "火灾安全全国重点实验室",
@@ -2143,7 +2126,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 火灾安全全国重点实验室"
     },
     {
-      "id": "ddl-2026-1i5jnmx-126",
+      "id": "ddl-2026-1i5jnmx-125",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "信息科学与技术学院",
@@ -2160,7 +2143,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 信息科学与技术学院"
     },
     {
-      "id": "ddl-2026-0zdvq2x-127",
+      "id": "ddl-2026-0zdvq2x-126",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "信息科学与技术学院",
@@ -2177,7 +2160,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 信息科学与技术学院"
     },
     {
-      "id": "ddl-2026-1eb4sgx-128",
+      "id": "ddl-2026-1eb4sgx-127",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "半导体学院（国家卓越工程师学院）",
@@ -2194,7 +2177,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 半导体学院（国家卓越工程师学院）"
     },
     {
-      "id": "ddl-2026-0sktwhh-129",
+      "id": "ddl-2026-0sktwhh-128",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "电子与电气工程系",
@@ -2211,7 +2194,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 电子与电气工程系"
     },
     {
-      "id": "ddl-2026-09ziqmy-130",
+      "id": "ddl-2026-09ziqmy-129",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "集成电路学院",
@@ -2228,7 +2211,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-0fr8e3u-131",
+      "id": "ddl-2026-0fr8e3u-130",
       "year": "2026",
       "school": "浙江大学",
       "dept": "生物系统工程与食品科学学院",
@@ -2245,7 +2228,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 生物系统工程与食品科学学院"
     },
     {
-      "id": "ddl-2026-1rdp6lj-132",
+      "id": "ddl-2026-1rdp6lj-131",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "杭州高等研究院药物科学与技术学院",
@@ -2262,7 +2245,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 杭州高等研究院药物科学与技术学院"
     },
     {
-      "id": "ddl-2026-1scmskj-133",
+      "id": "ddl-2026-1scmskj-132",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "杭州高等研究院分子医学院",
@@ -2279,7 +2262,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 杭州高等研究院分子医学院"
     },
     {
-      "id": "ddl-2026-0jiurnx-134",
+      "id": "ddl-2026-0jiurnx-133",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "深港微电子学院",
@@ -2296,7 +2279,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 深港微电子学院"
     },
     {
-      "id": "ddl-2026-0a295ry-135",
+      "id": "ddl-2026-0a295ry-134",
       "year": "2026",
       "school": "北京大学",
       "dept": "统计科学中心",
@@ -2313,7 +2296,7 @@ window.BOLU_DDL = {
       "search": "北京大学 统计科学中心"
     },
     {
-      "id": "ddl-2026-0dq5y16-136",
+      "id": "ddl-2026-0dq5y16-135",
       "year": "2026",
       "school": "香港科技大学（广州）",
       "dept": "系统枢纽-智能交通学域",
@@ -2330,7 +2313,7 @@ window.BOLU_DDL = {
       "search": "香港科技大学（广州） 系统枢纽-智能交通学域"
     },
     {
-      "id": "ddl-2026-1srsgax-137",
+      "id": "ddl-2026-1srsgax-136",
       "year": "2026",
       "school": "北京师范大学",
       "dept": "地理科学学部-全球变化",
@@ -2347,7 +2330,7 @@ window.BOLU_DDL = {
       "search": "北京师范大学 地理科学学部-全球变化"
     },
     {
-      "id": "ddl-2026-05lv7sl-138",
+      "id": "ddl-2026-05lv7sl-137",
       "year": "2026",
       "school": "中国科学院",
       "dept": "杭州医学研究所",
@@ -2364,7 +2347,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 杭州医学研究所"
     },
     {
-      "id": "ddl-2026-1sseb76-139",
+      "id": "ddl-2026-1sseb76-138",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "华大专项",
@@ -2381,7 +2364,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 华大专项"
     },
     {
-      "id": "ddl-2026-0c1y4ld-140",
+      "id": "ddl-2026-0c1y4ld-139",
       "year": "2026",
       "school": "北京师范大学",
       "dept": "心理学部",
@@ -2398,7 +2381,7 @@ window.BOLU_DDL = {
       "search": "北京师范大学 心理学部"
     },
     {
-      "id": "ddl-2026-0iz6x0v-141",
+      "id": "ddl-2026-0iz6x0v-140",
       "year": "2026",
       "school": "北京协和医学院",
       "dept": "卫生健康管理政策学院",
@@ -2415,7 +2398,7 @@ window.BOLU_DDL = {
       "search": "北京协和医学院 卫生健康管理政策学院"
     },
     {
-      "id": "ddl-2026-0ssdtim-142",
+      "id": "ddl-2026-0ssdtim-141",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "生命科学和医学学部",
@@ -2432,7 +2415,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 生命科学和医学学部"
     },
     {
-      "id": "ddl-2026-0wbe4ga-143",
+      "id": "ddl-2026-0wbe4ga-142",
       "year": "2026",
       "school": "四川大学",
       "dept": "医学前沿科学中心",
@@ -2449,7 +2432,7 @@ window.BOLU_DDL = {
       "search": "四川大学 医学前沿科学中心"
     },
     {
-      "id": "ddl-2026-0d6b1og-144",
+      "id": "ddl-2026-0d6b1og-143",
       "year": "2026",
       "school": "香港科技大学（广州）",
       "dept": "机器人与自主系统学域",
@@ -2466,7 +2449,7 @@ window.BOLU_DDL = {
       "search": "香港科技大学（广州） 机器人与自主系统学域"
     },
     {
-      "id": "ddl-2026-0cvuh4h-145",
+      "id": "ddl-2026-0cvuh4h-144",
       "year": "2026",
       "school": "华中科技大学",
       "dept": "管理学院",
@@ -2483,7 +2466,7 @@ window.BOLU_DDL = {
       "search": "华中科技大学 管理学院"
     },
     {
-      "id": "ddl-2026-11w3m96-146",
+      "id": "ddl-2026-11w3m96-145",
       "year": "2026",
       "school": "四川大学",
       "dept": "华西临床流行病学与循证医学中心",
@@ -2500,7 +2483,7 @@ window.BOLU_DDL = {
       "search": "四川大学 华西临床流行病学与循证医学中心"
     },
     {
-      "id": "ddl-2026-0betesf-147",
+      "id": "ddl-2026-0betesf-146",
       "year": "2026",
       "school": "吉林大学",
       "dept": "计算机科学与技术学院",
@@ -2517,7 +2500,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-0gcvzws-148",
+      "id": "ddl-2026-0gcvzws-147",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "经济管理学院",
@@ -2534,7 +2517,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 经济管理学院"
     },
     {
-      "id": "ddl-2026-1xjyf1m-149",
+      "id": "ddl-2026-1xjyf1m-148",
       "year": "2026",
       "school": "北京师范大学",
       "dept": "人工智能学院",
@@ -2551,7 +2534,7 @@ window.BOLU_DDL = {
       "search": "北京师范大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0ibpckx-150",
+      "id": "ddl-2026-0ibpckx-149",
       "year": "2026",
       "school": "浙江大学",
       "dept": "生物医学工程与仪器科学学院",
@@ -2568,7 +2551,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 生物医学工程与仪器科学学院"
     },
     {
-      "id": "ddl-2026-1lvible-151",
+      "id": "ddl-2026-1lvible-150",
       "year": "2026",
       "school": "怀柔国家实验室",
       "dept": "",
@@ -2585,24 +2568,7 @@ window.BOLU_DDL = {
       "search": "怀柔国家实验室"
     },
     {
-      "id": "ddl-2026-01t8308-152",
-      "year": "2026",
-      "school": "崖州湾国家实验室",
-      "dept": "",
-      "dateText": "2026/6/22 17:00",
-      "precision": "exact",
-      "deadline": "2026-06-22T17:00:00+08:00",
-      "start": "",
-      "openConfirmed": "false",
-      "validity": "normal",
-      "url": "https://mp.weixin.qq.com/s/M2ROqJEkC8Ayp5Rra8Hl5Q",
-      "applyUrl": "",
-      "note": "",
-      "checked": "",
-      "search": "崖州湾国家实验室"
-    },
-    {
-      "id": "ddl-2026-18cfs6a-153",
+      "id": "ddl-2026-18cfs6a-151",
       "year": "2026",
       "school": "北京大学",
       "dept": "深圳研究生院新材料学院",
@@ -2619,7 +2585,7 @@ window.BOLU_DDL = {
       "search": "北京大学 深圳研究生院新材料学院"
     },
     {
-      "id": "ddl-2026-03rosp0-154",
+      "id": "ddl-2026-03rosp0-152",
       "year": "2026",
       "school": "北京大学",
       "dept": "新材料学院",
@@ -2636,7 +2602,7 @@ window.BOLU_DDL = {
       "search": "北京大学 新材料学院"
     },
     {
-      "id": "ddl-2026-08hfogq-155",
+      "id": "ddl-2026-08hfogq-153",
       "year": "2026",
       "school": "中国科学院",
       "dept": "新疆天文台2026年“情系苍穹”大学生夏令营",
@@ -2653,7 +2619,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 新疆天文台2026年“情系苍穹”大学生夏令营"
     },
     {
-      "id": "ddl-2026-0gvb2xt-156",
+      "id": "ddl-2026-0gvb2xt-154",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "机械与能源工程系",
@@ -2670,7 +2636,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 机械与能源工程系"
     },
     {
-      "id": "ddl-2026-1audkvr-157",
+      "id": "ddl-2026-1audkvr-155",
       "year": "2026",
       "school": "中国科学院",
       "dept": "软件研究所",
@@ -2687,7 +2653,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 软件研究所"
     },
     {
-      "id": "ddl-2026-0ut7ihr-158",
+      "id": "ddl-2026-0ut7ihr-156",
       "year": "2026",
       "school": "中国科学院",
       "dept": "沈阳计算技术研究所",
@@ -2704,7 +2670,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 沈阳计算技术研究所"
     },
     {
-      "id": "ddl-2026-1kaskqu-159",
+      "id": "ddl-2026-1kaskqu-157",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "计算学部",
@@ -2721,7 +2687,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 计算学部"
     },
     {
-      "id": "ddl-2026-09t4g1n-160",
+      "id": "ddl-2026-09t4g1n-158",
       "year": "2026",
       "school": "北京大学",
       "dept": "基础医学院",
@@ -2738,7 +2704,7 @@ window.BOLU_DDL = {
       "search": "北京大学 基础医学院"
     },
     {
-      "id": "ddl-2026-1m0z0fk-161",
+      "id": "ddl-2026-1m0z0fk-159",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "深源英才",
@@ -2755,7 +2721,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 深源英才"
     },
     {
-      "id": "ddl-2026-11nkml5-162",
+      "id": "ddl-2026-11nkml5-160",
       "year": "2026",
       "school": "中国科学院",
       "dept": "声学研究所东海研究站",
@@ -2772,9 +2738,9 @@ window.BOLU_DDL = {
       "search": "中国科学院 声学研究所东海研究站"
     },
     {
-      "id": "ddl-2026-1wjry30-163",
+      "id": "ddl-2026-1trd5kg-161",
       "year": "2026",
-      "school": "深海技术科学太湖实验室",
+      "school": "太湖实验室",
       "dept": "",
       "dateText": "2026/6/22 0:00",
       "precision": "exact",
@@ -2786,10 +2752,10 @@ window.BOLU_DDL = {
       "applyUrl": "",
       "note": "",
       "checked": "",
-      "search": "深海技术科学太湖实验室"
+      "search": "太湖实验室"
     },
     {
-      "id": "ddl-2026-0bejo5z-164",
+      "id": "ddl-2026-0bejo5z-162",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "信息科学技术学院",
@@ -2806,7 +2772,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 信息科学技术学院"
     },
     {
-      "id": "ddl-2026-04lnkll-165",
+      "id": "ddl-2026-04lnkll-163",
       "year": "2026",
       "school": "山东大学",
       "dept": "软件学院",
@@ -2823,7 +2789,7 @@ window.BOLU_DDL = {
       "search": "山东大学 软件学院"
     },
     {
-      "id": "ddl-2026-0spdf0h-166",
+      "id": "ddl-2026-0spdf0h-164",
       "year": "2026",
       "school": "北京大学",
       "dept": "环境与能源学院",
@@ -2840,7 +2806,7 @@ window.BOLU_DDL = {
       "search": "北京大学 环境与能源学院"
     },
     {
-      "id": "ddl-2026-0nmkl9s-167",
+      "id": "ddl-2026-0nmkl9s-165",
       "year": "2026",
       "school": "北京大学",
       "dept": "临床医学高等研究院",
@@ -2857,7 +2823,7 @@ window.BOLU_DDL = {
       "search": "北京大学 临床医学高等研究院"
     },
     {
-      "id": "ddl-2026-0ft57ay-168",
+      "id": "ddl-2026-0ft57ay-166",
       "year": "2026",
       "school": "北京大学",
       "dept": "医学部医学技术研究院",
@@ -2874,7 +2840,7 @@ window.BOLU_DDL = {
       "search": "北京大学 医学部医学技术研究院"
     },
     {
-      "id": "ddl-2026-1dkrkh0-169",
+      "id": "ddl-2026-1dkrkh0-167",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "心理学系",
@@ -2891,7 +2857,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 心理学系"
     },
     {
-      "id": "ddl-2026-06zpwi8-170",
+      "id": "ddl-2026-06zpwi8-168",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "生命科学学院",
@@ -2908,7 +2874,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 生命科学学院"
     },
     {
-      "id": "ddl-2026-1tyt2rg-171",
+      "id": "ddl-2026-1tyt2rg-169",
       "year": "2026",
       "school": "北京大学",
       "dept": "软件与微电子学院",
@@ -2925,7 +2891,7 @@ window.BOLU_DDL = {
       "search": "北京大学 软件与微电子学院"
     },
     {
-      "id": "ddl-2026-1yfk3s2-172",
+      "id": "ddl-2026-1yfk3s2-170",
       "year": "2026",
       "school": "南京航空航天大学",
       "dept": "电子信息工程学院",
@@ -2942,7 +2908,7 @@ window.BOLU_DDL = {
       "search": "南京航空航天大学 电子信息工程学院"
     },
     {
-      "id": "ddl-2026-0hgybdq-173",
+      "id": "ddl-2026-0hgybdq-171",
       "year": "2026",
       "school": "中国科学院",
       "dept": "光电技术研究所",
@@ -2959,7 +2925,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 光电技术研究所"
     },
     {
-      "id": "ddl-2026-12qks1i-174",
+      "id": "ddl-2026-12qks1i-172",
       "year": "2026",
       "school": "四川大学",
       "dept": "法学院",
@@ -2976,7 +2942,7 @@ window.BOLU_DDL = {
       "search": "四川大学 法学院"
     },
     {
-      "id": "ddl-2026-04twstw-175",
+      "id": "ddl-2026-04twstw-173",
       "year": "2026",
       "school": "四川大学",
       "dept": "高分子科学与工程学院",
@@ -2993,7 +2959,7 @@ window.BOLU_DDL = {
       "search": "四川大学 高分子科学与工程学院"
     },
     {
-      "id": "ddl-2026-1kk8bhz-176",
+      "id": "ddl-2026-1kk8bhz-174",
       "year": "2026",
       "school": "吉林大学",
       "dept": "软件学院",
@@ -3010,7 +2976,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 软件学院"
     },
     {
-      "id": "ddl-2026-0ucdsoz-177",
+      "id": "ddl-2026-0ucdsoz-175",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "宇航学院",
@@ -3027,7 +2993,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 宇航学院"
     },
     {
-      "id": "ddl-2026-07maorj-178",
+      "id": "ddl-2026-07maorj-176",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "可靠性与系统工程学院",
@@ -3044,7 +3010,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 可靠性与系统工程学院"
     },
     {
-      "id": "ddl-2026-141tjev-179",
+      "id": "ddl-2026-141tjev-177",
       "year": "2026",
       "school": "四川大学",
       "dept": "计算机学院(软件学院)",
@@ -3061,7 +3027,7 @@ window.BOLU_DDL = {
       "search": "四川大学 计算机学院(软件学院)"
     },
     {
-      "id": "ddl-2026-1nuhg32-180",
+      "id": "ddl-2026-1nuhg32-178",
       "year": "2026",
       "school": "北京大学",
       "dept": "信息管理系",
@@ -3078,7 +3044,7 @@ window.BOLU_DDL = {
       "search": "北京大学 信息管理系"
     },
     {
-      "id": "ddl-2026-0q4wfrx-181",
+      "id": "ddl-2026-0q4wfrx-179",
       "year": "2026",
       "school": "浙江大学",
       "dept": "爱丁堡大学联合学院",
@@ -3095,7 +3061,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 爱丁堡大学联合学院"
     },
     {
-      "id": "ddl-2026-062tlum-182",
+      "id": "ddl-2026-062tlum-180",
       "year": "2026",
       "school": "厦门大学",
       "dept": "公共卫生学院",
@@ -3112,7 +3078,7 @@ window.BOLU_DDL = {
       "search": "厦门大学 公共卫生学院"
     },
     {
-      "id": "ddl-2026-0vizuzd-183",
+      "id": "ddl-2026-0vizuzd-181",
       "year": "2026",
       "school": "四川大学",
       "dept": "空天科学与工程学院",
@@ -3129,7 +3095,7 @@ window.BOLU_DDL = {
       "search": "四川大学 空天科学与工程学院"
     },
     {
-      "id": "ddl-2026-0wt8vau-184",
+      "id": "ddl-2026-0wt8vau-182",
       "year": "2026",
       "school": "中国科学院",
       "dept": "脑科学与智能技术卓越创新中心",
@@ -3146,7 +3112,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 脑科学与智能技术卓越创新中心"
     },
     {
-      "id": "ddl-2026-0lx285v-185",
+      "id": "ddl-2026-0lx285v-183",
       "year": "2026",
       "school": "中国科学院",
       "dept": "新疆理化所",
@@ -3163,7 +3129,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 新疆理化所"
     },
     {
-      "id": "ddl-2026-1m8tzae-186",
+      "id": "ddl-2026-1m8tzae-184",
       "year": "2026",
       "school": "中国科学院",
       "dept": "深海科学与工程研究所",
@@ -3180,7 +3146,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 深海科学与工程研究所"
     },
     {
-      "id": "ddl-2026-0fikt4p-187",
+      "id": "ddl-2026-0fikt4p-185",
       "year": "2026",
       "school": "浙江大学",
       "dept": "信息与电子工程学院",
@@ -3197,7 +3163,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 信息与电子工程学院"
     },
     {
-      "id": "ddl-2026-07q3hr2-188",
+      "id": "ddl-2026-07q3hr2-186",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "人工智能与数据科学学院",
@@ -3214,7 +3180,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 人工智能与数据科学学院"
     },
     {
-      "id": "ddl-2026-1uxuim5-189",
+      "id": "ddl-2026-1uxuim5-187",
       "year": "2026",
       "school": "浙江大学",
       "dept": "计算机学院",
@@ -3231,7 +3197,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 计算机学院"
     },
     {
-      "id": "ddl-2026-0p0iok1-190",
+      "id": "ddl-2026-0p0iok1-188",
       "year": "2026",
       "school": "浙江大学",
       "dept": "集成电路学院",
@@ -3248,7 +3214,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-0tn8p0m-191",
+      "id": "ddl-2026-0tn8p0m-189",
       "year": "2026",
       "school": "浙江大学",
       "dept": "网络空间安全学院",
@@ -3265,7 +3231,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-03udvos-192",
+      "id": "ddl-2026-03udvos-190",
       "year": "2026",
       "school": "中国科学院",
       "dept": "北京基因组研究所",
@@ -3282,7 +3248,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 北京基因组研究所"
     },
     {
-      "id": "ddl-2026-0cfj3o2-193",
+      "id": "ddl-2026-0cfj3o2-191",
       "year": "2026",
       "school": "北京大学",
       "dept": "信息工程学院",
@@ -3299,7 +3265,7 @@ window.BOLU_DDL = {
       "search": "北京大学 信息工程学院"
     },
     {
-      "id": "ddl-2026-0ebvp85-194",
+      "id": "ddl-2026-0ebvp85-192",
       "year": "2026",
       "school": "中山大学",
       "dept": "生物医学工程学院",
@@ -3316,7 +3282,7 @@ window.BOLU_DDL = {
       "search": "中山大学 生物医学工程学院"
     },
     {
-      "id": "ddl-2026-0ex1ibw-195",
+      "id": "ddl-2026-0ex1ibw-193",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "化工与化学学院",
@@ -3333,7 +3299,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 化工与化学学院"
     },
     {
-      "id": "ddl-2026-1tcl6sl-196",
+      "id": "ddl-2026-1tcl6sl-194",
       "year": "2026",
       "school": "中山大学",
       "dept": "电子与通信工程学院",
@@ -3350,7 +3316,7 @@ window.BOLU_DDL = {
       "search": "中山大学 电子与通信工程学院"
     },
     {
-      "id": "ddl-2026-0j88wx2-197",
+      "id": "ddl-2026-0j88wx2-195",
       "year": "2026",
       "school": "武汉大学",
       "dept": "人工智能学院",
@@ -3367,7 +3333,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0hhi9sj-198",
+      "id": "ddl-2026-0hhi9sj-196",
       "year": "2026",
       "school": "四川大学",
       "dept": "生物医学工程学院",
@@ -3384,7 +3350,7 @@ window.BOLU_DDL = {
       "search": "四川大学 生物医学工程学院"
     },
     {
-      "id": "ddl-2026-0oev03o-199",
+      "id": "ddl-2026-0oev03o-197",
       "year": "2026",
       "school": "西湖大学",
       "dept": "工学院",
@@ -3401,24 +3367,7 @@ window.BOLU_DDL = {
       "search": "西湖大学 工学院"
     },
     {
-      "id": "ddl-2026-0i89emd-200",
-      "year": "2026",
-      "school": "深圳医学科学院",
-      "dept": "深圳湾实验室",
-      "dateText": "2026/6/26 12:00",
-      "precision": "exact",
-      "deadline": "2026-06-26T12:00:00+08:00",
-      "start": "",
-      "openConfirmed": "false",
-      "validity": "normal",
-      "url": "https://mp.weixin.qq.com/s/ptJ7mekhcsK90vwgzncL5A",
-      "applyUrl": "",
-      "note": "",
-      "checked": "",
-      "search": "深圳医学科学院 深圳湾实验室"
-    },
-    {
-      "id": "ddl-2026-1kctr1p-201",
+      "id": "ddl-2026-1kctr1p-198",
       "year": "2026",
       "school": "中国科学院",
       "dept": "近代物理研究所",
@@ -3435,7 +3384,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 近代物理研究所"
     },
     {
-      "id": "ddl-2026-1hep5q6-202",
+      "id": "ddl-2026-1hep5q6-199",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "国家储能技术产教融合创新平台",
@@ -3452,7 +3401,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 国家储能技术产教融合创新平台"
     },
     {
-      "id": "ddl-2026-14i912b-203",
+      "id": "ddl-2026-14i912b-200",
       "year": "2026",
       "school": "中国科学院",
       "dept": "水生所",
@@ -3469,7 +3418,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 水生所"
     },
     {
-      "id": "ddl-2026-0lno7js-204",
+      "id": "ddl-2026-0lno7js-201",
       "year": "2026",
       "school": "山东大学",
       "dept": "信息科学与工程学院",
@@ -3486,7 +3435,7 @@ window.BOLU_DDL = {
       "search": "山东大学 信息科学与工程学院"
     },
     {
-      "id": "ddl-2026-1oga52s-205",
+      "id": "ddl-2026-1oga52s-202",
       "year": "2026",
       "school": "南京航空航天大学",
       "dept": "人工智能学院",
@@ -3503,7 +3452,7 @@ window.BOLU_DDL = {
       "search": "南京航空航天大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1vds3m0-206",
+      "id": "ddl-2026-1vds3m0-203",
       "year": "2026",
       "school": "吉林大学",
       "dept": "交通学院",
@@ -3520,7 +3469,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 交通学院"
     },
     {
-      "id": "ddl-2026-0d6wlzv-207",
+      "id": "ddl-2026-0d6wlzv-204",
       "year": "2026",
       "school": "复旦大学",
       "dept": "生物医学工程与技术创新学院",
@@ -3537,7 +3486,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 生物医学工程与技术创新学院"
     },
     {
-      "id": "ddl-2026-0gymqg9-208",
+      "id": "ddl-2026-0gymqg9-205",
       "year": "2026",
       "school": "兰州大学",
       "dept": "管理学院",
@@ -3554,7 +3503,7 @@ window.BOLU_DDL = {
       "search": "兰州大学 管理学院"
     },
     {
-      "id": "ddl-2026-039u5qh-209",
+      "id": "ddl-2026-039u5qh-206",
       "year": "2026",
       "school": "兰州大学",
       "dept": "信息科学与工程学院",
@@ -3571,7 +3520,7 @@ window.BOLU_DDL = {
       "search": "兰州大学 信息科学与工程学院"
     },
     {
-      "id": "ddl-2026-17xdi5l-210",
+      "id": "ddl-2026-17xdi5l-207",
       "year": "2026",
       "school": "同济大学",
       "dept": "中意工程创新学院",
@@ -3588,7 +3537,7 @@ window.BOLU_DDL = {
       "search": "同济大学 中意工程创新学院"
     },
     {
-      "id": "ddl-2026-03mp5zn-211",
+      "id": "ddl-2026-03mp5zn-208",
       "year": "2026",
       "school": "山东大学",
       "dept": "前沿交叉科学青岛研究院",
@@ -3605,7 +3554,7 @@ window.BOLU_DDL = {
       "search": "山东大学 前沿交叉科学青岛研究院"
     },
     {
-      "id": "ddl-2026-0bib8sd-212",
+      "id": "ddl-2026-0bib8sd-209",
       "year": "2026",
       "school": "南京航空航天大学",
       "dept": "计算机科学与技术学院/软件学院",
@@ -3622,7 +3571,7 @@ window.BOLU_DDL = {
       "search": "南京航空航天大学 计算机科学与技术学院/软件学院"
     },
     {
-      "id": "ddl-2026-1tzma9p-213",
+      "id": "ddl-2026-1tzma9p-210",
       "year": "2026",
       "school": "中山大学",
       "dept": "大气科学学院",
@@ -3639,7 +3588,7 @@ window.BOLU_DDL = {
       "search": "中山大学 大气科学学院"
     },
     {
-      "id": "ddl-2026-1kjxeak-214",
+      "id": "ddl-2026-1kjxeak-211",
       "year": "2026",
       "school": "西南交通大学",
       "dept": "电气工程学院",
@@ -3656,7 +3605,7 @@ window.BOLU_DDL = {
       "search": "西南交通大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-1u74mtm-215",
+      "id": "ddl-2026-1u74mtm-212",
       "year": "2026",
       "school": "中山大学",
       "dept": "计算机学院",
@@ -3673,7 +3622,7 @@ window.BOLU_DDL = {
       "search": "中山大学 计算机学院"
     },
     {
-      "id": "ddl-2026-1qyfsck-216",
+      "id": "ddl-2026-1qyfsck-213",
       "year": "2026",
       "school": "四川大学",
       "dept": "网络空间安全学院",
@@ -3690,7 +3639,7 @@ window.BOLU_DDL = {
       "search": "四川大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-03eqsg5-217",
+      "id": "ddl-2026-03eqsg5-214",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "交通运输学院",
@@ -3707,7 +3656,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 交通运输学院"
     },
     {
-      "id": "ddl-2026-1gmsg5j-218",
+      "id": "ddl-2026-1gmsg5j-215",
       "year": "2026",
       "school": "河海大学",
       "dept": "计算机与软件学院",
@@ -3724,7 +3673,7 @@ window.BOLU_DDL = {
       "search": "河海大学 计算机与软件学院"
     },
     {
-      "id": "ddl-2026-1nmsgqa-219",
+      "id": "ddl-2026-1nmsgqa-216",
       "year": "2026",
       "school": "首都体育学院",
       "dept": "体育人工智能研究院",
@@ -3741,7 +3690,7 @@ window.BOLU_DDL = {
       "search": "首都体育学院 体育人工智能研究院"
     },
     {
-      "id": "ddl-2026-0se22ez-220",
+      "id": "ddl-2026-0se22ez-217",
       "year": "2026",
       "school": "中山大学",
       "dept": "遥感科学与技术学院",
@@ -3758,7 +3707,7 @@ window.BOLU_DDL = {
       "search": "中山大学 遥感科学与技术学院"
     },
     {
-      "id": "ddl-2026-0890x6r-221",
+      "id": "ddl-2026-0890x6r-218",
       "year": "2026",
       "school": "南京大学",
       "dept": "现代工程与应用科学学院",
@@ -3775,7 +3724,7 @@ window.BOLU_DDL = {
       "search": "南京大学 现代工程与应用科学学院"
     },
     {
-      "id": "ddl-2026-0kmsncu-222",
+      "id": "ddl-2026-0kmsncu-219",
       "year": "2026",
       "school": "北京信息科技大学",
       "dept": "管理、经济与传媒",
@@ -3792,7 +3741,7 @@ window.BOLU_DDL = {
       "search": "北京信息科技大学 管理、经济与传媒"
     },
     {
-      "id": "ddl-2026-1mqhbka-223",
+      "id": "ddl-2026-1mqhbka-220",
       "year": "2026",
       "school": "中国科学院",
       "dept": "计算机网络信息中心",
@@ -3809,7 +3758,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 计算机网络信息中心"
     },
     {
-      "id": "ddl-2026-0cr64b0-224",
+      "id": "ddl-2026-0cr64b0-221",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "环境学院",
@@ -3826,7 +3775,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 环境学院"
     },
     {
-      "id": "ddl-2026-1co1bwh-225",
+      "id": "ddl-2026-1co1bwh-222",
       "year": "2026",
       "school": "北京林业大学",
       "dept": "工学院",
@@ -3843,7 +3792,7 @@ window.BOLU_DDL = {
       "search": "北京林业大学 工学院"
     },
     {
-      "id": "ddl-2026-0igg0to-226",
+      "id": "ddl-2026-0igg0to-223",
       "year": "2026",
       "school": "四川大学",
       "dept": "电子信息学院",
@@ -3860,7 +3809,7 @@ window.BOLU_DDL = {
       "search": "四川大学 电子信息学院"
     },
     {
-      "id": "ddl-2026-1etn3m9-227",
+      "id": "ddl-2026-1etn3m9-224",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "先进结构技术研究院",
@@ -3877,7 +3826,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 先进结构技术研究院"
     },
     {
-      "id": "ddl-2026-058dw6u-228",
+      "id": "ddl-2026-058dw6u-225",
       "year": "2026",
       "school": "吉林大学",
       "dept": "生物与农业工程学院",
@@ -3894,7 +3843,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 生物与农业工程学院"
     },
     {
-      "id": "ddl-2026-1q8jb87-229",
+      "id": "ddl-2026-1q8jb87-226",
       "year": "2026",
       "school": "北京科技大学",
       "dept": "计算机与通信工程学院",
@@ -3911,7 +3860,7 @@ window.BOLU_DDL = {
       "search": "北京科技大学 计算机与通信工程学院"
     },
     {
-      "id": "ddl-2026-047q1ub-230",
+      "id": "ddl-2026-047q1ub-227",
       "year": "2026",
       "school": "西安电子科技大学",
       "dept": "计算机科学学院-国际暑期学校",
@@ -3928,9 +3877,9 @@ window.BOLU_DDL = {
       "search": "西安电子科技大学 计算机科学学院-国际暑期学校"
     },
     {
-      "id": "ddl-2026-06j4ll8-231",
+      "id": "ddl-2026-0gnu26e-228",
       "year": "2026",
-      "school": "鹏城国家实验室",
+      "school": "鹏城实验室",
       "dept": "",
       "dateText": "2026/6/30 15:00",
       "precision": "exact",
@@ -3942,10 +3891,10 @@ window.BOLU_DDL = {
       "applyUrl": "",
       "note": "",
       "checked": "",
-      "search": "鹏城国家实验室"
+      "search": "鹏城实验室"
     },
     {
-      "id": "ddl-2026-0qatz51-232",
+      "id": "ddl-2026-0qatz51-229",
       "year": "2026",
       "school": "中国科学院",
       "dept": "声学研究所",
@@ -3962,7 +3911,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 声学研究所"
     },
     {
-      "id": "ddl-2026-1yg9amp-233",
+      "id": "ddl-2026-1yg9amp-230",
       "year": "2026",
       "school": "中国地质大学（武汉）",
       "dept": "机械与电子信息学院",
@@ -3979,7 +3928,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（武汉） 机械与电子信息学院"
     },
     {
-      "id": "ddl-2026-1skpb1a-234",
+      "id": "ddl-2026-1skpb1a-231",
       "year": "2026",
       "school": "中国地质大学（武汉）",
       "dept": "计算机学院",
@@ -3996,7 +3945,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（武汉） 计算机学院"
     },
     {
-      "id": "ddl-2026-1iip588-235",
+      "id": "ddl-2026-1iip588-232",
       "year": "2026",
       "school": "中国地质大学（武汉）",
       "dept": "人工智能与自动化学院",
@@ -4013,7 +3962,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（武汉） 人工智能与自动化学院"
     },
     {
-      "id": "ddl-2026-0xgufmy-236",
+      "id": "ddl-2026-0xgufmy-233",
       "year": "2026",
       "school": "中国地质大学（武汉）",
       "dept": "未来技术学院",
@@ -4030,7 +3979,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（武汉） 未来技术学院"
     },
     {
-      "id": "ddl-2026-0a6ac4o-237",
+      "id": "ddl-2026-0a6ac4o-234",
       "year": "2026",
       "school": "中国地质大学（武汉）",
       "dept": "地理与信息工程学院",
@@ -4047,7 +3996,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（武汉） 地理与信息工程学院"
     },
     {
-      "id": "ddl-2026-0zw5pkq-238",
+      "id": "ddl-2026-0zw5pkq-235",
       "year": "2026",
       "school": "复旦大学",
       "dept": "智能医学研究院",
@@ -4064,7 +4013,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 智能医学研究院"
     },
     {
-      "id": "ddl-2026-1ugrdn7-239",
+      "id": "ddl-2026-1ugrdn7-236",
       "year": "2026",
       "school": "山东大学",
       "dept": "网络空间安全学院",
@@ -4081,7 +4030,7 @@ window.BOLU_DDL = {
       "search": "山东大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-0yq5udz-240",
+      "id": "ddl-2026-0yq5udz-237",
       "year": "2026",
       "school": "哈尔滨工业大学（深圳）",
       "dept": "低空科学技术研究院",
@@ -4098,7 +4047,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（深圳） 低空科学技术研究院"
     },
     {
-      "id": "ddl-2026-1ycfddb-241",
+      "id": "ddl-2026-1ycfddb-238",
       "year": "2026",
       "school": "深圳大学",
       "dept": "微众银行金融科技学院",
@@ -4115,7 +4064,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 微众银行金融科技学院"
     },
     {
-      "id": "ddl-2026-0smib7f-242",
+      "id": "ddl-2026-0smib7f-239",
       "year": "2026",
       "school": "南京航空航天大学",
       "dept": "集成电路学院",
@@ -4132,7 +4081,7 @@ window.BOLU_DDL = {
       "search": "南京航空航天大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-0yx1nhu-243",
+      "id": "ddl-2026-0yx1nhu-240",
       "year": "2026",
       "school": "四川大学",
       "dept": "电气工程学院",
@@ -4149,7 +4098,7 @@ window.BOLU_DDL = {
       "search": "四川大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-0ii3oft-244",
+      "id": "ddl-2026-0ii3oft-241",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "资源与环境学院",
@@ -4166,7 +4115,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 资源与环境学院"
     },
     {
-      "id": "ddl-2026-0ytwe5s-245",
+      "id": "ddl-2026-0ytwe5s-242",
       "year": "2026",
       "school": "哈尔滨工业大学（威海）",
       "dept": "材料科学与工程学院",
@@ -4183,7 +4132,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（威海） 材料科学与工程学院"
     },
     {
-      "id": "ddl-2026-0vm4r87-246",
+      "id": "ddl-2026-0vm4r87-243",
       "year": "2026",
       "school": "北京通用人工智能研究院",
       "dept": "",
@@ -4200,7 +4149,7 @@ window.BOLU_DDL = {
       "search": "北京通用人工智能研究院"
     },
     {
-      "id": "ddl-2026-122gz3x-247",
+      "id": "ddl-2026-122gz3x-244",
       "year": "2026",
       "school": "南京航空航天大学",
       "dept": "自动化学院",
@@ -4217,7 +4166,7 @@ window.BOLU_DDL = {
       "search": "南京航空航天大学 自动化学院"
     },
     {
-      "id": "ddl-2026-0fsh7gs-248",
+      "id": "ddl-2026-0fsh7gs-245",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "生物医学工程学院",
@@ -4234,7 +4183,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 生物医学工程学院"
     },
     {
-      "id": "ddl-2026-12uwzwr-249",
+      "id": "ddl-2026-12uwzwr-246",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "数学科学研究所",
@@ -4251,7 +4200,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 数学科学研究所"
     },
     {
-      "id": "ddl-2026-1dqkrnw-250",
+      "id": "ddl-2026-1dqkrnw-247",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "创意与艺术学院",
@@ -4268,7 +4217,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 创意与艺术学院"
     },
     {
-      "id": "ddl-2026-12t7nkb-251",
+      "id": "ddl-2026-12t7nkb-248",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "环境材料与污染控制技术研究中心",
@@ -4285,7 +4234,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 环境材料与污染控制技术研究中心"
     },
     {
-      "id": "ddl-2026-1igmkyq-252",
+      "id": "ddl-2026-1igmkyq-249",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "国家卓越工程师学院（先研院）",
@@ -4302,7 +4251,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 国家卓越工程师学院（先研院）"
     },
     {
-      "id": "ddl-2026-1y9e4k1-253",
+      "id": "ddl-2026-1y9e4k1-250",
       "year": "2026",
       "school": "浙江大学",
       "dept": "海洋学院",
@@ -4319,7 +4268,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 海洋学院"
     },
     {
-      "id": "ddl-2026-0oog3km-254",
+      "id": "ddl-2026-0oog3km-251",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "环境材料中心",
@@ -4336,7 +4285,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 环境材料中心"
     },
     {
-      "id": "ddl-2026-1uysmcs-255",
+      "id": "ddl-2026-1uysmcs-252",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "科学岛分院（合肥物质院）",
@@ -4353,7 +4302,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 科学岛分院（合肥物质院）"
     },
     {
-      "id": "ddl-2026-0wczknr-256",
+      "id": "ddl-2026-0wczknr-253",
       "year": "2026",
       "school": "北京协和医学院",
       "dept": "生物医学工程研究所",
@@ -4370,24 +4319,7 @@ window.BOLU_DDL = {
       "search": "北京协和医学院 生物医学工程研究所"
     },
     {
-      "id": "ddl-2026-1pl5hfm-257",
-      "year": "2026",
-      "school": "广州国家实验室",
-      "dept": "",
-      "dateText": "2026/6/30 0:00",
-      "precision": "exact",
-      "deadline": "2026-06-30T00:00:00+08:00",
-      "start": "",
-      "openConfirmed": "false",
-      "validity": "normal",
-      "url": "https://mp.weixin.qq.com/s/oI4SjtQWCaivDz_67T6Inw?scene=1&click_id=489605143",
-      "applyUrl": "",
-      "note": "",
-      "checked": "",
-      "search": "广州国家实验室"
-    },
-    {
-      "id": "ddl-2026-0zk12o5-258",
+      "id": "ddl-2026-0zk12o5-254",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "材料科学与工程学院",
@@ -4404,7 +4336,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 材料科学与工程学院"
     },
     {
-      "id": "ddl-2026-1o11ld5-259",
+      "id": "ddl-2026-1o11ld5-255",
       "year": "2026",
       "school": "南京大学",
       "dept": "集成电路学院",
@@ -4421,7 +4353,7 @@ window.BOLU_DDL = {
       "search": "南京大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-0qb5acx-260",
+      "id": "ddl-2026-0qb5acx-256",
       "year": "2026",
       "school": "深圳大学",
       "dept": "教育学部",
@@ -4438,7 +4370,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 教育学部"
     },
     {
-      "id": "ddl-2026-1on4cha-261",
+      "id": "ddl-2026-1on4cha-257",
       "year": "2026",
       "school": "中国科学院",
       "dept": "微电子研究所",
@@ -4455,7 +4387,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 微电子研究所"
     },
     {
-      "id": "ddl-2026-157r2by-262",
+      "id": "ddl-2026-157r2by-258",
       "year": "2026",
       "school": "天津大学",
       "dept": "崂山国家实验室",
@@ -4472,7 +4404,7 @@ window.BOLU_DDL = {
       "search": "天津大学 崂山国家实验室"
     },
     {
-      "id": "ddl-2026-00wxs4x-263",
+      "id": "ddl-2026-00wxs4x-259",
       "year": "2026",
       "school": "中国科学院",
       "dept": "信息工程研究所",
@@ -4489,7 +4421,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 信息工程研究所"
     },
     {
-      "id": "ddl-2026-0cekip0-264",
+      "id": "ddl-2026-0cekip0-260",
       "year": "2026",
       "school": "哈尔滨工业大学（深圳）",
       "dept": "智能学部",
@@ -4506,7 +4438,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（深圳） 智能学部"
     },
     {
-      "id": "ddl-2026-1gh42xk-265",
+      "id": "ddl-2026-1gh42xk-261",
       "year": "2026",
       "school": "南京大学",
       "dept": "空间地球科学研究院",
@@ -4523,7 +4455,7 @@ window.BOLU_DDL = {
       "search": "南京大学 空间地球科学研究院"
     },
     {
-      "id": "ddl-2026-1f2sd8t-266",
+      "id": "ddl-2026-1f2sd8t-262",
       "year": "2026",
       "school": "南京师范大学",
       "dept": "计算机与电子信息学院/人工智能学院",
@@ -4540,24 +4472,7 @@ window.BOLU_DDL = {
       "search": "南京师范大学 计算机与电子信息学院/人工智能学院"
     },
     {
-      "id": "ddl-2026-135p3zp-267",
-      "year": "2026",
-      "school": "中国电子科技集团公司第十四研究所",
-      "dept": "",
-      "dateText": "2026/6/30 0:00",
-      "precision": "exact",
-      "deadline": "2026-06-30T00:00:00+08:00",
-      "start": "",
-      "openConfirmed": "false",
-      "validity": "normal",
-      "url": "https://mp.weixin.qq.com/s/lqZMq0oPNHeqasWwZY5Lgw?scene=1&click_id=1368836653",
-      "applyUrl": "",
-      "note": "",
-      "checked": "",
-      "search": "中国电子科技集团公司第十四研究所"
-    },
-    {
-      "id": "ddl-2026-1xfcbta-268",
+      "id": "ddl-2026-1xfcbta-263",
       "year": "2026",
       "school": "天津医科大学",
       "dept": "医学工程与技术学院",
@@ -4574,7 +4489,7 @@ window.BOLU_DDL = {
       "search": "天津医科大学 医学工程与技术学院"
     },
     {
-      "id": "ddl-2026-0p5e1qe-269",
+      "id": "ddl-2026-0p5e1qe-264",
       "year": "2026",
       "school": "华中师范大学",
       "dept": "人工智能教育学部",
@@ -4591,7 +4506,7 @@ window.BOLU_DDL = {
       "search": "华中师范大学 人工智能教育学部"
     },
     {
-      "id": "ddl-2026-0r70jmu-270",
+      "id": "ddl-2026-0r70jmu-265",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "电子科学与工程学院",
@@ -4608,7 +4523,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 电子科学与工程学院"
     },
     {
-      "id": "ddl-2026-1s0hk0y-271",
+      "id": "ddl-2026-1s0hk0y-266",
       "year": "2026",
       "school": "南京大学",
       "dept": "计算机学院",
@@ -4625,7 +4540,7 @@ window.BOLU_DDL = {
       "search": "南京大学 计算机学院"
     },
     {
-      "id": "ddl-2026-0yjb5gw-272",
+      "id": "ddl-2026-0yjb5gw-267",
       "year": "2026",
       "school": "东华大学",
       "dept": "纺织学院",
@@ -4642,7 +4557,7 @@ window.BOLU_DDL = {
       "search": "东华大学 纺织学院"
     },
     {
-      "id": "ddl-2026-0707j4d-273",
+      "id": "ddl-2026-0707j4d-268",
       "year": "2026",
       "school": "北京大学",
       "dept": "人工智能研究院",
@@ -4659,7 +4574,7 @@ window.BOLU_DDL = {
       "search": "北京大学 人工智能研究院"
     },
     {
-      "id": "ddl-2026-0b2tkb2-274",
+      "id": "ddl-2026-0b2tkb2-269",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "人文社科高等研究院",
@@ -4676,7 +4591,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 人文社科高等研究院"
     },
     {
-      "id": "ddl-2026-0xf4tks-275",
+      "id": "ddl-2026-0xf4tks-270",
       "year": "2026",
       "school": "哈尔滨工程大学",
       "dept": "智能科学与工程学院",
@@ -4693,7 +4608,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工程大学 智能科学与工程学院"
     },
     {
-      "id": "ddl-2026-0isqn9r-276",
+      "id": "ddl-2026-0isqn9r-271",
       "year": "2026",
       "school": "同济大学",
       "dept": "国家卓越工程师学院",
@@ -4710,7 +4625,7 @@ window.BOLU_DDL = {
       "search": "同济大学 国家卓越工程师学院"
     },
     {
-      "id": "ddl-2026-0ydwmy1-277",
+      "id": "ddl-2026-0ydwmy1-272",
       "year": "2026",
       "school": "南京大学",
       "dept": "地球科学与工程学院",
@@ -4727,7 +4642,7 @@ window.BOLU_DDL = {
       "search": "南京大学 地球科学与工程学院"
     },
     {
-      "id": "ddl-2026-1oxnq1p-278",
+      "id": "ddl-2026-1oxnq1p-273",
       "year": "2026",
       "school": "同济大学",
       "dept": "计算机科学与技术学院",
@@ -4744,7 +4659,7 @@ window.BOLU_DDL = {
       "search": "同济大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-0222hh5-279",
+      "id": "ddl-2026-0222hh5-274",
       "year": "2026",
       "school": "长江大学",
       "dept": "电子信息与电气工程学院",
@@ -4761,7 +4676,7 @@ window.BOLU_DDL = {
       "search": "长江大学 电子信息与电气工程学院"
     },
     {
-      "id": "ddl-2026-0xmalul-280",
+      "id": "ddl-2026-0xmalul-275",
       "year": "2026",
       "school": "长江大学",
       "dept": "计算机科学学院",
@@ -4778,7 +4693,7 @@ window.BOLU_DDL = {
       "search": "长江大学 计算机科学学院"
     },
     {
-      "id": "ddl-2026-03al1ja-281",
+      "id": "ddl-2026-03al1ja-276",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "航空学院",
@@ -4795,7 +4710,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 航空学院"
     },
     {
-      "id": "ddl-2026-10olfwr-282",
+      "id": "ddl-2026-10olfwr-277",
       "year": "2026",
       "school": "四川大学",
       "dept": "人工智能学院",
@@ -4812,7 +4727,7 @@ window.BOLU_DDL = {
       "search": "四川大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0q186ea-283",
+      "id": "ddl-2026-0q186ea-278",
       "year": "2026",
       "school": "广东工业大学",
       "dept": "集成电路学院",
@@ -4829,7 +4744,7 @@ window.BOLU_DDL = {
       "search": "广东工业大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-1086r1h-284",
+      "id": "ddl-2026-1086r1h-279",
       "year": "2026",
       "school": "深圳大学",
       "dept": "大湾区国际创新学院",
@@ -4846,7 +4761,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 大湾区国际创新学院"
     },
     {
-      "id": "ddl-2026-0dzcq6v-285",
+      "id": "ddl-2026-0dzcq6v-280",
       "year": "2026",
       "school": "上海杉达学院",
       "dept": "信息科学与技术学院",
@@ -4863,7 +4778,7 @@ window.BOLU_DDL = {
       "search": "上海杉达学院 信息科学与技术学院"
     },
     {
-      "id": "ddl-2026-0au17q9-286",
+      "id": "ddl-2026-0au17q9-281",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "创新创业学院",
@@ -4880,7 +4795,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 创新创业学院"
     },
     {
-      "id": "ddl-2026-0fto8fn-287",
+      "id": "ddl-2026-0fto8fn-282",
       "year": "2026",
       "school": "北京大学",
       "dept": "科学智能学院",
@@ -4897,7 +4812,7 @@ window.BOLU_DDL = {
       "search": "北京大学 科学智能学院"
     },
     {
-      "id": "ddl-2026-19mhobk-288",
+      "id": "ddl-2026-19mhobk-283",
       "year": "2026",
       "school": "北京信息科技大学",
       "dept": "机电工程学院",
@@ -4914,7 +4829,7 @@ window.BOLU_DDL = {
       "search": "北京信息科技大学 机电工程学院"
     },
     {
-      "id": "ddl-2026-1xcaeky-289",
+      "id": "ddl-2026-1xcaeky-284",
       "year": "2026",
       "school": "北京信息科技大学",
       "dept": "电子信息类",
@@ -4931,7 +4846,7 @@ window.BOLU_DDL = {
       "search": "北京信息科技大学 电子信息类"
     },
     {
-      "id": "ddl-2026-0fc0300-290",
+      "id": "ddl-2026-0fc0300-285",
       "year": "2026",
       "school": "华中科技大学",
       "dept": "网络空间安全学院",
@@ -4948,7 +4863,7 @@ window.BOLU_DDL = {
       "search": "华中科技大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-17oqp1j-291",
+      "id": "ddl-2026-17oqp1j-286",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "计算机学院",
@@ -4965,7 +4880,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 计算机学院"
     },
     {
-      "id": "ddl-2026-0a3el1g-292",
+      "id": "ddl-2026-0a3el1g-287",
       "year": "2026",
       "school": "哈尔滨工程大学",
       "dept": "水声工程学院",
@@ -4982,7 +4897,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工程大学 水声工程学院"
     },
     {
-      "id": "ddl-2026-1wt9ws2-293",
+      "id": "ddl-2026-1wt9ws2-288",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "粤港澳大湾区脑科学与类脑研究中心",
@@ -4999,7 +4914,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 粤港澳大湾区脑科学与类脑研究中心"
     },
     {
-      "id": "ddl-2026-04mb057-294",
+      "id": "ddl-2026-04mb057-289",
       "year": "2026",
       "school": "山东大学",
       "dept": "生物医学工程学院",
@@ -5016,7 +4931,7 @@ window.BOLU_DDL = {
       "search": "山东大学 生物医学工程学院"
     },
     {
-      "id": "ddl-2026-1uegmo2-295",
+      "id": "ddl-2026-1uegmo2-290",
       "year": "2026",
       "school": "火箭军工程大学",
       "dept": "",
@@ -5033,7 +4948,7 @@ window.BOLU_DDL = {
       "search": "火箭军工程大学"
     },
     {
-      "id": "ddl-2026-0e6r1tg-296",
+      "id": "ddl-2026-0e6r1tg-291",
       "year": "2026",
       "school": "中国科学院",
       "dept": "沈阳自动化研究所",
@@ -5050,7 +4965,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 沈阳自动化研究所"
     },
     {
-      "id": "ddl-2026-08l4vi3-297",
+      "id": "ddl-2026-08l4vi3-292",
       "year": "2026",
       "school": "浙江大学",
       "dept": "伊利诺伊大学厄巴纳香槟校区联合学院",
@@ -5067,7 +4982,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 伊利诺伊大学厄巴纳香槟校区联合学院"
     },
     {
-      "id": "ddl-2026-16g0oiw-298",
+      "id": "ddl-2026-16g0oiw-293",
       "year": "2026",
       "school": "中国地质大学（北京）",
       "dept": "数理学院",
@@ -5084,7 +4999,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（北京） 数理学院"
     },
     {
-      "id": "ddl-2026-1uab66y-299",
+      "id": "ddl-2026-1uab66y-294",
       "year": "2026",
       "school": "南开大学",
       "dept": "药学院",
@@ -5101,7 +5016,7 @@ window.BOLU_DDL = {
       "search": "南开大学 药学院"
     },
     {
-      "id": "ddl-2026-0wd1kji-300",
+      "id": "ddl-2026-0wd1kji-295",
       "year": "2026",
       "school": "中山大学",
       "dept": "集成电路学院",
@@ -5118,7 +5033,7 @@ window.BOLU_DDL = {
       "search": "中山大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-1og4qi5-301",
+      "id": "ddl-2026-1og4qi5-296",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "软件学院",
@@ -5135,7 +5050,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 软件学院"
     },
     {
-      "id": "ddl-2026-1uzqf7y-302",
+      "id": "ddl-2026-1uzqf7y-297",
       "year": "2026",
       "school": "天津大学",
       "dept": "网络安全学院",
@@ -5152,7 +5067,7 @@ window.BOLU_DDL = {
       "search": "天津大学 网络安全学院"
     },
     {
-      "id": "ddl-2026-01cjyuf-303",
+      "id": "ddl-2026-01cjyuf-298",
       "year": "2026",
       "school": "中国科学院",
       "dept": "国家授时中心",
@@ -5169,7 +5084,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 国家授时中心"
     },
     {
-      "id": "ddl-2026-0u2byi3-304",
+      "id": "ddl-2026-0u2byi3-299",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "软件工程学院",
@@ -5186,7 +5101,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 软件工程学院"
     },
     {
-      "id": "ddl-2026-0ea1c7r-305",
+      "id": "ddl-2026-0ea1c7r-300",
       "year": "2026",
       "school": "河海大学",
       "dept": "人工智能与自动化学院",
@@ -5203,7 +5118,7 @@ window.BOLU_DDL = {
       "search": "河海大学 人工智能与自动化学院"
     },
     {
-      "id": "ddl-2026-1mmxdyf-306",
+      "id": "ddl-2026-1mmxdyf-301",
       "year": "2026",
       "school": "中国航天科工集团",
       "dept": "第二研究院",
@@ -5220,7 +5135,7 @@ window.BOLU_DDL = {
       "search": "中国航天科工集团 第二研究院"
     },
     {
-      "id": "ddl-2026-1rqdq3e-307",
+      "id": "ddl-2026-1rqdq3e-302",
       "year": "2026",
       "school": "南京大学",
       "dept": "南京赫尔辛基大气与地球系统科学学院",
@@ -5237,7 +5152,7 @@ window.BOLU_DDL = {
       "search": "南京大学 南京赫尔辛基大气与地球系统科学学院"
     },
     {
-      "id": "ddl-2026-16s2vev-308",
+      "id": "ddl-2026-16s2vev-303",
       "year": "2026",
       "school": "南京大学",
       "dept": "医学院松江研究院",
@@ -5254,7 +5169,7 @@ window.BOLU_DDL = {
       "search": "南京大学 医学院松江研究院"
     },
     {
-      "id": "ddl-2026-0lhvjen-309",
+      "id": "ddl-2026-0lhvjen-304",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "医学院松江研究院",
@@ -5271,7 +5186,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 医学院松江研究院"
     },
     {
-      "id": "ddl-2026-1224mwf-310",
+      "id": "ddl-2026-1224mwf-305",
       "year": "2026",
       "school": "西南大学",
       "dept": "柑桔研究所",
@@ -5288,7 +5203,7 @@ window.BOLU_DDL = {
       "search": "西南大学 柑桔研究所"
     },
     {
-      "id": "ddl-2026-0wyeqia-311",
+      "id": "ddl-2026-0wyeqia-306",
       "year": "2026",
       "school": "南方医科大学",
       "dept": "生物医学工程学院",
@@ -5305,7 +5220,7 @@ window.BOLU_DDL = {
       "search": "南方医科大学 生物医学工程学院"
     },
     {
-      "id": "ddl-2026-1d9iy2v-312",
+      "id": "ddl-2026-1d9iy2v-307",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "电子科学学院",
@@ -5322,7 +5237,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 电子科学学院"
     },
     {
-      "id": "ddl-2026-0ue296y-313",
+      "id": "ddl-2026-0ue296y-308",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "系统工程学院",
@@ -5339,7 +5254,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 系统工程学院"
     },
     {
-      "id": "ddl-2026-03wyhnp-314",
+      "id": "ddl-2026-03wyhnp-309",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "系统工程学院-学术创新营",
@@ -5356,7 +5271,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 系统工程学院-学术创新营"
     },
     {
-      "id": "ddl-2026-1wsg9pl-315",
+      "id": "ddl-2026-1wsg9pl-310",
       "year": "2026",
       "school": "复旦大学",
       "dept": "生物技术学院",
@@ -5373,7 +5288,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 生物技术学院"
     },
     {
-      "id": "ddl-2026-15z33j6-316",
+      "id": "ddl-2026-15z33j6-311",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "软件学院",
@@ -5390,7 +5305,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 软件学院"
     },
     {
-      "id": "ddl-2026-0zqfygv-317",
+      "id": "ddl-2026-0zqfygv-312",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "珠海校区",
@@ -5407,7 +5322,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 珠海校区"
     },
     {
-      "id": "ddl-2026-1ukfg20-318",
+      "id": "ddl-2026-1ukfg20-313",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "基础与前沿研究院",
@@ -5424,7 +5339,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 基础与前沿研究院"
     },
     {
-      "id": "ddl-2026-1a6c944-319",
+      "id": "ddl-2026-1a6c944-314",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "光电科学与工程学院",
@@ -5441,7 +5356,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 光电科学与工程学院"
     },
     {
-      "id": "ddl-2026-166ep4r-320",
+      "id": "ddl-2026-166ep4r-315",
       "year": "2026",
       "school": "哈尔滨工业大学（深圳）",
       "dept": "医工学院",
@@ -5458,7 +5373,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（深圳） 医工学院"
     },
     {
-      "id": "ddl-2026-052z3yd-321",
+      "id": "ddl-2026-052z3yd-316",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "计算机科学与工程学院（网安空间安全学院）",
@@ -5475,7 +5390,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 计算机科学与工程学院（网安空间安全学院）"
     },
     {
-      "id": "ddl-2026-100n6yo-322",
+      "id": "ddl-2026-100n6yo-317",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "数据科学与工程学院",
@@ -5492,7 +5407,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 数据科学与工程学院"
     },
     {
-      "id": "ddl-2026-0ii19uc-323",
+      "id": "ddl-2026-0ii19uc-318",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "经济与管理学院",
@@ -5509,7 +5424,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 经济与管理学院"
     },
     {
-      "id": "ddl-2026-000dl3l-324",
+      "id": "ddl-2026-000dl3l-319",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "统计学院",
@@ -5526,7 +5441,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 统计学院"
     },
     {
-      "id": "ddl-2026-18qdz7l-325",
+      "id": "ddl-2026-18qdz7l-320",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "生命科学与技术学院",
@@ -5543,7 +5458,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 生命科学与技术学院"
     },
     {
-      "id": "ddl-2026-1abdc7y-326",
+      "id": "ddl-2026-1abdc7y-321",
       "year": "2026",
       "school": "中国人民大学",
       "dept": "信息学院",
@@ -5560,7 +5475,7 @@ window.BOLU_DDL = {
       "search": "中国人民大学 信息学院"
     },
     {
-      "id": "ddl-2026-1rf6dcb-327",
+      "id": "ddl-2026-1rf6dcb-322",
       "year": "2026",
       "school": "深圳大学",
       "dept": "中国经济特区研究中心",
@@ -5577,7 +5492,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 中国经济特区研究中心"
     },
     {
-      "id": "ddl-2026-1jef3mz-328",
+      "id": "ddl-2026-1jef3mz-323",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "未来技术学院",
@@ -5594,7 +5509,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 未来技术学院"
     },
     {
-      "id": "ddl-2026-1qq11lj-329",
+      "id": "ddl-2026-1qq11lj-324",
       "year": "2026",
       "school": "浙江大学",
       "dept": "智能创意与交互实验室",
@@ -5611,7 +5526,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 智能创意与交互实验室"
     },
     {
-      "id": "ddl-2026-11qtr2a-330",
+      "id": "ddl-2026-11qtr2a-325",
       "year": "2026",
       "school": "中山大学",
       "dept": "海洋科学学院",
@@ -5628,7 +5543,7 @@ window.BOLU_DDL = {
       "search": "中山大学 海洋科学学院"
     },
     {
-      "id": "ddl-2026-0vm3c37-331",
+      "id": "ddl-2026-0vm3c37-326",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "电子与信息工程学院",
@@ -5645,7 +5560,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 电子与信息工程学院"
     },
     {
-      "id": "ddl-2026-102992g-332",
+      "id": "ddl-2026-102992g-327",
       "year": "2026",
       "school": "海南医科大学",
       "dept": "智能医学与技术学院",
@@ -5662,7 +5577,7 @@ window.BOLU_DDL = {
       "search": "海南医科大学 智能医学与技术学院"
     },
     {
-      "id": "ddl-2026-1ks6477-333",
+      "id": "ddl-2026-1ks6477-328",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "电子信息学院",
@@ -5679,7 +5594,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 电子信息学院"
     },
     {
-      "id": "ddl-2026-1vaukpa-334",
+      "id": "ddl-2026-1vaukpa-329",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "航海学院",
@@ -5696,7 +5611,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 航海学院"
     },
     {
-      "id": "ddl-2026-165y2p1-335",
+      "id": "ddl-2026-165y2p1-330",
       "year": "2026",
       "school": "深圳大学",
       "dept": "电子与信息工程学院",
@@ -5713,7 +5628,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 电子与信息工程学院"
     },
     {
-      "id": "ddl-2026-1i0au8d-336",
+      "id": "ddl-2026-1i0au8d-331",
       "year": "2026",
       "school": "武汉大学",
       "dept": "测绘遥感信息工程全国重点实验室",
@@ -5730,7 +5645,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 测绘遥感信息工程全国重点实验室"
     },
     {
-      "id": "ddl-2026-1xfhz70-337",
+      "id": "ddl-2026-1xfhz70-332",
       "year": "2026",
       "school": "武汉大学",
       "dept": "测绘学院",
@@ -5747,7 +5662,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 测绘学院"
     },
     {
-      "id": "ddl-2026-16qre8p-338",
+      "id": "ddl-2026-16qre8p-333",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "系统科学学院",
@@ -5764,7 +5679,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 系统科学学院"
     },
     {
-      "id": "ddl-2026-0943luj-339",
+      "id": "ddl-2026-0943luj-334",
       "year": "2026",
       "school": "天津大学",
       "dept": "计算机科学与技术学院",
@@ -5781,7 +5696,7 @@ window.BOLU_DDL = {
       "search": "天津大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-1cf4y54-340",
+      "id": "ddl-2026-1cf4y54-335",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "国家卓越工程师学院（先进技术研究院）",
@@ -5798,7 +5713,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 国家卓越工程师学院（先进技术研究院）"
     },
     {
-      "id": "ddl-2026-0sfceg1-341",
+      "id": "ddl-2026-0sfceg1-336",
       "year": "2026",
       "school": "重庆大学",
       "dept": "光电工程学院",
@@ -5815,7 +5730,7 @@ window.BOLU_DDL = {
       "search": "重庆大学 光电工程学院"
     },
     {
-      "id": "ddl-2026-0jwl63l-342",
+      "id": "ddl-2026-0jwl63l-337",
       "year": "2026",
       "school": "吉林大学",
       "dept": "仪器科学与电气工程学院",
@@ -5832,7 +5747,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 仪器科学与电气工程学院"
     },
     {
-      "id": "ddl-2026-05dbqll-343",
+      "id": "ddl-2026-05dbqll-338",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "电子科学技术研究院",
@@ -5849,7 +5764,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 电子科学技术研究院"
     },
     {
-      "id": "ddl-2026-0cse2es-344",
+      "id": "ddl-2026-0cse2es-339",
       "year": "2026",
       "school": "军事科学院",
       "dept": "军事科学院",
@@ -5866,7 +5781,7 @@ window.BOLU_DDL = {
       "search": "军事科学院 军事科学院"
     },
     {
-      "id": "ddl-2026-0iva4s6-345",
+      "id": "ddl-2026-0iva4s6-340",
       "year": "2026",
       "school": "山东大学",
       "dept": "电气工程学院",
@@ -5883,7 +5798,7 @@ window.BOLU_DDL = {
       "search": "山东大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-192bmz9-346",
+      "id": "ddl-2026-192bmz9-341",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "智能科学学院",
@@ -5900,7 +5815,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 智能科学学院"
     },
     {
-      "id": "ddl-2026-0l3rxxl-347",
+      "id": "ddl-2026-0l3rxxl-342",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "智能科学学院-创新营",
@@ -5917,7 +5832,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 智能科学学院-创新营"
     },
     {
-      "id": "ddl-2026-1mcxjs3-348",
+      "id": "ddl-2026-1mcxjs3-343",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "计算机科学与技术学院",
@@ -5934,7 +5849,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-0qaymgr-349",
+      "id": "ddl-2026-0qaymgr-344",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "计算机学院",
@@ -5951,7 +5866,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 计算机学院"
     },
     {
-      "id": "ddl-2026-1sxw3b8-350",
+      "id": "ddl-2026-1sxw3b8-345",
       "year": "2026",
       "school": "天津大学",
       "dept": "人工智能学院",
@@ -5968,24 +5883,7 @@ window.BOLU_DDL = {
       "search": "天津大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0p0au4v-351",
-      "year": "2026",
-      "school": "深圳医学科学院",
-      "dept": "",
-      "dateText": "2026/7/6 0:00",
-      "precision": "exact",
-      "deadline": "2026-07-06T00:00:00+08:00",
-      "start": "",
-      "openConfirmed": "false",
-      "validity": "normal",
-      "url": "https://mp.weixin.qq.com/s/o7-AzmezWv4mWVYM8GtmkA",
-      "applyUrl": "",
-      "note": "",
-      "checked": "",
-      "search": "深圳医学科学院"
-    },
-    {
-      "id": "ddl-2026-06kd0sg-352",
+      "id": "ddl-2026-06kd0sg-346",
       "year": "2026",
       "school": "中国科学院",
       "dept": "城市环境研究所",
@@ -6002,7 +5900,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 城市环境研究所"
     },
     {
-      "id": "ddl-2026-0cel0rp-353",
+      "id": "ddl-2026-0cel0rp-347",
       "year": "2026",
       "school": "中国科学院",
       "dept": "重庆绿色智能技术研究院",
@@ -6019,7 +5917,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 重庆绿色智能技术研究院"
     },
     {
-      "id": "ddl-2026-1pjfn3h-354",
+      "id": "ddl-2026-1pjfn3h-348",
       "year": "2026",
       "school": "北京协和医学院",
       "dept": "苏州系统医学研究所",
@@ -6036,7 +5934,7 @@ window.BOLU_DDL = {
       "search": "北京协和医学院 苏州系统医学研究所"
     },
     {
-      "id": "ddl-2026-1afnlrw-355",
+      "id": "ddl-2026-1afnlrw-349",
       "year": "2026",
       "school": "华南理工大学",
       "dept": "电子与信息学院",
@@ -6053,7 +5951,7 @@ window.BOLU_DDL = {
       "search": "华南理工大学 电子与信息学院"
     },
     {
-      "id": "ddl-2026-1hnqh7a-356",
+      "id": "ddl-2026-1hnqh7a-350",
       "year": "2026",
       "school": "天津医科大学",
       "dept": "医学技术学部",
@@ -6070,7 +5968,7 @@ window.BOLU_DDL = {
       "search": "天津医科大学 医学技术学部"
     },
     {
-      "id": "ddl-2026-0vlqgyk-357",
+      "id": "ddl-2026-0vlqgyk-351",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "自动化与智能学院",
@@ -6087,7 +5985,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 自动化与智能学院"
     },
     {
-      "id": "ddl-2026-1hki4yb-358",
+      "id": "ddl-2026-1hki4yb-352",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "青岛创新发展基地",
@@ -6104,7 +6002,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 青岛创新发展基地"
     },
     {
-      "id": "ddl-2026-1g37i76-359",
+      "id": "ddl-2026-1g37i76-353",
       "year": "2026",
       "school": "深圳大学",
       "dept": "心理学院暑期学校",
@@ -6121,7 +6019,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 心理学院暑期学校"
     },
     {
-      "id": "ddl-2026-1b7320i-360",
+      "id": "ddl-2026-1b7320i-354",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "空间人工智能学院",
@@ -6138,7 +6036,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 空间人工智能学院"
     },
     {
-      "id": "ddl-2026-0iz3xpp-361",
+      "id": "ddl-2026-0iz3xpp-355",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "信息与电子工程学院",
@@ -6155,7 +6053,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 信息与电子工程学院"
     },
     {
-      "id": "ddl-2026-0kztub6-362",
+      "id": "ddl-2026-0kztub6-356",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "自动化学院",
@@ -6172,7 +6070,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 自动化学院"
     },
     {
-      "id": "ddl-2026-06ln7uo-363",
+      "id": "ddl-2026-06ln7uo-357",
       "year": "2026",
       "school": "华北电力大学",
       "dept": "电力工程系",
@@ -6189,7 +6087,7 @@ window.BOLU_DDL = {
       "search": "华北电力大学 电力工程系"
     },
     {
-      "id": "ddl-2026-1mv5kp1-364",
+      "id": "ddl-2026-1mv5kp1-358",
       "year": "2026",
       "school": "华北电力大学（保定）",
       "dept": "电力工程系",
@@ -6206,7 +6104,7 @@ window.BOLU_DDL = {
       "search": "华北电力大学（保定） 电力工程系"
     },
     {
-      "id": "ddl-2026-1s94blj-365",
+      "id": "ddl-2026-1s94blj-359",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "药学院",
@@ -6223,7 +6121,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 药学院"
     },
     {
-      "id": "ddl-2026-08voxbu-366",
+      "id": "ddl-2026-08voxbu-360",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "计算机科学与技术学院",
@@ -6240,7 +6138,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-0wt1mfr-367",
+      "id": "ddl-2026-0wt1mfr-361",
       "year": "2026",
       "school": "中国人民大学",
       "dept": "智慧治理学院",
@@ -6257,7 +6155,7 @@ window.BOLU_DDL = {
       "search": "中国人民大学 智慧治理学院"
     },
     {
-      "id": "ddl-2026-1t1n9gi-368",
+      "id": "ddl-2026-1t1n9gi-362",
       "year": "2026",
       "school": "厦门大学",
       "dept": "信息学院",
@@ -6274,7 +6172,7 @@ window.BOLU_DDL = {
       "search": "厦门大学 信息学院"
     },
     {
-      "id": "ddl-2026-0cnvi6p-369",
+      "id": "ddl-2026-0cnvi6p-363",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "杭州高等研究院-物理与光电工程学院-第二期",
@@ -6291,7 +6189,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 杭州高等研究院-物理与光电工程学院-第二期"
     },
     {
-      "id": "ddl-2026-1x5ln0y-370",
+      "id": "ddl-2026-1x5ln0y-364",
       "year": "2026",
       "school": "南京航空航天大学",
       "dept": "航天学院",
@@ -6308,7 +6206,7 @@ window.BOLU_DDL = {
       "search": "南京航空航天大学 航天学院"
     },
     {
-      "id": "ddl-2026-145hzis-371",
+      "id": "ddl-2026-145hzis-365",
       "year": "2026",
       "school": "北京科技大学",
       "dept": "高精尖学院",
@@ -6325,7 +6223,7 @@ window.BOLU_DDL = {
       "search": "北京科技大学 高精尖学院"
     },
     {
-      "id": "ddl-2026-04m88j9-372",
+      "id": "ddl-2026-04m88j9-366",
       "year": "2026",
       "school": "大连理工大学",
       "dept": "信息与通信工程学院",
@@ -6342,7 +6240,7 @@ window.BOLU_DDL = {
       "search": "大连理工大学 信息与通信工程学院"
     },
     {
-      "id": "ddl-2026-0nbsns8-373",
+      "id": "ddl-2026-0nbsns8-367",
       "year": "2026",
       "school": "东华大学",
       "dept": "信息与智能科学学院",
@@ -6359,7 +6257,7 @@ window.BOLU_DDL = {
       "search": "东华大学 信息与智能科学学院"
     },
     {
-      "id": "ddl-2026-068n673-374",
+      "id": "ddl-2026-068n673-368",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "无人系统研究院",
@@ -6376,7 +6274,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 无人系统研究院"
     },
     {
-      "id": "ddl-2026-0dzbi6u-375",
+      "id": "ddl-2026-0dzbi6u-369",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "前沿交叉学科学院",
@@ -6393,7 +6291,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 前沿交叉学科学院"
     },
     {
-      "id": "ddl-2026-0sle6es-376",
+      "id": "ddl-2026-0sle6es-370",
       "year": "2026",
       "school": "山东大学",
       "dept": "集成电路学院",
@@ -6410,7 +6308,7 @@ window.BOLU_DDL = {
       "search": "山东大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-1ehir5v-377",
+      "id": "ddl-2026-1ehir5v-371",
       "year": "2026",
       "school": "深圳大学",
       "dept": "人工智能学院",
@@ -6427,7 +6325,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0akma4v-378",
+      "id": "ddl-2026-0akma4v-372",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "光电与智能研究院",
@@ -6444,7 +6342,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 光电与智能研究院"
     },
     {
-      "id": "ddl-2026-0zu7fhl-379",
+      "id": "ddl-2026-0zu7fhl-373",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "集成电路学院（微电子学院）",
@@ -6461,7 +6359,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 集成电路学院（微电子学院）"
     },
     {
-      "id": "ddl-2026-1e8p7ym-380",
+      "id": "ddl-2026-1e8p7ym-374",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "网络空间安全学院",
@@ -6478,7 +6376,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-1e2hwl2-381",
+      "id": "ddl-2026-1e2hwl2-375",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "无人系统技术研究院/人工智能学院",
@@ -6495,7 +6393,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 无人系统技术研究院/人工智能学院"
     },
     {
-      "id": "ddl-2026-0c1cuf6-382",
+      "id": "ddl-2026-0c1cuf6-376",
       "year": "2026",
       "school": "山东大学",
       "dept": "人工智能学院",
@@ -6512,7 +6410,7 @@ window.BOLU_DDL = {
       "search": "山东大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1cs8dx4-383",
+      "id": "ddl-2026-1cs8dx4-377",
       "year": "2026",
       "school": "山东大学",
       "dept": "计算机科学与技术学院",
@@ -6529,7 +6427,7 @@ window.BOLU_DDL = {
       "search": "山东大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-07o7iid-384",
+      "id": "ddl-2026-07o7iid-378",
       "year": "2026",
       "school": "海军工程大学",
       "dept": "",
@@ -6546,7 +6444,7 @@ window.BOLU_DDL = {
       "search": "海军工程大学"
     },
     {
-      "id": "ddl-2026-0gub6uv-385",
+      "id": "ddl-2026-0gub6uv-379",
       "year": "2026",
       "school": "武汉大学",
       "dept": "国家网络安全学院",
@@ -6563,7 +6461,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 国家网络安全学院"
     },
     {
-      "id": "ddl-2026-0k3wzzz-386",
+      "id": "ddl-2026-0k3wzzz-380",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "生物医学工程学院",
@@ -6580,7 +6478,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 生物医学工程学院"
     },
     {
-      "id": "ddl-2026-0xia15k-387",
+      "id": "ddl-2026-0xia15k-381",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "物理学院",
@@ -6597,7 +6495,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 物理学院"
     },
     {
-      "id": "ddl-2026-09goiwv-388",
+      "id": "ddl-2026-09goiwv-382",
       "year": "2026",
       "school": "天津大学",
       "dept": "宣怀学院",
@@ -6614,7 +6512,7 @@ window.BOLU_DDL = {
       "search": "天津大学 宣怀学院"
     },
     {
-      "id": "ddl-2026-0ji0eds-389",
+      "id": "ddl-2026-0ji0eds-383",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "空天科学与技术学院",
@@ -6631,7 +6529,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 空天科学与技术学院"
     },
     {
-      "id": "ddl-2026-0hiv3r3-390",
+      "id": "ddl-2026-0hiv3r3-384",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "海洋学院",
@@ -6648,7 +6546,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 海洋学院"
     },
     {
-      "id": "ddl-2026-1bc1e2q-391",
+      "id": "ddl-2026-1bc1e2q-385",
       "year": "2026",
       "school": "海南大学",
       "dept": "生物医学工程学院",
@@ -6665,7 +6563,7 @@ window.BOLU_DDL = {
       "search": "海南大学 生物医学工程学院"
     },
     {
-      "id": "ddl-2026-12p4kkj-392",
+      "id": "ddl-2026-12p4kkj-386",
       "year": "2026",
       "school": "吉林大学",
       "dept": "建设工程学院",
@@ -6682,7 +6580,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 建设工程学院"
     },
     {
-      "id": "ddl-2026-1330w1b-393",
+      "id": "ddl-2026-1330w1b-387",
       "year": "2026",
       "school": "天津大学",
       "dept": "软件学院",
@@ -6699,7 +6597,7 @@ window.BOLU_DDL = {
       "search": "天津大学 软件学院"
     },
     {
-      "id": "ddl-2026-0nelsam-394",
+      "id": "ddl-2026-0nelsam-388",
       "year": "2026",
       "school": "中国水利水电科学研究院",
       "dept": "中国水利水电科学研究院",
@@ -6716,7 +6614,7 @@ window.BOLU_DDL = {
       "search": "中国水利水电科学研究院 中国水利水电科学研究院"
     },
     {
-      "id": "ddl-2026-14a9rad-395",
+      "id": "ddl-2026-14a9rad-389",
       "year": "2026",
       "school": "大连理工大学",
       "dept": "计算机科学与技术学院",
@@ -6733,7 +6631,7 @@ window.BOLU_DDL = {
       "search": "大连理工大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-0yfsxr9-396",
+      "id": "ddl-2026-0yfsxr9-390",
       "year": "2026",
       "school": "中国人民大学",
       "dept": "公共管理学院",
@@ -6750,7 +6648,7 @@ window.BOLU_DDL = {
       "search": "中国人民大学 公共管理学院"
     },
     {
-      "id": "ddl-2026-1nre81f-397",
+      "id": "ddl-2026-1nre81f-391",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "计算机学院",
@@ -6767,7 +6665,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 计算机学院"
     },
     {
-      "id": "ddl-2026-1oqjhpd-398",
+      "id": "ddl-2026-1oqjhpd-392",
       "year": "2026",
       "school": "华北电力大学",
       "dept": "控制与计算机工程学院",
@@ -6784,7 +6682,7 @@ window.BOLU_DDL = {
       "search": "华北电力大学 控制与计算机工程学院"
     },
     {
-      "id": "ddl-2026-0rxm8fb-399",
+      "id": "ddl-2026-0rxm8fb-393",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "集成电路学院（信息与电子工程学院）",
@@ -6801,7 +6699,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 集成电路学院（信息与电子工程学院）"
     },
     {
-      "id": "ddl-2026-0f3jgrw-400",
+      "id": "ddl-2026-0f3jgrw-394",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "上海智能教育研究院",
@@ -6818,7 +6716,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 上海智能教育研究院"
     },
     {
-      "id": "ddl-2026-04edfji-401",
+      "id": "ddl-2026-04edfji-395",
       "year": "2026",
       "school": "西南交通大学",
       "dept": "计算机与人工智能学院",
@@ -6835,7 +6733,7 @@ window.BOLU_DDL = {
       "search": "西南交通大学 计算机与人工智能学院"
     },
     {
-      "id": "ddl-2026-11xv353-402",
+      "id": "ddl-2026-11xv353-396",
       "year": "2026",
       "school": "陆军工程大学",
       "dept": "",
@@ -6852,7 +6750,7 @@ window.BOLU_DDL = {
       "search": "陆军工程大学"
     },
     {
-      "id": "ddl-2026-0rprdrl-403",
+      "id": "ddl-2026-0rprdrl-397",
       "year": "2026",
       "school": "中国科学院",
       "dept": "深圳先进技术研究院",
@@ -6869,7 +6767,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 深圳先进技术研究院"
     },
     {
-      "id": "ddl-2026-074dhri-404",
+      "id": "ddl-2026-074dhri-398",
       "year": "2026",
       "school": "中国科学院",
       "dept": "深圳先进技术研究院-合成生物学研究所",
@@ -6886,7 +6784,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 深圳先进技术研究院-合成生物学研究所"
     },
     {
-      "id": "ddl-2026-1jgvbze-405",
+      "id": "ddl-2026-1jgvbze-399",
       "year": "2026",
       "school": "中国科学院",
       "dept": "深圳先进技术研究院-脑认知与脑疾病研究所",
@@ -6903,7 +6801,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 深圳先进技术研究院-脑认知与脑疾病研究所"
     },
     {
-      "id": "ddl-2026-0ewbubx-406",
+      "id": "ddl-2026-0ewbubx-400",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "密码学院",
@@ -6920,7 +6818,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 密码学院"
     },
     {
-      "id": "ddl-2026-1vl0tco-407",
+      "id": "ddl-2026-1vl0tco-401",
       "year": "2026",
       "school": "中山大学",
       "dept": "智能工程学院",
@@ -6937,7 +6835,7 @@ window.BOLU_DDL = {
       "search": "中山大学 智能工程学院"
     },
     {
-      "id": "ddl-2026-0as0idq-408",
+      "id": "ddl-2026-0as0idq-402",
       "year": "2026",
       "school": "上海财经大学",
       "dept": "计算机与人工智能学院",
@@ -6954,7 +6852,7 @@ window.BOLU_DDL = {
       "search": "上海财经大学 计算机与人工智能学院"
     },
     {
-      "id": "ddl-2026-1qzig6x-409",
+      "id": "ddl-2026-1qzig6x-403",
       "year": "2026",
       "school": "北京第二外国语学院",
       "dept": "人工智能与语言科学学院",
@@ -6971,7 +6869,7 @@ window.BOLU_DDL = {
       "search": "北京第二外国语学院 人工智能与语言科学学院"
     },
     {
-      "id": "ddl-2026-0g3724o-410",
+      "id": "ddl-2026-0g3724o-404",
       "year": "2026",
       "school": "华中科技大学",
       "dept": "计算机科学与技术学院",
@@ -6988,7 +6886,7 @@ window.BOLU_DDL = {
       "search": "华中科技大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-0k27p26-411",
+      "id": "ddl-2026-0k27p26-405",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "通信抗干扰全国重点实验室",
@@ -7005,7 +6903,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 通信抗干扰全国重点实验室"
     },
     {
-      "id": "ddl-2026-0y4ohwx-412",
+      "id": "ddl-2026-0y4ohwx-406",
       "year": "2026",
       "school": "中国农业科学院",
       "dept": "信息所",
@@ -7022,7 +6920,7 @@ window.BOLU_DDL = {
       "search": "中国农业科学院 信息所"
     },
     {
-      "id": "ddl-2026-0xt9cdz-413",
+      "id": "ddl-2026-0xt9cdz-407",
       "year": "2026",
       "school": "中南大学",
       "dept": "人工智能学院",
@@ -7039,7 +6937,7 @@ window.BOLU_DDL = {
       "search": "中南大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-03d2flc-414",
+      "id": "ddl-2026-03d2flc-408",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "电子信息工程学院电磁兼容与防护全国重点实验室",
@@ -7056,7 +6954,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 电子信息工程学院电磁兼容与防护全国重点实验室"
     },
     {
-      "id": "ddl-2026-1kkkzxz-415",
+      "id": "ddl-2026-1kkkzxz-409",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "电子信息工程学院电磁兼容与防护全国重点实验室（重庆）",
@@ -7073,7 +6971,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 电子信息工程学院电磁兼容与防护全国重点实验室（重庆）"
     },
     {
-      "id": "ddl-2026-01w07nz-416",
+      "id": "ddl-2026-01w07nz-410",
       "year": "2026",
       "school": "山东大学",
       "dept": "新闻传播学院",
@@ -7090,7 +6988,7 @@ window.BOLU_DDL = {
       "search": "山东大学 新闻传播学院"
     },
     {
-      "id": "ddl-2026-1eql51l-417",
+      "id": "ddl-2026-1eql51l-411",
       "year": "2026",
       "school": "北京林业大学",
       "dept": "信息学院（人工智能学院）",
@@ -7107,7 +7005,7 @@ window.BOLU_DDL = {
       "search": "北京林业大学 信息学院（人工智能学院）"
     },
     {
-      "id": "ddl-2026-0vi2qzd-418",
+      "id": "ddl-2026-0vi2qzd-412",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "溥渊未来技术学院",
@@ -7124,7 +7022,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 溥渊未来技术学院"
     },
     {
-      "id": "ddl-2026-1d0q1rz-419",
+      "id": "ddl-2026-1d0q1rz-413",
       "year": "2026",
       "school": "山东大学",
       "dept": "控制学院",
@@ -7141,24 +7039,7 @@ window.BOLU_DDL = {
       "search": "山东大学 控制学院"
     },
     {
-      "id": "ddl-2026-1f53a14-420",
-      "year": "2026",
-      "school": "自然资源部",
-      "dept": "第二海洋研究所",
-      "dateText": "2026/7/12 0:00",
-      "precision": "exact",
-      "deadline": "2026-07-12T00:00:00+08:00",
-      "start": "",
-      "openConfirmed": "false",
-      "validity": "normal",
-      "url": "https://www.sio.org.cn/a/tzgg/23253.html",
-      "applyUrl": "",
-      "note": "",
-      "checked": "",
-      "search": "自然资源部 第二海洋研究所"
-    },
-    {
-      "id": "ddl-2026-0ni5565-421",
+      "id": "ddl-2026-0ni5565-414",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "浦江国际学院",
@@ -7175,7 +7056,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 浦江国际学院"
     },
     {
-      "id": "ddl-2026-1ej0tdh-422",
+      "id": "ddl-2026-1ej0tdh-415",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "医学磁共振与分子影像技术研究院",
@@ -7192,7 +7073,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 医学磁共振与分子影像技术研究院"
     },
     {
-      "id": "ddl-2026-0wtopap-423",
+      "id": "ddl-2026-0wtopap-416",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "电气工程学院",
@@ -7209,7 +7090,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-08lruod-424",
+      "id": "ddl-2026-08lruod-417",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "航空航天学院",
@@ -7226,7 +7107,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 航空航天学院"
     },
     {
-      "id": "ddl-2026-1qxuoc1-425",
+      "id": "ddl-2026-1qxuoc1-418",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "心理学院",
@@ -7243,7 +7124,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 心理学院"
     },
     {
-      "id": "ddl-2026-0k5oc97-426",
+      "id": "ddl-2026-0k5oc97-419",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "人工智能学院",
@@ -7260,7 +7141,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1aqr9p0-427",
+      "id": "ddl-2026-1aqr9p0-420",
       "year": "2026",
       "school": "大连理工大学",
       "dept": "医学部",
@@ -7277,7 +7158,7 @@ window.BOLU_DDL = {
       "search": "大连理工大学 医学部"
     },
     {
-      "id": "ddl-2026-0gf4xlw-428",
+      "id": "ddl-2026-0gf4xlw-421",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "前沿交叉科学院",
@@ -7294,7 +7175,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 前沿交叉科学院"
     },
     {
-      "id": "ddl-2026-0wst27j-429",
+      "id": "ddl-2026-0wst27j-422",
       "year": "2026",
       "school": "电子科技大学（深圳）",
       "dept": "高等研究院",
@@ -7311,7 +7192,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学（深圳） 高等研究院"
     },
     {
-      "id": "ddl-2026-0xzn25p-430",
+      "id": "ddl-2026-0xzn25p-423",
       "year": "2026",
       "school": "北京语言大学",
       "dept": "信息科学学院",
@@ -7328,7 +7209,7 @@ window.BOLU_DDL = {
       "search": "北京语言大学 信息科学学院"
     },
     {
-      "id": "ddl-2026-0p3zlka-431",
+      "id": "ddl-2026-0p3zlka-424",
       "year": "2026",
       "school": "天津工业大学",
       "dept": "纺织科学与工程学院",
@@ -7345,7 +7226,7 @@ window.BOLU_DDL = {
       "search": "天津工业大学 纺织科学与工程学院"
     },
     {
-      "id": "ddl-2026-1xuunxo-432",
+      "id": "ddl-2026-1xuunxo-425",
       "year": "2026",
       "school": "哈尔滨工程大学",
       "dept": "计算机科学与技术学院",
@@ -7362,7 +7243,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工程大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-02t99ki-433",
+      "id": "ddl-2026-02t99ki-426",
       "year": "2026",
       "school": "上海海事大学",
       "dept": "信息科学技术学院",
@@ -7379,7 +7260,7 @@ window.BOLU_DDL = {
       "search": "上海海事大学 信息科学技术学院"
     },
     {
-      "id": "ddl-2026-0x68c25-434",
+      "id": "ddl-2026-0x68c25-427",
       "year": "2026",
       "school": "北京林业大学",
       "dept": "工学院",
@@ -7396,7 +7277,7 @@ window.BOLU_DDL = {
       "search": "北京林业大学 工学院"
     },
     {
-      "id": "ddl-2026-1rcdeb9-435",
+      "id": "ddl-2026-1rcdeb9-428",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "船舶海洋与建筑工程学院",
@@ -7413,7 +7294,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 船舶海洋与建筑工程学院"
     },
     {
-      "id": "ddl-2026-02aocz2-436",
+      "id": "ddl-2026-02aocz2-429",
       "year": "2026",
       "school": "南京农业大学",
       "dept": "智慧农业学院（人工智能学院）",
@@ -7430,7 +7311,7 @@ window.BOLU_DDL = {
       "search": "南京农业大学 智慧农业学院（人工智能学院）"
     },
     {
-      "id": "ddl-2026-0n9e63h-437",
+      "id": "ddl-2026-0n9e63h-430",
       "year": "2026",
       "school": "南京邮电大学",
       "dept": "理学院",
@@ -7447,7 +7328,7 @@ window.BOLU_DDL = {
       "search": "南京邮电大学 理学院"
     },
     {
-      "id": "ddl-2026-1padzw7-438",
+      "id": "ddl-2026-1padzw7-431",
       "year": "2026",
       "school": "中国石油大学（北京）",
       "dept": "石油工程学院",
@@ -7464,7 +7345,7 @@ window.BOLU_DDL = {
       "search": "中国石油大学（北京） 石油工程学院"
     },
     {
-      "id": "ddl-2026-1oszg9v-439",
+      "id": "ddl-2026-1oszg9v-432",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "天文与空间科学学院",
@@ -7481,7 +7362,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 天文与空间科学学院"
     },
     {
-      "id": "ddl-2026-0jx5smh-440",
+      "id": "ddl-2026-0jx5smh-433",
       "year": "2026",
       "school": "哈尔滨工程大学",
       "dept": "信息与通信工程学院/集成电路学院",
@@ -7498,7 +7379,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工程大学 信息与通信工程学院/集成电路学院"
     },
     {
-      "id": "ddl-2026-182ztx1-441",
+      "id": "ddl-2026-182ztx1-434",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "气象海洋学院-创新营",
@@ -7515,7 +7396,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 气象海洋学院-创新营"
     },
     {
-      "id": "ddl-2026-15hxtu2-442",
+      "id": "ddl-2026-15hxtu2-435",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "生命科学与技术学院",
@@ -7532,7 +7413,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 生命科学与技术学院"
     },
     {
-      "id": "ddl-2026-1ma36uv-443",
+      "id": "ddl-2026-1ma36uv-436",
       "year": "2026",
       "school": "中国人民大学",
       "dept": "统计与大数据研究院",
@@ -7549,7 +7430,7 @@ window.BOLU_DDL = {
       "search": "中国人民大学 统计与大数据研究院"
     },
     {
-      "id": "ddl-2026-15kl41y-444",
+      "id": "ddl-2026-15kl41y-437",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "软件学院",
@@ -7566,7 +7447,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 软件学院"
     },
     {
-      "id": "ddl-2026-0qd4e0b-445",
+      "id": "ddl-2026-0qd4e0b-438",
       "year": "2026",
       "school": "中国科学院",
       "dept": "近代物理研究所",
@@ -7583,7 +7464,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 近代物理研究所"
     },
     {
-      "id": "ddl-2026-1lp0dpy-446",
+      "id": "ddl-2026-1lp0dpy-439",
       "year": "2026",
       "school": "中国人民大学",
       "dept": "高瓴人工智能学院",
@@ -7600,7 +7481,7 @@ window.BOLU_DDL = {
       "search": "中国人民大学 高瓴人工智能学院"
     },
     {
-      "id": "ddl-2026-0w8fry0-447",
+      "id": "ddl-2026-0w8fry0-440",
       "year": "2026",
       "school": "北京林业大学",
       "dept": "心理学系",
@@ -7617,7 +7498,7 @@ window.BOLU_DDL = {
       "search": "北京林业大学 心理学系"
     },
     {
-      "id": "ddl-2026-0dohtf0-448",
+      "id": "ddl-2026-0dohtf0-441",
       "year": "2026",
       "school": "中国科学院",
       "dept": "深圳先进技术研究院生物医学与健康工程研究所",
@@ -7634,7 +7515,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 深圳先进技术研究院生物医学与健康工程研究所"
     },
     {
-      "id": "ddl-2026-1wx8v5t-449",
+      "id": "ddl-2026-1wx8v5t-442",
       "year": "2026",
       "school": "中国机械总院",
       "dept": "",
@@ -7651,7 +7532,7 @@ window.BOLU_DDL = {
       "search": "中国机械总院"
     },
     {
-      "id": "ddl-2026-0iyhqos-450",
+      "id": "ddl-2026-0iyhqos-443",
       "year": "2026",
       "school": "大连理工大学",
       "dept": "电气工程学院",
@@ -7668,7 +7549,7 @@ window.BOLU_DDL = {
       "search": "大连理工大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-1hmbys1-451",
+      "id": "ddl-2026-1hmbys1-444",
       "year": "2026",
       "school": "中国科学院",
       "dept": "计算技术研究所暑期班",
@@ -7685,7 +7566,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 计算技术研究所暑期班"
     },
     {
-      "id": "ddl-2026-1fqci7o-452",
+      "id": "ddl-2026-1fqci7o-445",
       "year": "2026",
       "school": "山东大学",
       "dept": "密码科学与工程学院",
@@ -7702,7 +7583,7 @@ window.BOLU_DDL = {
       "search": "山东大学 密码科学与工程学院"
     },
     {
-      "id": "ddl-2026-19b6152-453",
+      "id": "ddl-2026-19b6152-446",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "郑州高等研究院",
@@ -7719,7 +7600,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 郑州高等研究院"
     },
     {
-      "id": "ddl-2026-0jlbd81-454",
+      "id": "ddl-2026-0jlbd81-447",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "国家电投智慧能源创新学院",
@@ -7736,7 +7617,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 国家电投智慧能源创新学院"
     },
     {
-      "id": "ddl-2026-0j5ewhn-455",
+      "id": "ddl-2026-0j5ewhn-448",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "重庆研究院",
@@ -7753,7 +7634,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 重庆研究院"
     },
     {
-      "id": "ddl-2026-0obfx2l-456",
+      "id": "ddl-2026-0obfx2l-449",
       "year": "2026",
       "school": "南京理工大学",
       "dept": "集成电路学院（微电子学院）",
@@ -7770,7 +7651,7 @@ window.BOLU_DDL = {
       "search": "南京理工大学 集成电路学院（微电子学院）"
     },
     {
-      "id": "ddl-2026-1ngomob-457",
+      "id": "ddl-2026-1ngomob-450",
       "year": "2026",
       "school": "武汉大学",
       "dept": "地球与空间科学技术学院",
@@ -7787,7 +7668,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 地球与空间科学技术学院"
     },
     {
-      "id": "ddl-2026-0j28r61-458",
+      "id": "ddl-2026-0j28r61-451",
       "year": "2026",
       "school": "江南大学",
       "dept": "数学与数据科学学院",
@@ -7804,7 +7685,7 @@ window.BOLU_DDL = {
       "search": "江南大学 数学与数据科学学院"
     },
     {
-      "id": "ddl-2026-1q6gp0s-459",
+      "id": "ddl-2026-1q6gp0s-452",
       "year": "2026",
       "school": "大连理工大学",
       "dept": "生物工程学院",
@@ -7821,7 +7702,7 @@ window.BOLU_DDL = {
       "search": "大连理工大学 生物工程学院"
     },
     {
-      "id": "ddl-2026-0f2iepe-460",
+      "id": "ddl-2026-0f2iepe-453",
       "year": "2026",
       "school": "香港科技大学（广州）",
       "dept": "生命科学与生物医学工程学域",
@@ -7838,7 +7719,7 @@ window.BOLU_DDL = {
       "search": "香港科技大学（广州） 生命科学与生物医学工程学域"
     },
     {
-      "id": "ddl-2026-05dqlqn-461",
+      "id": "ddl-2026-05dqlqn-454",
       "year": "2026",
       "school": "山东大学",
       "dept": "智能通信技术研究院",
@@ -7855,7 +7736,7 @@ window.BOLU_DDL = {
       "search": "山东大学 智能通信技术研究院"
     },
     {
-      "id": "ddl-2026-0zg0iz7-462",
+      "id": "ddl-2026-0zg0iz7-455",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "空天信息创新研究院",
@@ -7872,7 +7753,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 空天信息创新研究院"
     },
     {
-      "id": "ddl-2026-16ixk2t-463",
+      "id": "ddl-2026-16ixk2t-456",
       "year": "2026",
       "school": "东南大学",
       "dept": "统计与数据科学学院",
@@ -7889,7 +7770,7 @@ window.BOLU_DDL = {
       "search": "东南大学 统计与数据科学学院"
     },
     {
-      "id": "ddl-2026-124tlp4-464",
+      "id": "ddl-2026-124tlp4-457",
       "year": "2026",
       "school": "中山大学",
       "dept": "微电子科学与技术学院",
@@ -7906,7 +7787,7 @@ window.BOLU_DDL = {
       "search": "中山大学 微电子科学与技术学院"
     },
     {
-      "id": "ddl-2026-10lqi9q-465",
+      "id": "ddl-2026-10lqi9q-458",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "系统工程学院（第二批）",
@@ -7923,7 +7804,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 系统工程学院（第二批）"
     },
     {
-      "id": "ddl-2026-0rtv55o-466",
+      "id": "ddl-2026-0rtv55o-459",
       "year": "2026",
       "school": "南京邮电大学",
       "dept": "通信与信息工程学院",
@@ -7940,7 +7821,7 @@ window.BOLU_DDL = {
       "search": "南京邮电大学 通信与信息工程学院"
     },
     {
-      "id": "ddl-2026-17zkfi7-467",
+      "id": "ddl-2026-17zkfi7-460",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "电子对抗学院",
@@ -7957,7 +7838,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 电子对抗学院"
     },
     {
-      "id": "ddl-2026-0w434j2-468",
+      "id": "ddl-2026-0w434j2-461",
       "year": "2026",
       "school": "南京大学",
       "dept": "匡亚明学院",
@@ -7974,7 +7855,7 @@ window.BOLU_DDL = {
       "search": "南京大学 匡亚明学院"
     },
     {
-      "id": "ddl-2026-1hti5sq-469",
+      "id": "ddl-2026-1hti5sq-462",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "电子对抗学院-创新营",
@@ -7991,7 +7872,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 电子对抗学院-创新营"
     },
     {
-      "id": "ddl-2026-026k2qs-470",
+      "id": "ddl-2026-026k2qs-463",
       "year": "2026",
       "school": "中南大学",
       "dept": "计算机学院",
@@ -8008,7 +7889,7 @@ window.BOLU_DDL = {
       "search": "中南大学 计算机学院"
     },
     {
-      "id": "ddl-2026-0sjgmvk-471",
+      "id": "ddl-2026-0sjgmvk-464",
       "year": "2026",
       "school": "云南大学",
       "dept": "信息学院",
@@ -8025,7 +7906,7 @@ window.BOLU_DDL = {
       "search": "云南大学 信息学院"
     },
     {
-      "id": "ddl-2026-0hs7y1c-472",
+      "id": "ddl-2026-0hs7y1c-465",
       "year": "2026",
       "school": "香港中文大学（深圳）",
       "dept": "理工学院",
@@ -8042,7 +7923,7 @@ window.BOLU_DDL = {
       "search": "香港中文大学（深圳） 理工学院"
     },
     {
-      "id": "ddl-2026-0lei0c8-473",
+      "id": "ddl-2026-0lei0c8-466",
       "year": "2026",
       "school": "浙江大学",
       "dept": "控制科学与工程学院",
@@ -8059,7 +7940,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 控制科学与工程学院"
     },
     {
-      "id": "ddl-2026-0mr3o51-474",
+      "id": "ddl-2026-0mr3o51-467",
       "year": "2026",
       "school": "中山大学",
       "dept": "海洋工程与技术学院",
@@ -8076,7 +7957,7 @@ window.BOLU_DDL = {
       "search": "中山大学 海洋工程与技术学院"
     },
     {
-      "id": "ddl-2026-1vw0wo1-475",
+      "id": "ddl-2026-1vw0wo1-468",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "南加州大学文化创意产业学院",
@@ -8093,7 +7974,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 南加州大学文化创意产业学院"
     },
     {
-      "id": "ddl-2026-1usn756-476",
+      "id": "ddl-2026-1usn756-469",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "电子对抗学院-网络空间安全前沿技术-暑期",
@@ -8110,7 +7991,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 电子对抗学院-网络空间安全前沿技术-暑期"
     },
     {
-      "id": "ddl-2026-1pd4gzj-477",
+      "id": "ddl-2026-1pd4gzj-470",
       "year": "2026",
       "school": "中南大学",
       "dept": "电子信息学院",
@@ -8127,7 +8008,7 @@ window.BOLU_DDL = {
       "search": "中南大学 电子信息学院"
     },
     {
-      "id": "ddl-2026-1raxfi7-478",
+      "id": "ddl-2026-1raxfi7-471",
       "year": "2026",
       "school": "中国科学院",
       "dept": "长春光学精密机械与物理研究所",
@@ -8144,7 +8025,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 长春光学精密机械与物理研究所"
     },
     {
-      "id": "ddl-2026-0325sb3-479",
+      "id": "ddl-2026-0325sb3-472",
       "year": "2026",
       "school": "中国科学院",
       "dept": "自动化研究所",
@@ -8161,7 +8042,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 自动化研究所"
     },
     {
-      "id": "ddl-2026-0iyb3h7-480",
+      "id": "ddl-2026-0iyb3h7-473",
       "year": "2026",
       "school": "临港实验室",
       "dept": "",
@@ -8178,7 +8059,7 @@ window.BOLU_DDL = {
       "search": "临港实验室"
     },
     {
-      "id": "ddl-2026-08ntnnz-481",
+      "id": "ddl-2026-08ntnnz-474",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "体育系",
@@ -8195,7 +8076,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 体育系"
     },
     {
-      "id": "ddl-2026-0gzu0ys-482",
+      "id": "ddl-2026-0gzu0ys-475",
       "year": "2026",
       "school": "长安大学",
       "dept": "数据科学与人工智能研究院",
@@ -8212,7 +8093,7 @@ window.BOLU_DDL = {
       "search": "长安大学 数据科学与人工智能研究院"
     },
     {
-      "id": "ddl-2026-0ds8i9f-483",
+      "id": "ddl-2026-0ds8i9f-476",
       "year": "2026",
       "school": "东南大学",
       "dept": "土木工程学院",
@@ -8229,7 +8110,7 @@ window.BOLU_DDL = {
       "search": "东南大学 土木工程学院"
     },
     {
-      "id": "ddl-2026-0n6nevx-484",
+      "id": "ddl-2026-0n6nevx-477",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "苏州研究院",
@@ -8246,7 +8127,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 苏州研究院"
     },
     {
-      "id": "ddl-2026-0pt3ktt-485",
+      "id": "ddl-2026-0pt3ktt-478",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "智能科学学院（第二批）",
@@ -8263,7 +8144,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 智能科学学院（第二批）"
     },
     {
-      "id": "ddl-2026-0provv5-486",
+      "id": "ddl-2026-0provv5-479",
       "year": "2026",
       "school": "信息支援部队工程大学",
       "dept": "",
@@ -8280,7 +8161,7 @@ window.BOLU_DDL = {
       "search": "信息支援部队工程大学"
     },
     {
-      "id": "ddl-2026-0rf1x07-487",
+      "id": "ddl-2026-0rf1x07-480",
       "year": "2026",
       "school": "军事科学院",
       "dept": "军事科学院",
@@ -8297,7 +8178,7 @@ window.BOLU_DDL = {
       "search": "军事科学院 军事科学院"
     },
     {
-      "id": "ddl-2026-0serfdf-488",
+      "id": "ddl-2026-0serfdf-481",
       "year": "2026",
       "school": "清华大学",
       "dept": "深圳国际研究生院-智慧物流与工业智能项目",
@@ -8314,7 +8195,7 @@ window.BOLU_DDL = {
       "search": "清华大学 深圳国际研究生院-智慧物流与工业智能项目"
     },
     {
-      "id": "ddl-2026-0wewxoz-489",
+      "id": "ddl-2026-0wewxoz-482",
       "year": "2026",
       "school": "清华大学",
       "dept": "电机工程与应用电子技术系",
@@ -8331,7 +8212,7 @@ window.BOLU_DDL = {
       "search": "清华大学 电机工程与应用电子技术系"
     },
     {
-      "id": "ddl-2026-0d810c9-490",
+      "id": "ddl-2026-0d810c9-483",
       "year": "2026",
       "school": "清华大学",
       "dept": "电子工程系",
@@ -8348,7 +8229,7 @@ window.BOLU_DDL = {
       "search": "清华大学 电子工程系"
     },
     {
-      "id": "ddl-2026-1ccd1rb-491",
+      "id": "ddl-2026-1ccd1rb-484",
       "year": "2026",
       "school": "清华大学",
       "dept": "高等研究院",
@@ -8365,7 +8246,7 @@ window.BOLU_DDL = {
       "search": "清华大学 高等研究院"
     },
     {
-      "id": "ddl-2026-12ol7e8-492",
+      "id": "ddl-2026-12ol7e8-485",
       "year": "2026",
       "school": "清华大学",
       "dept": "集成电路学院",
@@ -8382,7 +8263,7 @@ window.BOLU_DDL = {
       "search": "清华大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-0k6w272-493",
+      "id": "ddl-2026-0k6w272-486",
       "year": "2026",
       "school": "清华大学",
       "dept": "集成电路学院集成电路创新博士班项目",
@@ -8399,7 +8280,7 @@ window.BOLU_DDL = {
       "search": "清华大学 集成电路学院集成电路创新博士班项目"
     },
     {
-      "id": "ddl-2026-1ol3sov-494",
+      "id": "ddl-2026-1ol3sov-487",
       "year": "2026",
       "school": "清华大学",
       "dept": "计算机科学与技术系",
@@ -8416,7 +8297,7 @@ window.BOLU_DDL = {
       "search": "清华大学 计算机科学与技术系"
     },
     {
-      "id": "ddl-2026-0w16055-495",
+      "id": "ddl-2026-0w16055-488",
       "year": "2026",
       "school": "清华大学",
       "dept": "深圳国际研究生院-南方科技大学联合培养专项",
@@ -8433,7 +8314,7 @@ window.BOLU_DDL = {
       "search": "清华大学 深圳国际研究生院-南方科技大学联合培养专项"
     },
     {
-      "id": "ddl-2026-1q7ldqc-496",
+      "id": "ddl-2026-1q7ldqc-489",
       "year": "2026",
       "school": "清华大学",
       "dept": "深圳国际研究生院-鹏城国家实验室联合培养专项计划",
@@ -8450,7 +8331,7 @@ window.BOLU_DDL = {
       "search": "清华大学 深圳国际研究生院-鹏城国家实验室联合培养专项计划"
     },
     {
-      "id": "ddl-2026-1f1dvs2-497",
+      "id": "ddl-2026-1f1dvs2-490",
       "year": "2026",
       "school": "清华大学",
       "dept": "求真书院",
@@ -8467,7 +8348,7 @@ window.BOLU_DDL = {
       "search": "清华大学 求真书院"
     },
     {
-      "id": "ddl-2026-1vud2uo-498",
+      "id": "ddl-2026-1vud2uo-491",
       "year": "2026",
       "school": "清华大学",
       "dept": "软件学院",
@@ -8484,7 +8365,7 @@ window.BOLU_DDL = {
       "search": "清华大学 软件学院"
     },
     {
-      "id": "ddl-2026-0fhocyc-499",
+      "id": "ddl-2026-0fhocyc-492",
       "year": "2026",
       "school": "清华大学",
       "dept": "网络科学与网络空间研究院",
@@ -8501,7 +8382,7 @@ window.BOLU_DDL = {
       "search": "清华大学 网络科学与网络空间研究院"
     },
     {
-      "id": "ddl-2026-1dnlhsi-500",
+      "id": "ddl-2026-1dnlhsi-493",
       "year": "2026",
       "school": "清华大学",
       "dept": "交叉信息研究院",
@@ -8518,7 +8399,7 @@ window.BOLU_DDL = {
       "search": "清华大学 交叉信息研究院"
     },
     {
-      "id": "ddl-2026-01crmh7-501",
+      "id": "ddl-2026-01crmh7-494",
       "year": "2026",
       "school": "清华大学",
       "dept": "人工智能学院",
@@ -8535,7 +8416,7 @@ window.BOLU_DDL = {
       "search": "清华大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0c7pntd-502",
+      "id": "ddl-2026-0c7pntd-495",
       "year": "2026",
       "school": "清华大学",
       "dept": "双螺旋中心",
@@ -8552,7 +8433,7 @@ window.BOLU_DDL = {
       "search": "清华大学 双螺旋中心"
     },
     {
-      "id": "ddl-2026-1b9s70j-503",
+      "id": "ddl-2026-1b9s70j-496",
       "year": "2026",
       "school": "清华大学（深圳）",
       "dept": "IMDT",
@@ -8569,7 +8450,7 @@ window.BOLU_DDL = {
       "search": "清华大学（深圳） IMDT"
     },
     {
-      "id": "ddl-2026-1ny6u6l-504",
+      "id": "ddl-2026-1ny6u6l-497",
       "year": "2026",
       "school": "清华大学（深圳）",
       "dept": "海洋工程研究院",
@@ -8586,7 +8467,7 @@ window.BOLU_DDL = {
       "search": "清华大学（深圳） 海洋工程研究院"
     },
     {
-      "id": "ddl-2026-07zmi4i-505",
+      "id": "ddl-2026-07zmi4i-498",
       "year": "2026",
       "school": "清华大学",
       "dept": "OpenFIESTA",
@@ -8603,7 +8484,7 @@ window.BOLU_DDL = {
       "search": "清华大学 OpenFIESTA"
     },
     {
-      "id": "ddl-2026-1s0aekw-506",
+      "id": "ddl-2026-1s0aekw-499",
       "year": "2026",
       "school": "天津大学",
       "dept": "福州国际联合学院",
@@ -8620,7 +8501,7 @@ window.BOLU_DDL = {
       "search": "天津大学 福州国际联合学院"
     },
     {
-      "id": "ddl-2026-0sdsujl-507",
+      "id": "ddl-2026-0sdsujl-500",
       "year": "2026",
       "school": "东南大学",
       "dept": "信息科学与工程学院",
@@ -8637,7 +8518,7 @@ window.BOLU_DDL = {
       "search": "东南大学 信息科学与工程学院"
     },
     {
-      "id": "ddl-2026-0amz380-508",
+      "id": "ddl-2026-0amz380-501",
       "year": "2026",
       "school": "东南大学",
       "dept": "生物科学与医学工程学院",
@@ -8654,7 +8535,7 @@ window.BOLU_DDL = {
       "search": "东南大学 生物科学与医学工程学院"
     },
     {
-      "id": "ddl-2026-19uakju-509",
+      "id": "ddl-2026-19uakju-502",
       "year": "2026",
       "school": "山东大学",
       "dept": "齐鲁交通学院",
@@ -8671,7 +8552,7 @@ window.BOLU_DDL = {
       "search": "山东大学 齐鲁交通学院"
     },
     {
-      "id": "ddl-2026-02832vd-510",
+      "id": "ddl-2026-02832vd-503",
       "year": "2026",
       "school": "空军工程大学",
       "dept": "",
@@ -8688,7 +8569,7 @@ window.BOLU_DDL = {
       "search": "空军工程大学"
     },
     {
-      "id": "ddl-2026-15mno3j-511",
+      "id": "ddl-2026-15mno3j-504",
       "year": "2026",
       "school": "中国科学院",
       "dept": "上海药物所",
@@ -8705,7 +8586,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 上海药物所"
     },
     {
-      "id": "ddl-2026-0zked8d-512",
+      "id": "ddl-2026-0zked8d-505",
       "year": "2026",
       "school": "南京理工大学",
       "dept": "网络空间安全学院",
@@ -8722,7 +8603,7 @@ window.BOLU_DDL = {
       "search": "南京理工大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-01cubv6-513",
+      "id": "ddl-2026-01cubv6-506",
       "year": "2026",
       "school": "南京理工大学",
       "dept": "计算机科学与工程学院 （人工智能学院、软件学院）",
@@ -8739,7 +8620,7 @@ window.BOLU_DDL = {
       "search": "南京理工大学 计算机科学与工程学院 （人工智能学院、软件学院）"
     },
     {
-      "id": "ddl-2026-0cn2w7c-514",
+      "id": "ddl-2026-0cn2w7c-507",
       "year": "2026",
       "school": "中国科学院",
       "dept": "合肥物质科学研究院(中国科学技术大学-科学岛分院)",
@@ -8756,7 +8637,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 合肥物质科学研究院(中国科学技术大学-科学岛分院)"
     },
     {
-      "id": "ddl-2026-0flyvws-515",
+      "id": "ddl-2026-0flyvws-508",
       "year": "2026",
       "school": "南京理工大学",
       "dept": "智能科学与技术学院",
@@ -8773,7 +8654,7 @@ window.BOLU_DDL = {
       "search": "南京理工大学 智能科学与技术学院"
     },
     {
-      "id": "ddl-2026-1bxuji2-516",
+      "id": "ddl-2026-1bxuji2-509",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "环境科学与光电技术学院科学岛（第二批）",
@@ -8790,7 +8671,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 环境科学与光电技术学院科学岛（第二批）"
     },
     {
-      "id": "ddl-2026-01v0qr3-517",
+      "id": "ddl-2026-01v0qr3-510",
       "year": "2026",
       "school": "中国科学院",
       "dept": "光电技术研究所（第二期）",
@@ -8807,7 +8688,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 光电技术研究所（第二期）"
     },
     {
-      "id": "ddl-2026-0hrbev8-518",
+      "id": "ddl-2026-0hrbev8-511",
       "year": "2026",
       "school": "东南大学",
       "dept": "电气工程学院",
@@ -8824,7 +8705,7 @@ window.BOLU_DDL = {
       "search": "东南大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-16x1epf-519",
+      "id": "ddl-2026-16x1epf-512",
       "year": "2026",
       "school": "东南大学",
       "dept": "自动化学院",
@@ -8841,7 +8722,7 @@ window.BOLU_DDL = {
       "search": "东南大学 自动化学院"
     },
     {
-      "id": "ddl-2026-1nfo9ej-520",
+      "id": "ddl-2026-1nfo9ej-513",
       "year": "2026",
       "school": "东南大学",
       "dept": "集成电路学院",
@@ -8858,7 +8739,7 @@ window.BOLU_DDL = {
       "search": "东南大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-1liv8zu-521",
+      "id": "ddl-2026-1liv8zu-514",
       "year": "2026",
       "school": "东南大学",
       "dept": "交通学院",
@@ -8875,7 +8756,7 @@ window.BOLU_DDL = {
       "search": "东南大学 交通学院"
     },
     {
-      "id": "ddl-2026-1cpms92-522",
+      "id": "ddl-2026-1cpms92-515",
       "year": "2026",
       "school": "东南大学",
       "dept": "蒙纳士大学国际学院（苏州）-新一代电子信息技术",
@@ -8892,7 +8773,7 @@ window.BOLU_DDL = {
       "search": "东南大学 蒙纳士大学国际学院（苏州）-新一代电子信息技术"
     },
     {
-      "id": "ddl-2026-1m7yhzy-523",
+      "id": "ddl-2026-1m7yhzy-516",
       "year": "2026",
       "school": "南京理工大学",
       "dept": "自动化学院",
@@ -8909,7 +8790,7 @@ window.BOLU_DDL = {
       "search": "南京理工大学 自动化学院"
     },
     {
-      "id": "ddl-2026-0vsab28-524",
+      "id": "ddl-2026-0vsab28-517",
       "year": "2026",
       "school": "南京大学",
       "dept": "人工智能学院-LAMDA实验室",
@@ -8926,7 +8807,7 @@ window.BOLU_DDL = {
       "search": "南京大学 人工智能学院-LAMDA实验室"
     },
     {
-      "id": "ddl-2026-0kuhwdw-525",
+      "id": "ddl-2026-0kuhwdw-518",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "上海创芯学院",
@@ -8943,7 +8824,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 上海创芯学院"
     },
     {
-      "id": "ddl-2026-0mznkaa-526",
+      "id": "ddl-2026-0mznkaa-519",
       "year": "2026",
       "school": "长安大学",
       "dept": "信息工程学院",
@@ -8960,7 +8841,7 @@ window.BOLU_DDL = {
       "search": "长安大学 信息工程学院"
     },
     {
-      "id": "ddl-2026-15iks7w-527",
+      "id": "ddl-2026-15iks7w-520",
       "year": "2026",
       "school": "东南大学",
       "dept": "统计与数据科学学院",
@@ -8977,7 +8858,7 @@ window.BOLU_DDL = {
       "search": "东南大学 统计与数据科学学院"
     },
     {
-      "id": "ddl-2026-160x3g4-528",
+      "id": "ddl-2026-160x3g4-521",
       "year": "2026",
       "school": "同济大学",
       "dept": "交通学院低空技术与工程",
@@ -8994,7 +8875,7 @@ window.BOLU_DDL = {
       "search": "同济大学 交通学院低空技术与工程"
     },
     {
-      "id": "ddl-2026-17n6738-529",
+      "id": "ddl-2026-17n6738-522",
       "year": "2026",
       "school": "同济大学",
       "dept": "城市交通研究院城市交通交叉学科",
@@ -9011,7 +8892,7 @@ window.BOLU_DDL = {
       "search": "同济大学 城市交通研究院城市交通交叉学科"
     },
     {
-      "id": "ddl-2026-1lyjlte-530",
+      "id": "ddl-2026-1lyjlte-523",
       "year": "2026",
       "school": "同济大学",
       "dept": "生命科学与技术学院",
@@ -9028,7 +8909,7 @@ window.BOLU_DDL = {
       "search": "同济大学 生命科学与技术学院"
     },
     {
-      "id": "ddl-2026-00bl206-531",
+      "id": "ddl-2026-00bl206-524",
       "year": "2026",
       "school": "复旦大学",
       "dept": "大数据学院",
@@ -9045,7 +8926,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 大数据学院"
     },
     {
-      "id": "ddl-2026-0cpd9pj-532",
+      "id": "ddl-2026-0cpd9pj-525",
       "year": "2026",
       "school": "深圳河套学院",
       "dept": "深圳河套学院",
@@ -9062,7 +8943,7 @@ window.BOLU_DDL = {
       "search": "深圳河套学院 深圳河套学院"
     },
     {
-      "id": "ddl-2026-1s5wn3y-533",
+      "id": "ddl-2026-1s5wn3y-526",
       "year": "2026",
       "school": "东南大学",
       "dept": "计算机科学与工程学院、软件学院",
@@ -9079,7 +8960,7 @@ window.BOLU_DDL = {
       "search": "东南大学 计算机科学与工程学院、软件学院"
     },
     {
-      "id": "ddl-2026-10mulwi-534",
+      "id": "ddl-2026-10mulwi-527",
       "year": "2026",
       "school": "东南大学",
       "dept": "雷恩研究生学院-计算机技术",
@@ -9096,7 +8977,7 @@ window.BOLU_DDL = {
       "search": "东南大学 雷恩研究生学院-计算机技术"
     },
     {
-      "id": "ddl-2026-0mjl60q-535",
+      "id": "ddl-2026-0mjl60q-528",
       "year": "2026",
       "school": "东南大学",
       "dept": "网络空间安全学院",
@@ -9113,7 +8994,7 @@ window.BOLU_DDL = {
       "search": "东南大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-1gpbi52-536",
+      "id": "ddl-2026-1gpbi52-529",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "航空科学与工程学院",
@@ -9130,7 +9011,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 航空科学与工程学院"
     },
     {
-      "id": "ddl-2026-0l03wrq-537",
+      "id": "ddl-2026-0l03wrq-530",
       "year": "2026",
       "school": "复旦大学",
       "dept": "智能复杂体系基础理论与关键技术实验室",
@@ -9147,7 +9028,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 智能复杂体系基础理论与关键技术实验室"
     },
     {
-      "id": "ddl-2026-1pnari8-538",
+      "id": "ddl-2026-1pnari8-531",
       "year": "2026",
       "school": "复旦大学",
       "dept": "类脑智能科学与技术研究院",
@@ -9164,7 +9045,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 类脑智能科学与技术研究院"
     },
     {
-      "id": "ddl-2026-0qdck1o-539",
+      "id": "ddl-2026-0qdck1o-532",
       "year": "2026",
       "school": "复旦大学",
       "dept": "数字医学研究中心",
@@ -9181,7 +9062,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 数字医学研究中心"
     },
     {
-      "id": "ddl-2026-0cizmum-540",
+      "id": "ddl-2026-0cizmum-533",
       "year": "2026",
       "school": "复旦大学",
       "dept": "智能医学研究院",
@@ -9198,7 +9079,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 智能医学研究院"
     },
     {
-      "id": "ddl-2026-0vz0062-541",
+      "id": "ddl-2026-0vz0062-534",
       "year": "2026",
       "school": "长安大学",
       "dept": "汽车学院",
@@ -9215,7 +9096,7 @@ window.BOLU_DDL = {
       "search": "长安大学 汽车学院"
     },
     {
-      "id": "ddl-2026-00p8c17-542",
+      "id": "ddl-2026-00p8c17-535",
       "year": "2026",
       "school": "中国科学院",
       "dept": "沈阳自动化研究所",
@@ -9232,7 +9113,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 沈阳自动化研究所"
     },
     {
-      "id": "ddl-2026-1d6t50e-543",
+      "id": "ddl-2026-1d6t50e-536",
       "year": "2026",
       "school": "南京大学",
       "dept": "计算机学院",
@@ -9249,7 +9130,7 @@ window.BOLU_DDL = {
       "search": "南京大学 计算机学院"
     },
     {
-      "id": "ddl-2026-09yqipi-544",
+      "id": "ddl-2026-09yqipi-537",
       "year": "2026",
       "school": "中山大学",
       "dept": "计算机学院",
@@ -9266,7 +9147,7 @@ window.BOLU_DDL = {
       "search": "中山大学 计算机学院"
     },
     {
-      "id": "ddl-2026-1pqywsq-545",
+      "id": "ddl-2026-1pqywsq-538",
       "year": "2026",
       "school": "合肥工业大学",
       "dept": "计算机与信息学院",
@@ -9283,7 +9164,7 @@ window.BOLU_DDL = {
       "search": "合肥工业大学 计算机与信息学院"
     },
     {
-      "id": "ddl-2026-1uzo99p-546",
+      "id": "ddl-2026-1uzo99p-539",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "重庆研究院",
@@ -9300,7 +9181,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 重庆研究院"
     },
     {
-      "id": "ddl-2026-1cgs6yv-547",
+      "id": "ddl-2026-1cgs6yv-540",
       "year": "2026",
       "school": "东南大学",
       "dept": "电子科学与工程学院",
@@ -9317,7 +9198,7 @@ window.BOLU_DDL = {
       "search": "东南大学 电子科学与工程学院"
     },
     {
-      "id": "ddl-2026-0w0fkzi-548",
+      "id": "ddl-2026-0w0fkzi-541",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "统计与数据科学系",
@@ -9334,7 +9215,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 统计与数据科学系"
     },
     {
-      "id": "ddl-2026-13gueux-549",
+      "id": "ddl-2026-13gueux-542",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "集成电路科学与工程学院",
@@ -9351,7 +9232,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 集成电路科学与工程学院"
     },
     {
-      "id": "ddl-2026-0qfxuxv-550",
+      "id": "ddl-2026-0qfxuxv-543",
       "year": "2026",
       "school": "南京大学",
       "dept": "人工智能学院",
@@ -9368,7 +9249,7 @@ window.BOLU_DDL = {
       "search": "南京大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-11g2ohs-551",
+      "id": "ddl-2026-11g2ohs-544",
       "year": "2026",
       "school": "南京大学",
       "dept": "智能科学与技术学院",
@@ -9385,7 +9266,7 @@ window.BOLU_DDL = {
       "search": "南京大学 智能科学与技术学院"
     },
     {
-      "id": "ddl-2026-1t4lo2k-552",
+      "id": "ddl-2026-1t4lo2k-545",
       "year": "2026",
       "school": "南京理工大学",
       "dept": "电子工程与光电技术学院",
@@ -9402,7 +9283,7 @@ window.BOLU_DDL = {
       "search": "南京理工大学 电子工程与光电技术学院"
     },
     {
-      "id": "ddl-2026-1wgju6w-553",
+      "id": "ddl-2026-1wgju6w-546",
       "year": "2026",
       "school": "重庆邮电大学",
       "dept": "通信与信息工程学院",
@@ -9419,7 +9300,7 @@ window.BOLU_DDL = {
       "search": "重庆邮电大学 通信与信息工程学院"
     },
     {
-      "id": "ddl-2026-1lf75if-554",
+      "id": "ddl-2026-1lf75if-547",
       "year": "2026",
       "school": "东南大学",
       "dept": "仪器科学与工程学院",
@@ -9436,7 +9317,7 @@ window.BOLU_DDL = {
       "search": "东南大学 仪器科学与工程学院"
     },
     {
-      "id": "ddl-2026-0q5z7kk-555",
+      "id": "ddl-2026-0q5z7kk-548",
       "year": "2026",
       "school": "中南大学",
       "dept": "国家卓越工程师学院",
@@ -9453,7 +9334,7 @@ window.BOLU_DDL = {
       "search": "中南大学 国家卓越工程师学院"
     },
     {
-      "id": "ddl-2026-10d785l-556",
+      "id": "ddl-2026-10d785l-549",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "自动化工程学院",
@@ -9470,7 +9351,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 自动化工程学院"
     },
     {
-      "id": "ddl-2026-0u2t262-557",
+      "id": "ddl-2026-0u2t262-550",
       "year": "2026",
       "school": "复旦大学",
       "dept": "未来信息创新学院",
@@ -9487,7 +9368,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 未来信息创新学院"
     },
     {
-      "id": "ddl-2026-1xrhax5-558",
+      "id": "ddl-2026-1xrhax5-551",
       "year": "2026",
       "school": "同济大学",
       "dept": "经济与管理学院-金融硕士",
@@ -9504,7 +9385,7 @@ window.BOLU_DDL = {
       "search": "同济大学 经济与管理学院-金融硕士"
     },
     {
-      "id": "ddl-2026-129fi6q-559",
+      "id": "ddl-2026-129fi6q-552",
       "year": "2026",
       "school": "南京大学",
       "dept": "软件学院",
@@ -9521,7 +9402,7 @@ window.BOLU_DDL = {
       "search": "南京大学 软件学院"
     },
     {
-      "id": "ddl-2026-16hgp8q-560",
+      "id": "ddl-2026-16hgp8q-553",
       "year": "2026",
       "school": "复旦大学",
       "dept": "代谢与整合生物学研究院",
@@ -9538,7 +9419,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 代谢与整合生物学研究院"
     },
     {
-      "id": "ddl-2026-0ziw6mw-561",
+      "id": "ddl-2026-0ziw6mw-554",
       "year": "2026",
       "school": "复旦大学",
       "dept": "计算与智能创新学院",
@@ -9555,7 +9436,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 计算与智能创新学院"
     },
     {
-      "id": "ddl-2026-0dnthqg-562",
+      "id": "ddl-2026-0dnthqg-555",
       "year": "2026",
       "school": "复旦大学",
       "dept": "人类表型组研究院",
@@ -9572,7 +9453,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 人类表型组研究院"
     },
     {
-      "id": "ddl-2026-0yfkk6u-563",
+      "id": "ddl-2026-0yfkk6u-556",
       "year": "2026",
       "school": "中央民族大学",
       "dept": "信息工程学院",
@@ -9589,7 +9470,7 @@ window.BOLU_DDL = {
       "search": "中央民族大学 信息工程学院"
     },
     {
-      "id": "ddl-2026-1ovo9c4-564",
+      "id": "ddl-2026-1ovo9c4-557",
       "year": "2026",
       "school": "南京大学",
       "dept": "智能软件与工程学院",
@@ -9606,7 +9487,7 @@ window.BOLU_DDL = {
       "search": "南京大学 智能软件与工程学院"
     },
     {
-      "id": "ddl-2026-0m36n3u-565",
+      "id": "ddl-2026-0m36n3u-558",
       "year": "2026",
       "school": "中山大学",
       "dept": "电子与信息工程学院",
@@ -9623,7 +9504,7 @@ window.BOLU_DDL = {
       "search": "中山大学 电子与信息工程学院"
     },
     {
-      "id": "ddl-2026-1powmom-566",
+      "id": "ddl-2026-1powmom-559",
       "year": "2026",
       "school": "中山大学",
       "dept": "软件工程学院",
@@ -9640,7 +9521,7 @@ window.BOLU_DDL = {
       "search": "中山大学 软件工程学院"
     },
     {
-      "id": "ddl-2026-0eexe3g-567",
+      "id": "ddl-2026-0eexe3g-560",
       "year": "2026",
       "school": "重庆邮电大学",
       "dept": "人工智能学院",
@@ -9657,7 +9538,7 @@ window.BOLU_DDL = {
       "search": "重庆邮电大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0p551x0-568",
+      "id": "ddl-2026-0p551x0-561",
       "year": "2026",
       "school": "上海财经大学",
       "dept": "交叉科学研究院",
@@ -9674,7 +9555,7 @@ window.BOLU_DDL = {
       "search": "上海财经大学 交叉科学研究院"
     },
     {
-      "id": "ddl-2026-0bjwa0a-569",
+      "id": "ddl-2026-0bjwa0a-562",
       "year": "2026",
       "school": "上海财经大学",
       "dept": "统计与数据科学学院",
@@ -9691,7 +9572,7 @@ window.BOLU_DDL = {
       "search": "上海财经大学 统计与数据科学学院"
     },
     {
-      "id": "ddl-2026-13uj5ah-570",
+      "id": "ddl-2026-13uj5ah-563",
       "year": "2026",
       "school": "上海财经大学",
       "dept": "计算机与人工智能学院",
@@ -9708,7 +9589,7 @@ window.BOLU_DDL = {
       "search": "上海财经大学 计算机与人工智能学院"
     },
     {
-      "id": "ddl-2026-0oma0zw-571",
+      "id": "ddl-2026-0oma0zw-564",
       "year": "2026",
       "school": "厦门大学",
       "dept": "航空航天学院",
@@ -9725,7 +9606,7 @@ window.BOLU_DDL = {
       "search": "厦门大学 航空航天学院"
     },
     {
-      "id": "ddl-2026-0r7besd-572",
+      "id": "ddl-2026-0r7besd-565",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "信息与通信工程学院",
@@ -9742,7 +9623,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 信息与通信工程学院"
     },
     {
-      "id": "ddl-2026-0krdf9t-573",
+      "id": "ddl-2026-0krdf9t-566",
       "year": "2026",
       "school": "中山大学",
       "dept": "遥感科学与技术学院",
@@ -9759,7 +9640,7 @@ window.BOLU_DDL = {
       "search": "中山大学 遥感科学与技术学院"
     },
     {
-      "id": "ddl-2026-1p8b01h-574",
+      "id": "ddl-2026-1p8b01h-567",
       "year": "2026",
       "school": "中国药科大学",
       "dept": "人工智能学院",
@@ -9776,7 +9657,7 @@ window.BOLU_DDL = {
       "search": "中国药科大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0ic7hw2-575",
+      "id": "ddl-2026-0ic7hw2-568",
       "year": "2026",
       "school": "东南大学",
       "dept": "蒙纳士大学国际学院-健康数据科学",
@@ -9793,7 +9674,7 @@ window.BOLU_DDL = {
       "search": "东南大学 蒙纳士大学国际学院-健康数据科学"
     },
     {
-      "id": "ddl-2026-1hbixmu-576",
+      "id": "ddl-2026-1hbixmu-569",
       "year": "2026",
       "school": "同济大学",
       "dept": "上海自主智能无人系统科学中心",
@@ -9810,7 +9691,7 @@ window.BOLU_DDL = {
       "search": "同济大学 上海自主智能无人系统科学中心"
     },
     {
-      "id": "ddl-2026-148cw1e-577",
+      "id": "ddl-2026-148cw1e-570",
       "year": "2026",
       "school": "北京协和医学院",
       "dept": "脑和类脑学院",
@@ -9827,7 +9708,7 @@ window.BOLU_DDL = {
       "search": "北京协和医学院 脑和类脑学院"
     },
     {
-      "id": "ddl-2026-1vzgq7h-578",
+      "id": "ddl-2026-1vzgq7h-571",
       "year": "2026",
       "school": "吉林大学",
       "dept": "通信工程学院",
@@ -9844,7 +9725,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 通信工程学院"
     },
     {
-      "id": "ddl-2026-0hqd94j-579",
+      "id": "ddl-2026-0hqd94j-572",
       "year": "2026",
       "school": "中山大学",
       "dept": "集成电路学院",
@@ -9861,7 +9742,7 @@ window.BOLU_DDL = {
       "search": "中山大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-0nejrp5-580",
+      "id": "ddl-2026-0nejrp5-573",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "计算学部",
@@ -9878,7 +9759,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 计算学部"
     },
     {
-      "id": "ddl-2026-0ur0rbi-581",
+      "id": "ddl-2026-0ur0rbi-574",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "信息科学与技术学院",
@@ -9895,7 +9776,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 信息科学与技术学院"
     },
     {
-      "id": "ddl-2026-1inosqs-582",
+      "id": "ddl-2026-1inosqs-575",
       "year": "2026",
       "school": "中山大学",
       "dept": "智能工程学院",
@@ -9912,7 +9793,7 @@ window.BOLU_DDL = {
       "search": "中山大学 智能工程学院"
     },
     {
-      "id": "ddl-2026-1abjry9-583",
+      "id": "ddl-2026-1abjry9-576",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "& 上海创芯学院",
@@ -9929,7 +9810,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 & 上海创芯学院"
     },
     {
-      "id": "ddl-2026-10i7d48-584",
+      "id": "ddl-2026-10i7d48-577",
       "year": "2026",
       "school": "南开大学",
       "dept": "人工智能学院",
@@ -9946,7 +9827,7 @@ window.BOLU_DDL = {
       "search": "南开大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1ch13zs-585",
+      "id": "ddl-2026-1ch13zs-578",
       "year": "2026",
       "school": "同济大学",
       "dept": "中德学院",
@@ -9963,7 +9844,7 @@ window.BOLU_DDL = {
       "search": "同济大学 中德学院"
     },
     {
-      "id": "ddl-2026-1ebq9c3-586",
+      "id": "ddl-2026-1ebq9c3-579",
       "year": "2026",
       "school": "中央民族大学",
       "dept": "理学院",
@@ -9980,7 +9861,7 @@ window.BOLU_DDL = {
       "search": "中央民族大学 理学院"
     },
     {
-      "id": "ddl-2026-0i3oa35-587",
+      "id": "ddl-2026-0i3oa35-580",
       "year": "2026",
       "school": "同济大学",
       "dept": "计算机科学与技术学院",
@@ -9997,7 +9878,7 @@ window.BOLU_DDL = {
       "search": "同济大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-0mzq70t-588",
+      "id": "ddl-2026-0mzq70t-581",
       "year": "2026",
       "school": "同济大学",
       "dept": "电子与信息工程学院",
@@ -10014,7 +9895,7 @@ window.BOLU_DDL = {
       "search": "同济大学 电子与信息工程学院"
     },
     {
-      "id": "ddl-2026-18vlagz-589",
+      "id": "ddl-2026-18vlagz-582",
       "year": "2026",
       "school": "厦门大学",
       "dept": "智能制造学院",
@@ -10031,7 +9912,7 @@ window.BOLU_DDL = {
       "search": "厦门大学 智能制造学院"
     },
     {
-      "id": "ddl-2026-0i6gpf8-590",
+      "id": "ddl-2026-0i6gpf8-583",
       "year": "2026",
       "school": "中山大学",
       "dept": "网络空间安全学院",
@@ -10048,7 +9929,7 @@ window.BOLU_DDL = {
       "search": "中山大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-1vhxgs3-591",
+      "id": "ddl-2026-1vhxgs3-584",
       "year": "2026",
       "school": "南开大学",
       "dept": "国家经济战略研究院",
@@ -10065,7 +9946,7 @@ window.BOLU_DDL = {
       "search": "南开大学 国家经济战略研究院"
     },
     {
-      "id": "ddl-2026-08ao5dw-592",
+      "id": "ddl-2026-08ao5dw-585",
       "year": "2026",
       "school": "中国科学院",
       "dept": "自动化研究所",
@@ -10082,7 +9963,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 自动化研究所"
     },
     {
-      "id": "ddl-2026-09nb256-593",
+      "id": "ddl-2026-09nb256-586",
       "year": "2026",
       "school": "苏州大学",
       "dept": "计算机科学与技术学院、软件学院",
@@ -10099,7 +9980,7 @@ window.BOLU_DDL = {
       "search": "苏州大学 计算机科学与技术学院、软件学院"
     },
     {
-      "id": "ddl-2026-18qoyl8-594",
+      "id": "ddl-2026-18qoyl8-587",
       "year": "2026",
       "school": "哈尔滨工业大学（深圳）",
       "dept": "信息学部计算机科学与技术学院",
@@ -10116,7 +9997,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（深圳） 信息学部计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-1fudaab-595",
+      "id": "ddl-2026-1fudaab-588",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "自动化与智能制造学院",
@@ -10133,7 +10014,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 自动化与智能制造学院"
     },
     {
-      "id": "ddl-2026-1m34vsm-596",
+      "id": "ddl-2026-1m34vsm-589",
       "year": "2026",
       "school": "南开大学",
       "dept": "统计与数据科学学院",
@@ -10150,7 +10031,7 @@ window.BOLU_DDL = {
       "search": "南开大学 统计与数据科学学院"
     },
     {
-      "id": "ddl-2026-1q3yaxv-597",
+      "id": "ddl-2026-1q3yaxv-590",
       "year": "2026",
       "school": "南开大学",
       "dept": "药学院",
@@ -10167,7 +10048,7 @@ window.BOLU_DDL = {
       "search": "南开大学 药学院"
     },
     {
-      "id": "ddl-2026-0z2f2to-598",
+      "id": "ddl-2026-0z2f2to-591",
       "year": "2026",
       "school": "中国科学院",
       "dept": "分子细胞科学卓越创新中心",
@@ -10184,7 +10065,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 分子细胞科学卓越创新中心"
     },
     {
-      "id": "ddl-2026-0a90r6y-599",
+      "id": "ddl-2026-0a90r6y-592",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "电气工程及自动化学院",
@@ -10201,7 +10082,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 电气工程及自动化学院"
     },
     {
-      "id": "ddl-2026-1133391-600",
+      "id": "ddl-2026-1133391-593",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "仪器科学与工程学院",
@@ -10218,7 +10099,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 仪器科学与工程学院"
     },
     {
-      "id": "ddl-2026-1nr16on-601",
+      "id": "ddl-2026-1nr16on-594",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "仪器科学与工程学院",
@@ -10235,7 +10116,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 仪器科学与工程学院"
     },
     {
-      "id": "ddl-2026-00w7dw3-602",
+      "id": "ddl-2026-00w7dw3-595",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "仪器科学与工程学院",
@@ -10252,7 +10133,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 仪器科学与工程学院"
     },
     {
-      "id": "ddl-2026-1i9axfv-603",
+      "id": "ddl-2026-1i9axfv-596",
       "year": "2026",
       "school": "北京科技大学",
       "dept": "计算机与通信工程学院",
@@ -10269,7 +10150,7 @@ window.BOLU_DDL = {
       "search": "北京科技大学 计算机与通信工程学院"
     },
     {
-      "id": "ddl-2026-10uscas-604",
+      "id": "ddl-2026-10uscas-597",
       "year": "2026",
       "school": "中央财经大学",
       "dept": "国家数据工程与安全学院",
@@ -10286,7 +10167,7 @@ window.BOLU_DDL = {
       "search": "中央财经大学 国家数据工程与安全学院"
     },
     {
-      "id": "ddl-2026-1dixg69-605",
+      "id": "ddl-2026-1dixg69-598",
       "year": "2026",
       "school": "中央财经大学",
       "dept": "信息学院",
@@ -10303,7 +10184,7 @@ window.BOLU_DDL = {
       "search": "中央财经大学 信息学院"
     },
     {
-      "id": "ddl-2026-1vm61pn-606",
+      "id": "ddl-2026-1vm61pn-599",
       "year": "2026",
       "school": "南京大学",
       "dept": "先进制造学院",
@@ -10320,7 +10201,7 @@ window.BOLU_DDL = {
       "search": "南京大学 先进制造学院"
     },
     {
-      "id": "ddl-2026-0zdamy0-607",
+      "id": "ddl-2026-0zdamy0-600",
       "year": "2026",
       "school": "南京大学",
       "dept": "生物医学工程学院",
@@ -10337,7 +10218,7 @@ window.BOLU_DDL = {
       "search": "南京大学 生物医学工程学院"
     },
     {
-      "id": "ddl-2026-0aoi8hy-608",
+      "id": "ddl-2026-0aoi8hy-601",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "国家卓越工程师学院",
@@ -10354,7 +10235,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 国家卓越工程师学院"
     },
     {
-      "id": "ddl-2026-1p9uy3h-609",
+      "id": "ddl-2026-1p9uy3h-602",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "电子电气与通信工程学院",
@@ -10371,7 +10252,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 电子电气与通信工程学院"
     },
     {
-      "id": "ddl-2026-0p1u018-610",
+      "id": "ddl-2026-0p1u018-603",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "计算机科学与工程系",
@@ -10388,7 +10269,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 计算机科学与工程系"
     },
     {
-      "id": "ddl-2026-0s3fe9j-611",
+      "id": "ddl-2026-0s3fe9j-604",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "计算机科学与工程系-国优计划",
@@ -10405,7 +10286,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 计算机科学与工程系-国优计划"
     },
     {
-      "id": "ddl-2026-0loo4r5-612",
+      "id": "ddl-2026-0loo4r5-605",
       "year": "2026",
       "school": "西南财经大学",
       "dept": "计算机与人工智能学院",
@@ -10422,7 +10303,7 @@ window.BOLU_DDL = {
       "search": "西南财经大学 计算机与人工智能学院"
     },
     {
-      "id": "ddl-2026-19gar8q-613",
+      "id": "ddl-2026-19gar8q-606",
       "year": "2026",
       "school": "南京理工大学",
       "dept": "集成电路学院",
@@ -10439,7 +10320,7 @@ window.BOLU_DDL = {
       "search": "南京理工大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-0oxjvgi-614",
+      "id": "ddl-2026-0oxjvgi-607",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "电子与电气工程系",
@@ -10456,7 +10337,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 电子与电气工程系"
     },
     {
-      "id": "ddl-2026-0g8fng8-615",
+      "id": "ddl-2026-0g8fng8-608",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "深港微电子学院",
@@ -10473,7 +10354,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 深港微电子学院"
     },
     {
-      "id": "ddl-2026-0o8wgxr-616",
+      "id": "ddl-2026-0o8wgxr-609",
       "year": "2026",
       "school": "厦门大学",
       "dept": "电影学院",
@@ -10490,7 +10371,7 @@ window.BOLU_DDL = {
       "search": "厦门大学 电影学院"
     },
     {
-      "id": "ddl-2026-0yvsfqb-617",
+      "id": "ddl-2026-0yvsfqb-610",
       "year": "2026",
       "school": "哈尔滨工业大学（深圳）",
       "dept": "医工学院",
@@ -10507,7 +10388,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（深圳） 医工学院"
     },
     {
-      "id": "ddl-2026-0r9jslk-618",
+      "id": "ddl-2026-0r9jslk-611",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "自动化与智能制造学院-工程硕博",
@@ -10524,7 +10405,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 自动化与智能制造学院-工程硕博"
     },
     {
-      "id": "ddl-2026-1ex2ykx-619",
+      "id": "ddl-2026-1ex2ykx-612",
       "year": "2026",
       "school": "深圳大学",
       "dept": "工程硕博士专项计划",
@@ -10541,7 +10422,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 工程硕博士专项计划"
     },
     {
-      "id": "ddl-2026-0wh332x-620",
+      "id": "ddl-2026-0wh332x-613",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "创新创业学院",
@@ -10558,7 +10439,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 创新创业学院"
     },
     {
-      "id": "ddl-2026-1k4sq3k-621",
+      "id": "ddl-2026-1k4sq3k-614",
       "year": "2026",
       "school": "南京大学",
       "dept": "集成电路学院",
@@ -10575,7 +10456,7 @@ window.BOLU_DDL = {
       "search": "南京大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-1lds8vq-622",
+      "id": "ddl-2026-1lds8vq-615",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "药学院",
@@ -10592,7 +10473,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 药学院"
     },
     {
-      "id": "ddl-2026-1drucnh-623",
+      "id": "ddl-2026-1drucnh-616",
       "year": "2026",
       "school": "南开大学",
       "dept": "软件学院",
@@ -10609,7 +10490,7 @@ window.BOLU_DDL = {
       "search": "南开大学 软件学院"
     },
     {
-      "id": "ddl-2026-1g2rwf5-624",
+      "id": "ddl-2026-1g2rwf5-617",
       "year": "2026",
       "school": "南京理工大学",
       "dept": "电子工程与光电技术学院",
@@ -10626,7 +10507,7 @@ window.BOLU_DDL = {
       "search": "南京理工大学 电子工程与光电技术学院"
     },
     {
-      "id": "ddl-2026-1i184dj-625",
+      "id": "ddl-2026-1i184dj-618",
       "year": "2026",
       "school": "南京理工大学",
       "dept": "智能科学与技术学院",
@@ -10643,7 +10524,7 @@ window.BOLU_DDL = {
       "search": "南京理工大学 智能科学与技术学院"
     },
     {
-      "id": "ddl-2026-143n41p-626",
+      "id": "ddl-2026-143n41p-619",
       "year": "2026",
       "school": "厦门大学",
       "dept": "人工智能研究院",
@@ -10660,7 +10541,7 @@ window.BOLU_DDL = {
       "search": "厦门大学 人工智能研究院"
     },
     {
-      "id": "ddl-2026-06z50cv-627",
+      "id": "ddl-2026-06z50cv-620",
       "year": "2026",
       "school": "中国科学院",
       "dept": "计算机网络信息中心",
@@ -10677,7 +10558,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 计算机网络信息中心"
     },
     {
-      "id": "ddl-2026-1w2w9du-628",
+      "id": "ddl-2026-1w2w9du-621",
       "year": "2026",
       "school": "南京理工大学",
       "dept": "计算机科学与工程学院（人工智能学院、软件学院）",
@@ -10694,7 +10575,7 @@ window.BOLU_DDL = {
       "search": "南京理工大学 计算机科学与工程学院（人工智能学院、软件学院）"
     },
     {
-      "id": "ddl-2026-1kevwm9-629",
+      "id": "ddl-2026-1kevwm9-622",
       "year": "2026",
       "school": "南京理工大学",
       "dept": "网络空间安全学院",
@@ -10711,7 +10592,7 @@ window.BOLU_DDL = {
       "search": "南京理工大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-1mp6951-630",
+      "id": "ddl-2026-1mp6951-623",
       "year": "2026",
       "school": "南开大学",
       "dept": "卓越工程师学院-工程硕博士培养改革专项",
@@ -10728,7 +10609,7 @@ window.BOLU_DDL = {
       "search": "南开大学 卓越工程师学院-工程硕博士培养改革专项"
     },
     {
-      "id": "ddl-2026-0s39ze7-631",
+      "id": "ddl-2026-0s39ze7-624",
       "year": "2026",
       "school": "中国科学院",
       "dept": "计算技术研究所",
@@ -10745,7 +10626,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 计算技术研究所"
     },
     {
-      "id": "ddl-2026-1u2z3oj-632",
+      "id": "ddl-2026-1u2z3oj-625",
       "year": "2026",
       "school": "东北大学",
       "dept": "信息科学与工程学院",
@@ -10762,7 +10643,7 @@ window.BOLU_DDL = {
       "search": "东北大学 信息科学与工程学院"
     },
     {
-      "id": "ddl-2026-036xmbq-633",
+      "id": "ddl-2026-036xmbq-626",
       "year": "2026",
       "school": "中国石油大学（北京）",
       "dept": "人工智能学院",
@@ -10779,7 +10660,7 @@ window.BOLU_DDL = {
       "search": "中国石油大学（北京） 人工智能学院"
     },
     {
-      "id": "ddl-2026-1sfvue3-634",
+      "id": "ddl-2026-1sfvue3-627",
       "year": "2026",
       "school": "北京科技大学",
       "dept": "人工智能学院",
@@ -10796,7 +10677,7 @@ window.BOLU_DDL = {
       "search": "北京科技大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1wvlcfm-635",
+      "id": "ddl-2026-1wvlcfm-628",
       "year": "2026",
       "school": "北京科技大学",
       "dept": "现代农学院",
@@ -10813,7 +10694,7 @@ window.BOLU_DDL = {
       "search": "北京科技大学 现代农学院"
     },
     {
-      "id": "ddl-2026-0son709-636",
+      "id": "ddl-2026-0son709-629",
       "year": "2026",
       "school": "北京科技大学",
       "dept": "高精尖学院",
@@ -10830,7 +10711,7 @@ window.BOLU_DDL = {
       "search": "北京科技大学 高精尖学院"
     },
     {
-      "id": "ddl-2026-0wjs3ov-637",
+      "id": "ddl-2026-0wjs3ov-630",
       "year": "2026",
       "school": "北京科技大学",
       "dept": "顺德创新学院",
@@ -10847,7 +10728,7 @@ window.BOLU_DDL = {
       "search": "北京科技大学 顺德创新学院"
     },
     {
-      "id": "ddl-2026-0mobr44-638",
+      "id": "ddl-2026-0mobr44-631",
       "year": "2026",
       "school": "北京科技大学",
       "dept": "自动化学院",
@@ -10864,7 +10745,7 @@ window.BOLU_DDL = {
       "search": "北京科技大学 自动化学院"
     },
     {
-      "id": "ddl-2026-0v8ahsl-639",
+      "id": "ddl-2026-0v8ahsl-632",
       "year": "2026",
       "school": "中山大学",
       "dept": "人工智能学院",
@@ -10881,7 +10762,7 @@ window.BOLU_DDL = {
       "search": "中山大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0c01oel-640",
+      "id": "ddl-2026-0c01oel-633",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "前沿交叉科学学院",
@@ -10898,7 +10779,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 前沿交叉科学学院"
     },
     {
-      "id": "ddl-2026-1l4h8y0-641",
+      "id": "ddl-2026-1l4h8y0-634",
       "year": "2026",
       "school": "南京大学",
       "dept": "电子科学与工程学院",
@@ -10915,7 +10796,7 @@ window.BOLU_DDL = {
       "search": "南京大学 电子科学与工程学院"
     },
     {
-      "id": "ddl-2026-1w7abq9-642",
+      "id": "ddl-2026-1w7abq9-635",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "交通科学与工程学院",
@@ -10932,7 +10813,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 交通科学与工程学院"
     },
     {
-      "id": "ddl-2026-09uwp9o-643",
+      "id": "ddl-2026-09uwp9o-636",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "电信学院",
@@ -10949,7 +10830,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 电信学院"
     },
     {
-      "id": "ddl-2026-0f345xi-644",
+      "id": "ddl-2026-0f345xi-637",
       "year": "2026",
       "school": "南方科技大学",
       "dept": "创新创意设计学院",
@@ -10966,7 +10847,7 @@ window.BOLU_DDL = {
       "search": "南方科技大学 创新创意设计学院"
     },
     {
-      "id": "ddl-2026-1s220ie-645",
+      "id": "ddl-2026-1s220ie-638",
       "year": "2026",
       "school": "南开大学",
       "dept": "电子信息与光学工程学院",
@@ -10983,7 +10864,7 @@ window.BOLU_DDL = {
       "search": "南开大学 电子信息与光学工程学院"
     },
     {
-      "id": "ddl-2026-0sv6lze-646",
+      "id": "ddl-2026-0sv6lze-639",
       "year": "2026",
       "school": "中国科学院",
       "dept": "空间应用工程与技术中心",
@@ -11000,7 +10881,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 空间应用工程与技术中心"
     },
     {
-      "id": "ddl-2026-1pr5c1w-647",
+      "id": "ddl-2026-1pr5c1w-640",
       "year": "2026",
       "school": "南开大学",
       "dept": "前沿交叉学科研究院",
@@ -11017,7 +10898,7 @@ window.BOLU_DDL = {
       "search": "南开大学 前沿交叉学科研究院"
     },
     {
-      "id": "ddl-2026-16a00xw-648",
+      "id": "ddl-2026-16a00xw-641",
       "year": "2026",
       "school": "中南财经政法大学",
       "dept": "信息工程学院",
@@ -11034,7 +10915,7 @@ window.BOLU_DDL = {
       "search": "中南财经政法大学 信息工程学院"
     },
     {
-      "id": "ddl-2026-02wrfcj-649",
+      "id": "ddl-2026-02wrfcj-642",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "计算机科学与技术学院",
@@ -11051,7 +10932,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-1ds3uf0-650",
+      "id": "ddl-2026-1ds3uf0-643",
       "year": "2026",
       "school": "中国科学院",
       "dept": "生物物理研究所",
@@ -11068,7 +10949,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 生物物理研究所"
     },
     {
-      "id": "ddl-2026-0q6mr4e-651",
+      "id": "ddl-2026-0q6mr4e-644",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "上海智能教育研究院",
@@ -11085,7 +10966,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 上海智能教育研究院"
     },
     {
-      "id": "ddl-2026-1u0n5cs-652",
+      "id": "ddl-2026-1u0n5cs-645",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "上海智能教育研究院",
@@ -11102,7 +10983,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 上海智能教育研究院"
     },
     {
-      "id": "ddl-2026-0gc6chd-653",
+      "id": "ddl-2026-0gc6chd-646",
       "year": "2026",
       "school": "天津大学",
       "dept": "网络安全学院",
@@ -11119,7 +11000,7 @@ window.BOLU_DDL = {
       "search": "天津大学 网络安全学院"
     },
     {
-      "id": "ddl-2026-0jegou7-654",
+      "id": "ddl-2026-0jegou7-647",
       "year": "2026",
       "school": "天津大学",
       "dept": "网络安全学院",
@@ -11136,7 +11017,7 @@ window.BOLU_DDL = {
       "search": "天津大学 网络安全学院"
     },
     {
-      "id": "ddl-2026-1tp0250-655",
+      "id": "ddl-2026-1tp0250-648",
       "year": "2026",
       "school": "武汉大学",
       "dept": "电子信息学院",
@@ -11153,7 +11034,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 电子信息学院"
     },
     {
-      "id": "ddl-2026-1uvnubo-656",
+      "id": "ddl-2026-1uvnubo-649",
       "year": "2026",
       "school": "东北大学",
       "dept": "软件学院",
@@ -11170,7 +11051,7 @@ window.BOLU_DDL = {
       "search": "东北大学 软件学院"
     },
     {
-      "id": "ddl-2026-0egra8f-657",
+      "id": "ddl-2026-0egra8f-650",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "创业与管理学院",
@@ -11187,7 +11068,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 创业与管理学院"
     },
     {
-      "id": "ddl-2026-179xwy3-658",
+      "id": "ddl-2026-179xwy3-651",
       "year": "2026",
       "school": "中央财经大学",
       "dept": "国家数据工程与安全学院",
@@ -11204,7 +11085,7 @@ window.BOLU_DDL = {
       "search": "中央财经大学 国家数据工程与安全学院"
     },
     {
-      "id": "ddl-2026-0qyh45d-659",
+      "id": "ddl-2026-0qyh45d-652",
       "year": "2026",
       "school": "中央财经大学",
       "dept": "人工智能研究院",
@@ -11221,7 +11102,7 @@ window.BOLU_DDL = {
       "search": "中央财经大学 人工智能研究院"
     },
     {
-      "id": "ddl-2026-0i6nw8x-660",
+      "id": "ddl-2026-0i6nw8x-653",
       "year": "2026",
       "school": "湖南大学",
       "dept": "人工智能与机器人学院",
@@ -11238,7 +11119,7 @@ window.BOLU_DDL = {
       "search": "湖南大学 人工智能与机器人学院"
     },
     {
-      "id": "ddl-2026-1wf43no-661",
+      "id": "ddl-2026-1wf43no-654",
       "year": "2026",
       "school": "武汉大学",
       "dept": "新型电力系统与国际标准研究院",
@@ -11255,7 +11136,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 新型电力系统与国际标准研究院"
     },
     {
-      "id": "ddl-2026-0fs4zab-662",
+      "id": "ddl-2026-0fs4zab-655",
       "year": "2026",
       "school": "天津大学",
       "dept": "新媒体与传播学院",
@@ -11272,7 +11153,7 @@ window.BOLU_DDL = {
       "search": "天津大学 新媒体与传播学院"
     },
     {
-      "id": "ddl-2026-1ng7hod-663",
+      "id": "ddl-2026-1ng7hod-656",
       "year": "2026",
       "school": "湖南大学",
       "dept": "电气与信息工程学院",
@@ -11289,7 +11170,7 @@ window.BOLU_DDL = {
       "search": "湖南大学 电气与信息工程学院"
     },
     {
-      "id": "ddl-2026-19jxlum-664",
+      "id": "ddl-2026-19jxlum-657",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "密码学院",
@@ -11306,7 +11187,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 密码学院"
     },
     {
-      "id": "ddl-2026-16hnxok-665",
+      "id": "ddl-2026-16hnxok-658",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "计算学部",
@@ -11323,7 +11204,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 计算学部"
     },
     {
-      "id": "ddl-2026-12yfxnm-666",
+      "id": "ddl-2026-12yfxnm-659",
       "year": "2026",
       "school": "大连理工大学",
       "dept": "计算机科学与技术学院",
@@ -11340,7 +11221,7 @@ window.BOLU_DDL = {
       "search": "大连理工大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-10axxw8-667",
+      "id": "ddl-2026-10axxw8-660",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "软件工程学院",
@@ -11357,7 +11238,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 软件工程学院"
     },
     {
-      "id": "ddl-2026-092wwi6-668",
+      "id": "ddl-2026-092wwi6-661",
       "year": "2026",
       "school": "浙江大学",
       "dept": "数学科学学院",
@@ -11374,7 +11255,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 数学科学学院"
     },
     {
-      "id": "ddl-2026-0har2r2-669",
+      "id": "ddl-2026-0har2r2-662",
       "year": "2026",
       "school": "中国科学院",
       "dept": "深圳先进技术研究院",
@@ -11391,7 +11272,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 深圳先进技术研究院"
     },
     {
-      "id": "ddl-2026-0w6uavc-670",
+      "id": "ddl-2026-0w6uavc-663",
       "year": "2026",
       "school": "中国矿业大学",
       "dept": "国家卓越工程师学院-工程硕博士校企联合培养专项",
@@ -11408,7 +11289,7 @@ window.BOLU_DDL = {
       "search": "中国矿业大学 国家卓越工程师学院-工程硕博士校企联合培养专项"
     },
     {
-      "id": "ddl-2026-0pgqr6c-671",
+      "id": "ddl-2026-0pgqr6c-664",
       "year": "2026",
       "school": "复旦大学",
       "dept": "工程硕博士培养改革专项",
@@ -11425,7 +11306,7 @@ window.BOLU_DDL = {
       "search": "复旦大学 工程硕博士培养改革专项"
     },
     {
-      "id": "ddl-2026-1956tp9-672",
+      "id": "ddl-2026-1956tp9-665",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "智能交互学院",
@@ -11442,7 +11323,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 智能交互学院"
     },
     {
-      "id": "ddl-2026-11f7cpk-673",
+      "id": "ddl-2026-11f7cpk-666",
       "year": "2026",
       "school": "武汉大学",
       "dept": "测绘遥感信息工程全国重点实验室",
@@ -11459,7 +11340,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 测绘遥感信息工程全国重点实验室"
     },
     {
-      "id": "ddl-2026-1n0n4tq-674",
+      "id": "ddl-2026-1n0n4tq-667",
       "year": "2026",
       "school": "中国科学院",
       "dept": "数学与系统科学研究院",
@@ -11476,7 +11357,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 数学与系统科学研究院"
     },
     {
-      "id": "ddl-2026-0mw118t-675",
+      "id": "ddl-2026-0mw118t-668",
       "year": "2026",
       "school": "天津大学",
       "dept": "医学院",
@@ -11493,7 +11374,7 @@ window.BOLU_DDL = {
       "search": "天津大学 医学院"
     },
     {
-      "id": "ddl-2026-1o1t1r1-676",
+      "id": "ddl-2026-1o1t1r1-669",
       "year": "2026",
       "school": "天津大学",
       "dept": "医学院",
@@ -11510,7 +11391,7 @@ window.BOLU_DDL = {
       "search": "天津大学 医学院"
     },
     {
-      "id": "ddl-2026-1b448id-677",
+      "id": "ddl-2026-1b448id-670",
       "year": "2026",
       "school": "北京科技大学",
       "dept": "国家材料服役安全科学中心",
@@ -11527,7 +11408,7 @@ window.BOLU_DDL = {
       "search": "北京科技大学 国家材料服役安全科学中心"
     },
     {
-      "id": "ddl-2026-003p8xt-678",
+      "id": "ddl-2026-003p8xt-671",
       "year": "2026",
       "school": "厦门大学",
       "dept": "信息学院",
@@ -11544,7 +11425,7 @@ window.BOLU_DDL = {
       "search": "厦门大学 信息学院"
     },
     {
-      "id": "ddl-2026-0gnmieh-679",
+      "id": "ddl-2026-0gnmieh-672",
       "year": "2026",
       "school": "浙江大学",
       "dept": "控制科学与工程学院-工程硕博士培养改革专项",
@@ -11561,7 +11442,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 控制科学与工程学院-工程硕博士培养改革专项"
     },
     {
-      "id": "ddl-2026-0twwuxk-680",
+      "id": "ddl-2026-0twwuxk-673",
       "year": "2026",
       "school": "大连理工大学",
       "dept": "软件学院",
@@ -11578,7 +11459,7 @@ window.BOLU_DDL = {
       "search": "大连理工大学 软件学院"
     },
     {
-      "id": "ddl-2026-19a023h-681",
+      "id": "ddl-2026-19a023h-674",
       "year": "2026",
       "school": "北京大学",
       "dept": "力学与工程科学学院",
@@ -11595,7 +11476,7 @@ window.BOLU_DDL = {
       "search": "北京大学 力学与工程科学学院"
     },
     {
-      "id": "ddl-2026-1ohzr30-682",
+      "id": "ddl-2026-1ohzr30-675",
       "year": "2026",
       "school": "北京大学",
       "dept": "前沿交叉学科研究院",
@@ -11612,7 +11493,7 @@ window.BOLU_DDL = {
       "search": "北京大学 前沿交叉学科研究院"
     },
     {
-      "id": "ddl-2026-1k8duva-683",
+      "id": "ddl-2026-1k8duva-676",
       "year": "2026",
       "school": "北京大学",
       "dept": "软件与微电子学院（硕士）",
@@ -11629,7 +11510,7 @@ window.BOLU_DDL = {
       "search": "北京大学 软件与微电子学院（硕士）"
     },
     {
-      "id": "ddl-2026-1tshapp-684",
+      "id": "ddl-2026-1tshapp-677",
       "year": "2026",
       "school": "北京大学",
       "dept": "软件与微电子学院（博士）",
@@ -11646,7 +11527,7 @@ window.BOLU_DDL = {
       "search": "北京大学 软件与微电子学院（博士）"
     },
     {
-      "id": "ddl-2026-1iiapxv-685",
+      "id": "ddl-2026-1iiapxv-678",
       "year": "2026",
       "school": "北京大学",
       "dept": "信息工程学院",
@@ -11663,7 +11544,7 @@ window.BOLU_DDL = {
       "search": "北京大学 信息工程学院"
     },
     {
-      "id": "ddl-2026-0jmyyk1-686",
+      "id": "ddl-2026-0jmyyk1-679",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "数据科学与工程学院",
@@ -11680,7 +11561,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 数据科学与工程学院"
     },
     {
-      "id": "ddl-2026-12dzins-687",
+      "id": "ddl-2026-12dzins-680",
       "year": "2026",
       "school": "北京大学",
       "dept": "北京脑所联培",
@@ -11697,7 +11578,7 @@ window.BOLU_DDL = {
       "search": "北京大学 北京脑所联培"
     },
     {
-      "id": "ddl-2026-01zbwt4-688",
+      "id": "ddl-2026-01zbwt4-681",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "材料科学与工程学院",
@@ -11714,7 +11595,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 材料科学与工程学院"
     },
     {
-      "id": "ddl-2026-1huiq3j-689",
+      "id": "ddl-2026-1huiq3j-682",
       "year": "2026",
       "school": "军事科学院",
       "dept": "",
@@ -11731,7 +11612,7 @@ window.BOLU_DDL = {
       "search": "军事科学院"
     },
     {
-      "id": "ddl-2026-08ikzxs-690",
+      "id": "ddl-2026-08ikzxs-683",
       "year": "2026",
       "school": "哈尔滨工业大学（深圳）",
       "dept": "空天科技学院",
@@ -11748,7 +11629,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（深圳） 空天科技学院"
     },
     {
-      "id": "ddl-2026-0nkpjoe-691",
+      "id": "ddl-2026-0nkpjoe-684",
       "year": "2026",
       "school": "哈尔滨工业大学（深圳）",
       "dept": "空天科技学院",
@@ -11765,7 +11646,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（深圳） 空天科技学院"
     },
     {
-      "id": "ddl-2026-0xo44zr-692",
+      "id": "ddl-2026-0xo44zr-685",
       "year": "2026",
       "school": "南开大学",
       "dept": "信息与传播学院",
@@ -11782,7 +11663,7 @@ window.BOLU_DDL = {
       "search": "南开大学 信息与传播学院"
     },
     {
-      "id": "ddl-2026-1ugency-693",
+      "id": "ddl-2026-1ugency-686",
       "year": "2026",
       "school": "天津大学",
       "dept": "宣怀学院",
@@ -11799,7 +11680,7 @@ window.BOLU_DDL = {
       "search": "天津大学 宣怀学院"
     },
     {
-      "id": "ddl-2026-0sejrg5-694",
+      "id": "ddl-2026-0sejrg5-687",
       "year": "2026",
       "school": "武汉大学",
       "dept": "人工智能学院",
@@ -11816,7 +11697,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0ynl98s-695",
+      "id": "ddl-2026-0ynl98s-688",
       "year": "2026",
       "school": "南京大学",
       "dept": "重要专项",
@@ -11833,7 +11714,7 @@ window.BOLU_DDL = {
       "search": "南京大学 重要专项"
     },
     {
-      "id": "ddl-2026-1aitnwi-696",
+      "id": "ddl-2026-1aitnwi-689",
       "year": "2026",
       "school": "北京外国语大学",
       "dept": "信息科学技术学院",
@@ -11850,7 +11731,7 @@ window.BOLU_DDL = {
       "search": "北京外国语大学 信息科学技术学院"
     },
     {
-      "id": "ddl-2026-1ga8fx2-697",
+      "id": "ddl-2026-1ga8fx2-690",
       "year": "2026",
       "school": "北京外国语大学",
       "dept": "人工智能与人类语言重点实验室",
@@ -11867,7 +11748,7 @@ window.BOLU_DDL = {
       "search": "北京外国语大学 人工智能与人类语言重点实验室"
     },
     {
-      "id": "ddl-2026-1xipmjo-698",
+      "id": "ddl-2026-1xipmjo-691",
       "year": "2026",
       "school": "四川大学",
       "dept": "国优计划",
@@ -11884,7 +11765,7 @@ window.BOLU_DDL = {
       "search": "四川大学 国优计划"
     },
     {
-      "id": "ddl-2026-0ujdl3l-699",
+      "id": "ddl-2026-0ujdl3l-692",
       "year": "2026",
       "school": "四川大学",
       "dept": "卓越工程师学院-工程硕博士培养改革专项",
@@ -11901,7 +11782,7 @@ window.BOLU_DDL = {
       "search": "四川大学 卓越工程师学院-工程硕博士培养改革专项"
     },
     {
-      "id": "ddl-2026-1khphid-700",
+      "id": "ddl-2026-1khphid-693",
       "year": "2026",
       "school": "武汉大学",
       "dept": "遥感信息工程学院-卓越工程师专项",
@@ -11918,7 +11799,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 遥感信息工程学院-卓越工程师专项"
     },
     {
-      "id": "ddl-2026-16hx5ac-701",
+      "id": "ddl-2026-16hx5ac-694",
       "year": "2026",
       "school": "武汉大学",
       "dept": "电气与自动化学院",
@@ -11935,7 +11816,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 电气与自动化学院"
     },
     {
-      "id": "ddl-2026-1yih00n-702",
+      "id": "ddl-2026-1yih00n-695",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "人工智能与数据科学学院",
@@ -11952,7 +11833,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 人工智能与数据科学学院"
     },
     {
-      "id": "ddl-2026-1bmxy7o-703",
+      "id": "ddl-2026-1bmxy7o-696",
       "year": "2026",
       "school": "东北大学",
       "dept": "机器人科学与工程学院",
@@ -11969,7 +11850,7 @@ window.BOLU_DDL = {
       "search": "东北大学 机器人科学与工程学院"
     },
     {
-      "id": "ddl-2026-0jgvusg-704",
+      "id": "ddl-2026-0jgvusg-697",
       "year": "2026",
       "school": "中国科学院",
       "dept": "成都计算所",
@@ -11986,7 +11867,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 成都计算所"
     },
     {
-      "id": "ddl-2026-0yiifvl-705",
+      "id": "ddl-2026-0yiifvl-698",
       "year": "2026",
       "school": "天津大学",
       "dept": "软件学院",
@@ -12003,7 +11884,7 @@ window.BOLU_DDL = {
       "search": "天津大学 软件学院"
     },
     {
-      "id": "ddl-2026-12i8pv7-706",
+      "id": "ddl-2026-12i8pv7-699",
       "year": "2026",
       "school": "天津大学",
       "dept": "软件学院",
@@ -12020,7 +11901,7 @@ window.BOLU_DDL = {
       "search": "天津大学 软件学院"
     },
     {
-      "id": "ddl-2026-1b4tra7-707",
+      "id": "ddl-2026-1b4tra7-700",
       "year": "2026",
       "school": "武汉大学",
       "dept": "遥感信息工程学院",
@@ -12037,7 +11918,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 遥感信息工程学院"
     },
     {
-      "id": "ddl-2026-1m465ja-708",
+      "id": "ddl-2026-1m465ja-701",
       "year": "2026",
       "school": "中南大学",
       "dept": "湘雅基础医学院",
@@ -12054,7 +11935,7 @@ window.BOLU_DDL = {
       "search": "中南大学 湘雅基础医学院"
     },
     {
-      "id": "ddl-2026-072r4ti-709",
+      "id": "ddl-2026-072r4ti-702",
       "year": "2026",
       "school": "武汉大学",
       "dept": "计算机学院",
@@ -12071,7 +11952,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 计算机学院"
     },
     {
-      "id": "ddl-2026-0bxxn21-710",
+      "id": "ddl-2026-0bxxn21-703",
       "year": "2026",
       "school": "四川大学",
       "dept": "医学前沿科学中心",
@@ -12088,7 +11969,7 @@ window.BOLU_DDL = {
       "search": "四川大学 医学前沿科学中心"
     },
     {
-      "id": "ddl-2026-0k92e7f-711",
+      "id": "ddl-2026-0k92e7f-704",
       "year": "2026",
       "school": "武汉大学",
       "dept": "地球与空间科学技术学院",
@@ -12105,7 +11986,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 地球与空间科学技术学院"
     },
     {
-      "id": "ddl-2026-0mfq8gh-712",
+      "id": "ddl-2026-0mfq8gh-705",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "空间人工智能学院",
@@ -12122,7 +12003,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 空间人工智能学院"
     },
     {
-      "id": "ddl-2026-1ihqs4g-713",
+      "id": "ddl-2026-1ihqs4g-706",
       "year": "2026",
       "school": "中山大学",
       "dept": "柔性电子学院",
@@ -12139,7 +12020,7 @@ window.BOLU_DDL = {
       "search": "中山大学 柔性电子学院"
     },
     {
-      "id": "ddl-2026-15j5yns-714",
+      "id": "ddl-2026-15j5yns-707",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "宇航学院",
@@ -12156,7 +12037,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 宇航学院"
     },
     {
-      "id": "ddl-2026-1kq2y1l-715",
+      "id": "ddl-2026-1kq2y1l-708",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "先进结构技术研究院",
@@ -12173,7 +12054,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 先进结构技术研究院"
     },
     {
-      "id": "ddl-2026-0exmosa-716",
+      "id": "ddl-2026-0exmosa-709",
       "year": "2026",
       "school": "北京师范大学",
       "dept": "人工智能学院",
@@ -12190,7 +12071,7 @@ window.BOLU_DDL = {
       "search": "北京师范大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-08x1hd1-717",
+      "id": "ddl-2026-08x1hd1-710",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "基础与前沿研究院",
@@ -12207,7 +12088,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 基础与前沿研究院"
     },
     {
-      "id": "ddl-2026-19y9z93-718",
+      "id": "ddl-2026-19y9z93-711",
       "year": "2026",
       "school": "武汉大学",
       "dept": "国家网络安全学院",
@@ -12224,7 +12105,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 国家网络安全学院"
     },
     {
-      "id": "ddl-2026-0w0b9dt-719",
+      "id": "ddl-2026-0w0b9dt-712",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "计算机学院",
@@ -12241,7 +12122,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 计算机学院"
     },
     {
-      "id": "ddl-2026-1k1wx9n-720",
+      "id": "ddl-2026-1k1wx9n-713",
       "year": "2026",
       "school": "中国地质大学（北京）",
       "dept": "人工智能学院",
@@ -12258,7 +12139,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（北京） 人工智能学院"
     },
     {
-      "id": "ddl-2026-1nwprkw-721",
+      "id": "ddl-2026-1nwprkw-714",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "医学科学与工程学院",
@@ -12275,7 +12156,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 医学科学与工程学院"
     },
     {
-      "id": "ddl-2026-1t4hs8t-722",
+      "id": "ddl-2026-1t4hs8t-715",
       "year": "2026",
       "school": "武汉大学",
       "dept": "测绘学院",
@@ -12292,7 +12173,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 测绘学院"
     },
     {
-      "id": "ddl-2026-1vxvajt-723",
+      "id": "ddl-2026-1vxvajt-716",
       "year": "2026",
       "school": "北京邮电大学",
       "dept": "网络空间安全学院",
@@ -12309,7 +12190,7 @@ window.BOLU_DDL = {
       "search": "北京邮电大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-0m1agu0-724",
+      "id": "ddl-2026-0m1agu0-717",
       "year": "2026",
       "school": "北京邮电大学",
       "dept": "集成电路学院",
@@ -12326,7 +12207,7 @@ window.BOLU_DDL = {
       "search": "北京邮电大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-1ue08jh-725",
+      "id": "ddl-2026-1ue08jh-718",
       "year": "2026",
       "school": "西安电子科技大学",
       "dept": "计算机科学与技术学院",
@@ -12343,7 +12224,7 @@ window.BOLU_DDL = {
       "search": "西安电子科技大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-018jdwy-726",
+      "id": "ddl-2026-018jdwy-719",
       "year": "2026",
       "school": "北京邮电大学",
       "dept": "卓越工程师学院",
@@ -12360,7 +12241,7 @@ window.BOLU_DDL = {
       "search": "北京邮电大学 卓越工程师学院"
     },
     {
-      "id": "ddl-2026-057wj34-727",
+      "id": "ddl-2026-057wj34-720",
       "year": "2026",
       "school": "北京邮电大学",
       "dept": "电子工程学院",
@@ -12377,7 +12258,7 @@ window.BOLU_DDL = {
       "search": "北京邮电大学 电子工程学院"
     },
     {
-      "id": "ddl-2026-1qwf7ks-728",
+      "id": "ddl-2026-1qwf7ks-721",
       "year": "2026",
       "school": "北京邮电大学",
       "dept": "人工智能学院",
@@ -12394,7 +12275,7 @@ window.BOLU_DDL = {
       "search": "北京邮电大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0v1lpbm-729",
+      "id": "ddl-2026-0v1lpbm-722",
       "year": "2026",
       "school": "北京邮电大学",
       "dept": "信息与通信工程学院",
@@ -12411,7 +12292,7 @@ window.BOLU_DDL = {
       "search": "北京邮电大学 信息与通信工程学院"
     },
     {
-      "id": "ddl-2026-1e3eqkl-730",
+      "id": "ddl-2026-1e3eqkl-723",
       "year": "2026",
       "school": "北京邮电大学",
       "dept": "计算机学院",
@@ -12428,7 +12309,7 @@ window.BOLU_DDL = {
       "search": "北京邮电大学 计算机学院"
     },
     {
-      "id": "ddl-2026-04tix46-731",
+      "id": "ddl-2026-04tix46-724",
       "year": "2026",
       "school": "北京邮电大学",
       "dept": "智能工程与自动化学院",
@@ -12445,7 +12326,7 @@ window.BOLU_DDL = {
       "search": "北京邮电大学 智能工程与自动化学院"
     },
     {
-      "id": "ddl-2026-1l8tljj-732",
+      "id": "ddl-2026-1l8tljj-725",
       "year": "2026",
       "school": "浙江大学",
       "dept": "海洋学院",
@@ -12462,7 +12343,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 海洋学院"
     },
     {
-      "id": "ddl-2026-0i689nb-733",
+      "id": "ddl-2026-0i689nb-726",
       "year": "2026",
       "school": "浙江大学",
       "dept": "航空航天学院",
@@ -12479,7 +12360,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 航空航天学院"
     },
     {
-      "id": "ddl-2026-17dsc6x-734",
+      "id": "ddl-2026-17dsc6x-727",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "卓越工程师学院",
@@ -12496,7 +12377,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 卓越工程师学院"
     },
     {
-      "id": "ddl-2026-1ogh5z5-735",
+      "id": "ddl-2026-1ogh5z5-728",
       "year": "2026",
       "school": "山东大学",
       "dept": "人工智能学院",
@@ -12513,7 +12394,7 @@ window.BOLU_DDL = {
       "search": "山东大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1v4fjsd-736",
+      "id": "ddl-2026-1v4fjsd-729",
       "year": "2026",
       "school": "山东大学",
       "dept": "网络空间安全学院",
@@ -12530,7 +12411,7 @@ window.BOLU_DDL = {
       "search": "山东大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-1n1fmz5-737",
+      "id": "ddl-2026-1n1fmz5-730",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "北京脑科学与类脑研究所",
@@ -12547,7 +12428,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 北京脑科学与类脑研究所"
     },
     {
-      "id": "ddl-2026-07nk734-738",
+      "id": "ddl-2026-07nk734-731",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "计算机学院",
@@ -12564,7 +12445,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 计算机学院"
     },
     {
-      "id": "ddl-2026-17qkmkd-739",
+      "id": "ddl-2026-17qkmkd-732",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "计算机学院-工程硕博士培养改革专项",
@@ -12581,7 +12462,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 计算机学院-工程硕博士培养改革专项"
     },
     {
-      "id": "ddl-2026-11ed2r3-740",
+      "id": "ddl-2026-11ed2r3-733",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "能源科学与技术学院（广州能源所）",
@@ -12598,7 +12479,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 能源科学与技术学院（广州能源所）"
     },
     {
-      "id": "ddl-2026-0nihyk8-741",
+      "id": "ddl-2026-0nihyk8-734",
       "year": "2026",
       "school": "中南大学",
       "dept": "电气工程学院",
@@ -12615,7 +12496,7 @@ window.BOLU_DDL = {
       "search": "中南大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-0x5wgzq-742",
+      "id": "ddl-2026-0x5wgzq-735",
       "year": "2026",
       "school": "中南大学",
       "dept": "自动化学院",
@@ -12632,7 +12513,7 @@ window.BOLU_DDL = {
       "search": "中南大学 自动化学院"
     },
     {
-      "id": "ddl-2026-018a6z2-743",
+      "id": "ddl-2026-018a6z2-736",
       "year": "2026",
       "school": "西安电子科技大学",
       "dept": "通信工程学院",
@@ -12649,7 +12530,7 @@ window.BOLU_DDL = {
       "search": "西安电子科技大学 通信工程学院"
     },
     {
-      "id": "ddl-2026-0x2geqz-744",
+      "id": "ddl-2026-0x2geqz-737",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "工程硕博士培养改革专项",
@@ -12666,7 +12547,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 工程硕博士培养改革专项"
     },
     {
-      "id": "ddl-2026-0bpxfm9-745",
+      "id": "ddl-2026-0bpxfm9-738",
       "year": "2026",
       "school": "中国人民大学",
       "dept": "高瓴人工智能学院-工程硕博士培养改革专项",
@@ -12683,7 +12564,7 @@ window.BOLU_DDL = {
       "search": "中国人民大学 高瓴人工智能学院-工程硕博士培养改革专项"
     },
     {
-      "id": "ddl-2026-0lb31b7-746",
+      "id": "ddl-2026-0lb31b7-739",
       "year": "2026",
       "school": "中国人民大学",
       "dept": "信息学院-工程硕博士培养改革专项",
@@ -12700,7 +12581,7 @@ window.BOLU_DDL = {
       "search": "中国人民大学 信息学院-工程硕博士培养改革专项"
     },
     {
-      "id": "ddl-2026-0jgl5kt-747",
+      "id": "ddl-2026-0jgl5kt-740",
       "year": "2026",
       "school": "武汉大学",
       "dept": "机器人学院",
@@ -12717,7 +12598,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 机器人学院"
     },
     {
-      "id": "ddl-2026-0kon3ig-748",
+      "id": "ddl-2026-0kon3ig-741",
       "year": "2026",
       "school": "武汉大学",
       "dept": "集成电路学院",
@@ -12734,7 +12615,7 @@ window.BOLU_DDL = {
       "search": "武汉大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-08m3w9w-749",
+      "id": "ddl-2026-08m3w9w-742",
       "year": "2026",
       "school": "中国科学院",
       "dept": "上海天文台",
@@ -12751,7 +12632,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 上海天文台"
     },
     {
-      "id": "ddl-2026-0o8xlto-750",
+      "id": "ddl-2026-0o8xlto-743",
       "year": "2026",
       "school": "浙江大学",
       "dept": "国际联合商学院",
@@ -12768,7 +12649,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 国际联合商学院"
     },
     {
-      "id": "ddl-2026-1db7wry-751",
+      "id": "ddl-2026-1db7wry-744",
       "year": "2026",
       "school": "浙江大学",
       "dept": "计算机科学与技术学院",
@@ -12785,7 +12666,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-1v1qbft-752",
+      "id": "ddl-2026-1v1qbft-745",
       "year": "2026",
       "school": "浙江大学",
       "dept": "软件学院",
@@ -12802,7 +12683,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 软件学院"
     },
     {
-      "id": "ddl-2026-1ialrod-753",
+      "id": "ddl-2026-1ialrod-746",
       "year": "2026",
       "school": "浙江大学",
       "dept": "信电学院",
@@ -12819,7 +12700,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 信电学院"
     },
     {
-      "id": "ddl-2026-0rcvw3w-754",
+      "id": "ddl-2026-0rcvw3w-747",
       "year": "2026",
       "school": "浙江大学",
       "dept": "集成电路学院",
@@ -12836,7 +12717,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-01ku9vm-755",
+      "id": "ddl-2026-01ku9vm-748",
       "year": "2026",
       "school": "浙江大学",
       "dept": "控制科学与工程学院",
@@ -12853,7 +12734,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 控制科学与工程学院"
     },
     {
-      "id": "ddl-2026-10x01l3-756",
+      "id": "ddl-2026-10x01l3-749",
       "year": "2026",
       "school": "浙江大学",
       "dept": "数据科学研究中心",
@@ -12870,7 +12751,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 数据科学研究中心"
     },
     {
-      "id": "ddl-2026-114d8s8-757",
+      "id": "ddl-2026-114d8s8-750",
       "year": "2026",
       "school": "北京邮电大学",
       "dept": "集成电路学院",
@@ -12887,7 +12768,7 @@ window.BOLU_DDL = {
       "search": "北京邮电大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-04441w5-758",
+      "id": "ddl-2026-04441w5-751",
       "year": "2026",
       "school": "厦门大学",
       "dept": "电子科学与技术学院、集成电路学院",
@@ -12904,7 +12785,7 @@ window.BOLU_DDL = {
       "search": "厦门大学 电子科学与技术学院、集成电路学院"
     },
     {
-      "id": "ddl-2026-1d8e95l-759",
+      "id": "ddl-2026-1d8e95l-752",
       "year": "2026",
       "school": "天津大学",
       "dept": "电气自动化与信息工程学院",
@@ -12921,7 +12802,7 @@ window.BOLU_DDL = {
       "search": "天津大学 电气自动化与信息工程学院"
     },
     {
-      "id": "ddl-2026-0522wlm-760",
+      "id": "ddl-2026-0522wlm-753",
       "year": "2026",
       "school": "重庆大学",
       "dept": "国家卓越工程师学院",
@@ -12938,7 +12819,7 @@ window.BOLU_DDL = {
       "search": "重庆大学 国家卓越工程师学院"
     },
     {
-      "id": "ddl-2026-0k4ht0h-761",
+      "id": "ddl-2026-0k4ht0h-754",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "环境学院",
@@ -12955,7 +12836,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 环境学院"
     },
     {
-      "id": "ddl-2026-1che4im-762",
+      "id": "ddl-2026-1che4im-755",
       "year": "2026",
       "school": "中国石油大学（北京）克拉玛依校区",
       "dept": "数理与人工智能学院",
@@ -12972,7 +12853,7 @@ window.BOLU_DDL = {
       "search": "中国石油大学（北京）克拉玛依校区 数理与人工智能学院"
     },
     {
-      "id": "ddl-2026-1jabd3s-763",
+      "id": "ddl-2026-1jabd3s-756",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "航天学院-光学工程学科",
@@ -12989,7 +12870,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 航天学院-光学工程学科"
     },
     {
-      "id": "ddl-2026-1eobjmh-764",
+      "id": "ddl-2026-1eobjmh-757",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "航天学院-集成电路科学与工程学科",
@@ -13006,7 +12887,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 航天学院-集成电路科学与工程学科"
     },
     {
-      "id": "ddl-2026-0bkqpwp-765",
+      "id": "ddl-2026-0bkqpwp-758",
       "year": "2026",
       "school": "浙江大学",
       "dept": "工程师学院",
@@ -13023,7 +12904,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 工程师学院"
     },
     {
-      "id": "ddl-2026-04le95x-766",
+      "id": "ddl-2026-04le95x-759",
       "year": "2026",
       "school": "浙江大学",
       "dept": "电气工程学院",
@@ -13040,7 +12921,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-19sley2-767",
+      "id": "ddl-2026-19sley2-760",
       "year": "2026",
       "school": "浙江大学",
       "dept": "人工智能学院",
@@ -13057,7 +12938,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0ktktrg-768",
+      "id": "ddl-2026-0ktktrg-761",
       "year": "2026",
       "school": "浙江大学",
       "dept": "伊利诺伊大学厄巴纳香槟校区联合学院",
@@ -13074,7 +12955,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 伊利诺伊大学厄巴纳香槟校区联合学院"
     },
     {
-      "id": "ddl-2026-1heain6-769",
+      "id": "ddl-2026-1heain6-762",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "（深圳）智能科学与工程学院",
@@ -13091,7 +12972,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 （深圳）智能科学与工程学院"
     },
     {
-      "id": "ddl-2026-0wo3wxh-770",
+      "id": "ddl-2026-0wo3wxh-763",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "（深圳）智能学部低空科学技术研究院",
@@ -13108,7 +12989,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 （深圳）智能学部低空科学技术研究院"
     },
     {
-      "id": "ddl-2026-1lzgent-771",
+      "id": "ddl-2026-1lzgent-764",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "（深圳）智能学部机器人与先进制造学院",
@@ -13125,7 +13006,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 （深圳）智能学部机器人与先进制造学院"
     },
     {
-      "id": "ddl-2026-17t8f4m-772",
+      "id": "ddl-2026-17t8f4m-765",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "（深圳）智能学部生态环境学院",
@@ -13142,7 +13023,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 （深圳）智能学部生态环境学院"
     },
     {
-      "id": "ddl-2026-1tfch1l-773",
+      "id": "ddl-2026-1tfch1l-766",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "（深圳）集成电路学院",
@@ -13159,7 +13040,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 （深圳）集成电路学院"
     },
     {
-      "id": "ddl-2026-0pt97bl-774",
+      "id": "ddl-2026-0pt97bl-767",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "宁波东方理工大学",
@@ -13176,7 +13057,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 宁波东方理工大学"
     },
     {
-      "id": "ddl-2026-04s8tsa-775",
+      "id": "ddl-2026-04s8tsa-768",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "环境科学与光电技术学院",
@@ -13193,7 +13074,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 环境科学与光电技术学院"
     },
     {
-      "id": "ddl-2026-19lqyeh-776",
+      "id": "ddl-2026-19lqyeh-769",
       "year": "2026",
       "school": "山东大学",
       "dept": "集成电路学院",
@@ -13210,7 +13091,7 @@ window.BOLU_DDL = {
       "search": "山东大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-08va8zj-777",
+      "id": "ddl-2026-08va8zj-770",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "智能科学学院",
@@ -13227,7 +13108,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 智能科学学院"
     },
     {
-      "id": "ddl-2026-0jmcfna-778",
+      "id": "ddl-2026-0jmcfna-771",
       "year": "2026",
       "school": "中南大学",
       "dept": "计算机学院",
@@ -13244,7 +13125,7 @@ window.BOLU_DDL = {
       "search": "中南大学 计算机学院"
     },
     {
-      "id": "ddl-2026-16atw13-779",
+      "id": "ddl-2026-16atw13-772",
       "year": "2026",
       "school": "中国科学院",
       "dept": "理论物理所",
@@ -13261,7 +13142,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 理论物理所"
     },
     {
-      "id": "ddl-2026-0arcisx-780",
+      "id": "ddl-2026-0arcisx-773",
       "year": "2026",
       "school": "山东大学",
       "dept": "信息科学与工程学院",
@@ -13278,7 +13159,7 @@ window.BOLU_DDL = {
       "search": "山东大学 信息科学与工程学院"
     },
     {
-      "id": "ddl-2026-02imom8-781",
+      "id": "ddl-2026-02imom8-774",
       "year": "2026",
       "school": "首都医科大学",
       "dept": "北京脑所",
@@ -13295,7 +13176,7 @@ window.BOLU_DDL = {
       "search": "首都医科大学 北京脑所"
     },
     {
-      "id": "ddl-2026-193834n-782",
+      "id": "ddl-2026-193834n-775",
       "year": "2026",
       "school": "山东大学",
       "dept": "软件学院",
@@ -13312,7 +13193,7 @@ window.BOLU_DDL = {
       "search": "山东大学 软件学院"
     },
     {
-      "id": "ddl-2026-1oxlq0e-783",
+      "id": "ddl-2026-1oxlq0e-776",
       "year": "2026",
       "school": "天津大学",
       "dept": "福州国际联合学院",
@@ -13329,7 +13210,7 @@ window.BOLU_DDL = {
       "search": "天津大学 福州国际联合学院"
     },
     {
-      "id": "ddl-2026-0fjc4yg-784",
+      "id": "ddl-2026-0fjc4yg-777",
       "year": "2026",
       "school": "天津大学",
       "dept": "福州国际联合学院",
@@ -13346,7 +13227,7 @@ window.BOLU_DDL = {
       "search": "天津大学 福州国际联合学院"
     },
     {
-      "id": "ddl-2026-0m7q73e-785",
+      "id": "ddl-2026-0m7q73e-778",
       "year": "2026",
       "school": "北京师范大学",
       "dept": "地理科学学部",
@@ -13363,7 +13244,7 @@ window.BOLU_DDL = {
       "search": "北京师范大学 地理科学学部"
     },
     {
-      "id": "ddl-2026-1wehjno-786",
+      "id": "ddl-2026-1wehjno-779",
       "year": "2026",
       "school": "四川大学",
       "dept": "计算机学院（软件学院）",
@@ -13380,7 +13261,7 @@ window.BOLU_DDL = {
       "search": "四川大学 计算机学院（软件学院）"
     },
     {
-      "id": "ddl-2026-174bqsi-787",
+      "id": "ddl-2026-174bqsi-780",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "航空航天学院",
@@ -13397,7 +13278,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 航空航天学院"
     },
     {
-      "id": "ddl-2026-1exfxfs-788",
+      "id": "ddl-2026-1exfxfs-781",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "集成电路学院",
@@ -13414,7 +13295,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-1ns97xd-789",
+      "id": "ddl-2026-1ns97xd-782",
       "year": "2026",
       "school": "南开大学",
       "dept": "卓越工程师学院",
@@ -13431,7 +13312,7 @@ window.BOLU_DDL = {
       "search": "南开大学 卓越工程师学院"
     },
     {
-      "id": "ddl-2026-11zwqz0-790",
+      "id": "ddl-2026-11zwqz0-783",
       "year": "2026",
       "school": "辽宁大学",
       "dept": "信息学部",
@@ -13448,7 +13329,7 @@ window.BOLU_DDL = {
       "search": "辽宁大学 信息学部"
     },
     {
-      "id": "ddl-2026-1c5n1dq-791",
+      "id": "ddl-2026-1c5n1dq-784",
       "year": "2026",
       "school": "中南大学",
       "dept": "微电子科学与技术学院",
@@ -13465,7 +13346,7 @@ window.BOLU_DDL = {
       "search": "中南大学 微电子科学与技术学院"
     },
     {
-      "id": "ddl-2026-1l907wm-792",
+      "id": "ddl-2026-1l907wm-785",
       "year": "2026",
       "school": "江西财经大学",
       "dept": "计算机与人工智能学院",
@@ -13482,7 +13363,7 @@ window.BOLU_DDL = {
       "search": "江西财经大学 计算机与人工智能学院"
     },
     {
-      "id": "ddl-2026-1so3qsj-793",
+      "id": "ddl-2026-1so3qsj-786",
       "year": "2026",
       "school": "山东大学",
       "dept": "计算机科学与技术学院",
@@ -13499,7 +13380,7 @@ window.BOLU_DDL = {
       "search": "山东大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-1gqakor-794",
+      "id": "ddl-2026-1gqakor-787",
       "year": "2026",
       "school": "山东大学",
       "dept": "控制科学与工程学院",
@@ -13516,7 +13397,7 @@ window.BOLU_DDL = {
       "search": "山东大学 控制科学与工程学院"
     },
     {
-      "id": "ddl-2026-14nrqtf-795",
+      "id": "ddl-2026-14nrqtf-788",
       "year": "2026",
       "school": "华中师范大学",
       "dept": "智能健康交叉科学中心（未来科学与工程研究院）",
@@ -13533,7 +13414,7 @@ window.BOLU_DDL = {
       "search": "华中师范大学 智能健康交叉科学中心（未来科学与工程研究院）"
     },
     {
-      "id": "ddl-2026-1i8ui8a-796",
+      "id": "ddl-2026-1i8ui8a-789",
       "year": "2026",
       "school": "四川大学",
       "dept": "人工智能学院",
@@ -13550,7 +13431,7 @@ window.BOLU_DDL = {
       "search": "四川大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-08hzlsd-797",
+      "id": "ddl-2026-08hzlsd-790",
       "year": "2026",
       "school": "四川大学",
       "dept": "视觉合成图形图像技术国家级重点实验室",
@@ -13567,7 +13448,7 @@ window.BOLU_DDL = {
       "search": "四川大学 视觉合成图形图像技术国家级重点实验室"
     },
     {
-      "id": "ddl-2026-07b7nfj-798",
+      "id": "ddl-2026-07b7nfj-791",
       "year": "2026",
       "school": "华中师范大学",
       "dept": "伍伦贡联合研究院",
@@ -13584,7 +13465,7 @@ window.BOLU_DDL = {
       "search": "华中师范大学 伍伦贡联合研究院"
     },
     {
-      "id": "ddl-2026-0ybx2gr-799",
+      "id": "ddl-2026-0ybx2gr-792",
       "year": "2026",
       "school": "四川大学",
       "dept": "网络空间安全学院",
@@ -13601,7 +13482,7 @@ window.BOLU_DDL = {
       "search": "四川大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-014eqi9-800",
+      "id": "ddl-2026-014eqi9-793",
       "year": "2026",
       "school": "天津大学",
       "dept": "工程硕博士培养改革专项",
@@ -13618,7 +13499,7 @@ window.BOLU_DDL = {
       "search": "天津大学 工程硕博士培养改革专项"
     },
     {
-      "id": "ddl-2026-1w7mxp2-801",
+      "id": "ddl-2026-1w7mxp2-794",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "工程科学学院",
@@ -13635,7 +13516,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 工程科学学院"
     },
     {
-      "id": "ddl-2026-1rpcx95-802",
+      "id": "ddl-2026-1rpcx95-795",
       "year": "2026",
       "school": "江西财经大学",
       "dept": "软件与物联网工程学院",
@@ -13652,7 +13533,7 @@ window.BOLU_DDL = {
       "search": "江西财经大学 软件与物联网工程学院"
     },
     {
-      "id": "ddl-2026-0130zcn-803",
+      "id": "ddl-2026-0130zcn-796",
       "year": "2026",
       "school": "湘潭大学",
       "dept": "物理与光电工程学院",
@@ -13669,7 +13550,7 @@ window.BOLU_DDL = {
       "search": "湘潭大学 物理与光电工程学院"
     },
     {
-      "id": "ddl-2026-0vl2xnm-804",
+      "id": "ddl-2026-0vl2xnm-797",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "珠海校区",
@@ -13686,7 +13567,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 珠海校区"
     },
     {
-      "id": "ddl-2026-0jm7k9e-805",
+      "id": "ddl-2026-0jm7k9e-798",
       "year": "2026",
       "school": "湘潭大学",
       "dept": "计算机学院",
@@ -13703,7 +13584,7 @@ window.BOLU_DDL = {
       "search": "湘潭大学 计算机学院"
     },
     {
-      "id": "ddl-2026-0fth0tq-806",
+      "id": "ddl-2026-0fth0tq-799",
       "year": "2026",
       "school": "中山大学",
       "dept": "生物医学工程学院",
@@ -13720,7 +13601,7 @@ window.BOLU_DDL = {
       "search": "中山大学 生物医学工程学院"
     },
     {
-      "id": "ddl-2026-14r8iei-807",
+      "id": "ddl-2026-14r8iei-800",
       "year": "2026",
       "school": "湘潭大学",
       "dept": "数学与交叉学部",
@@ -13737,7 +13618,7 @@ window.BOLU_DDL = {
       "search": "湘潭大学 数学与交叉学部"
     },
     {
-      "id": "ddl-2026-0je7dp0-808",
+      "id": "ddl-2026-0je7dp0-801",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "电气工程学院",
@@ -13754,7 +13635,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-0bfi3ll-809",
+      "id": "ddl-2026-0bfi3ll-802",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "电子信息工程学院",
@@ -13771,7 +13652,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 电子信息工程学院"
     },
     {
-      "id": "ddl-2026-05eqdng-810",
+      "id": "ddl-2026-05eqdng-803",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "网络空间安全学院",
@@ -13788,7 +13669,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-1057emg-811",
+      "id": "ddl-2026-1057emg-804",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "机械与电子控制工程学院",
@@ -13805,7 +13686,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 机械与电子控制工程学院"
     },
     {
-      "id": "ddl-2026-1uuwjm0-812",
+      "id": "ddl-2026-1uuwjm0-805",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "系统科学学院",
@@ -13822,7 +13703,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 系统科学学院"
     },
     {
-      "id": "ddl-2026-0ki7qyb-813",
+      "id": "ddl-2026-0ki7qyb-806",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "计算机学院",
@@ -13839,7 +13720,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 计算机学院"
     },
     {
-      "id": "ddl-2026-0ensbj5-814",
+      "id": "ddl-2026-0ensbj5-807",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "软件学院",
@@ -13856,7 +13737,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 软件学院"
     },
     {
-      "id": "ddl-2026-1tclz10-815",
+      "id": "ddl-2026-1tclz10-808",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "自动化与智能学院",
@@ -13873,7 +13754,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 自动化与智能学院"
     },
     {
-      "id": "ddl-2026-13skptf-816",
+      "id": "ddl-2026-13skptf-809",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "国家卓越工程师学院",
@@ -13890,7 +13771,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 国家卓越工程师学院"
     },
     {
-      "id": "ddl-2026-1tjsxs1-817",
+      "id": "ddl-2026-1tjsxs1-810",
       "year": "2026",
       "school": "北京交通大学",
       "dept": "先进轨道交通自主运行全国重点实验室",
@@ -13907,7 +13788,7 @@ window.BOLU_DDL = {
       "search": "北京交通大学 先进轨道交通自主运行全国重点实验室"
     },
     {
-      "id": "ddl-2026-0gwzyyb-818",
+      "id": "ddl-2026-0gwzyyb-811",
       "year": "2026",
       "school": "北京理工大学（珠海校区）",
       "dept": "前沿交叉学域",
@@ -13924,7 +13805,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学（珠海校区） 前沿交叉学域"
     },
     {
-      "id": "ddl-2026-00xlhn4-819",
+      "id": "ddl-2026-00xlhn4-812",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "人工智能学院",
@@ -13941,7 +13822,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1p45oyu-820",
+      "id": "ddl-2026-1p45oyu-813",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "自动化与感知学院",
@@ -13958,7 +13839,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 自动化与感知学院"
     },
     {
-      "id": "ddl-2026-12r4tua-821",
+      "id": "ddl-2026-12r4tua-814",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "自动化科学与电气工程学院",
@@ -13975,7 +13856,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 自动化科学与电气工程学院"
     },
     {
-      "id": "ddl-2026-1vmejn6-822",
+      "id": "ddl-2026-1vmejn6-815",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "计算机学院",
@@ -13992,7 +13873,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 计算机学院"
     },
     {
-      "id": "ddl-2026-0fcozuk-823",
+      "id": "ddl-2026-0fcozuk-816",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "信息科学技术学院电子工程与信息科学系",
@@ -14009,7 +13890,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 信息科学技术学院电子工程与信息科学系"
     },
     {
-      "id": "ddl-2026-19o4t2s-824",
+      "id": "ddl-2026-19o4t2s-817",
       "year": "2026",
       "school": "西南交通大学",
       "dept": "集成电路科学与工程学院",
@@ -14026,7 +13907,7 @@ window.BOLU_DDL = {
       "search": "西南交通大学 集成电路科学与工程学院"
     },
     {
-      "id": "ddl-2026-0cybffd-825",
+      "id": "ddl-2026-0cybffd-818",
       "year": "2026",
       "school": "山东大学",
       "dept": "海洋研究院",
@@ -14043,7 +13924,7 @@ window.BOLU_DDL = {
       "search": "山东大学 海洋研究院"
     },
     {
-      "id": "ddl-2026-19qduud-826",
+      "id": "ddl-2026-19qduud-819",
       "year": "2026",
       "school": "暨南大学",
       "dept": "网络空间安全学院",
@@ -14060,7 +13941,7 @@ window.BOLU_DDL = {
       "search": "暨南大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-0b7z3yz-827",
+      "id": "ddl-2026-0b7z3yz-820",
       "year": "2026",
       "school": "中国科学院",
       "dept": "国家生物信息中心",
@@ -14077,7 +13958,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 国家生物信息中心"
     },
     {
-      "id": "ddl-2026-11zyfte-828",
+      "id": "ddl-2026-11zyfte-821",
       "year": "2026",
       "school": "南开大学",
       "dept": "计算机学院、密码与网络空间安全学院",
@@ -14094,7 +13975,7 @@ window.BOLU_DDL = {
       "search": "南开大学 计算机学院、密码与网络空间安全学院"
     },
     {
-      "id": "ddl-2026-11g115i-829",
+      "id": "ddl-2026-11g115i-822",
       "year": "2026",
       "school": "江西财经大学",
       "dept": "虚拟现实（VR）现代产业学院",
@@ -14111,7 +13992,7 @@ window.BOLU_DDL = {
       "search": "江西财经大学 虚拟现实（VR）现代产业学院"
     },
     {
-      "id": "ddl-2026-0kk0ahq-830",
+      "id": "ddl-2026-0kk0ahq-823",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "生物医学工程学院",
@@ -14128,7 +14009,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 生物医学工程学院"
     },
     {
-      "id": "ddl-2026-0jpisej-831",
+      "id": "ddl-2026-0jpisej-824",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "自动化工程学院",
@@ -14145,7 +14026,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 自动化工程学院"
     },
     {
-      "id": "ddl-2026-0873v0l-832",
+      "id": "ddl-2026-0873v0l-825",
       "year": "2026",
       "school": "华中农业大学",
       "dept": "信息学院",
@@ -14162,7 +14043,7 @@ window.BOLU_DDL = {
       "search": "华中农业大学 信息学院"
     },
     {
-      "id": "ddl-2026-11xs92q-833",
+      "id": "ddl-2026-11xs92q-826",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "溥渊未来技术学院",
@@ -14179,7 +14060,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 溥渊未来技术学院"
     },
     {
-      "id": "ddl-2026-1phsrtl-834",
+      "id": "ddl-2026-1phsrtl-827",
       "year": "2026",
       "school": "河北工业大学",
       "dept": "人工智能与数据科学学院",
@@ -14196,7 +14077,7 @@ window.BOLU_DDL = {
       "search": "河北工业大学 人工智能与数据科学学院"
     },
     {
-      "id": "ddl-2026-1o5relh-835",
+      "id": "ddl-2026-1o5relh-828",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "生命科学与技术学院",
@@ -14213,7 +14094,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 生命科学与技术学院"
     },
     {
-      "id": "ddl-2026-128xpa4-836",
+      "id": "ddl-2026-128xpa4-829",
       "year": "2026",
       "school": "四川大学",
       "dept": "电子信息学院",
@@ -14230,7 +14111,7 @@ window.BOLU_DDL = {
       "search": "四川大学 电子信息学院"
     },
     {
-      "id": "ddl-2026-120f1bq-837",
+      "id": "ddl-2026-120f1bq-830",
       "year": "2026",
       "school": "东北大学",
       "dept": "机械工程与自动化学院",
@@ -14247,7 +14128,7 @@ window.BOLU_DDL = {
       "search": "东北大学 机械工程与自动化学院"
     },
     {
-      "id": "ddl-2026-0ube6iz-838",
+      "id": "ddl-2026-0ube6iz-831",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "信息与电子工程学院",
@@ -14264,7 +14145,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 信息与电子工程学院"
     },
     {
-      "id": "ddl-2026-1azr8es-839",
+      "id": "ddl-2026-1azr8es-832",
       "year": "2026",
       "school": "中国科学院",
       "dept": "遗传与发育生物学研究所",
@@ -14281,7 +14162,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 遗传与发育生物学研究所"
     },
     {
-      "id": "ddl-2026-0gi7dbe-840",
+      "id": "ddl-2026-0gi7dbe-833",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "杭州高等研究院-分子医学院",
@@ -14298,7 +14179,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 杭州高等研究院-分子医学院"
     },
     {
-      "id": "ddl-2026-19rx3qk-841",
+      "id": "ddl-2026-19rx3qk-834",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "网络空间安全学院",
@@ -14315,7 +14196,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-1lqnx8m-842",
+      "id": "ddl-2026-1lqnx8m-835",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "网络空间安全学院-空天网信所",
@@ -14332,7 +14213,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 网络空间安全学院-空天网信所"
     },
     {
-      "id": "ddl-2026-155xy1b-843",
+      "id": "ddl-2026-155xy1b-836",
       "year": "2026",
       "school": "中南大学",
       "dept": "电子信息学院",
@@ -14349,7 +14230,7 @@ window.BOLU_DDL = {
       "search": "中南大学 电子信息学院"
     },
     {
-      "id": "ddl-2026-0dcj7er-844",
+      "id": "ddl-2026-0dcj7er-837",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "前沿交叉科学院",
@@ -14366,7 +14247,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 前沿交叉科学院"
     },
     {
-      "id": "ddl-2026-166f36q-845",
+      "id": "ddl-2026-166f36q-838",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "通信抗干扰全国重点实验室",
@@ -14383,7 +14264,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 通信抗干扰全国重点实验室"
     },
     {
-      "id": "ddl-2026-1pfip02-846",
+      "id": "ddl-2026-1pfip02-839",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "集成电路学院",
@@ -14400,7 +14281,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-17fbeej-847",
+      "id": "ddl-2026-17fbeej-840",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "星际航行学院",
@@ -14417,7 +14298,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 星际航行学院"
     },
     {
-      "id": "ddl-2026-0sbixpz-848",
+      "id": "ddl-2026-0sbixpz-841",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "杭州高等研究院-物理与光电工程学院",
@@ -14434,7 +14315,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 杭州高等研究院-物理与光电工程学院"
     },
     {
-      "id": "ddl-2026-1joolzx-849",
+      "id": "ddl-2026-1joolzx-842",
       "year": "2026",
       "school": "南京航空航天大学",
       "dept": "人工智能学院",
@@ -14451,7 +14332,7 @@ window.BOLU_DDL = {
       "search": "南京航空航天大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0csxnr7-850",
+      "id": "ddl-2026-0csxnr7-843",
       "year": "2026",
       "school": "大连理工大学",
       "dept": "信息与通信工程学院",
@@ -14468,7 +14349,7 @@ window.BOLU_DDL = {
       "search": "大连理工大学 信息与通信工程学院"
     },
     {
-      "id": "ddl-2026-1b5nw8m-851",
+      "id": "ddl-2026-1b5nw8m-844",
       "year": "2026",
       "school": "华东理工大学",
       "dept": "物理科学与技术学院",
@@ -14485,7 +14366,7 @@ window.BOLU_DDL = {
       "search": "华东理工大学 物理科学与技术学院"
     },
     {
-      "id": "ddl-2026-0qolf0m-852",
+      "id": "ddl-2026-0qolf0m-845",
       "year": "2026",
       "school": "南京航空航天大学",
       "dept": "集成电路学院",
@@ -14502,7 +14383,7 @@ window.BOLU_DDL = {
       "search": "南京航空航天大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-0vd7uwz-853",
+      "id": "ddl-2026-0vd7uwz-846",
       "year": "2026",
       "school": "天津大学",
       "dept": "人工智能学院",
@@ -14519,7 +14400,7 @@ window.BOLU_DDL = {
       "search": "天津大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1up8db1-854",
+      "id": "ddl-2026-1up8db1-847",
       "year": "2026",
       "school": "天津大学",
       "dept": "人工智能学院",
@@ -14536,7 +14417,7 @@ window.BOLU_DDL = {
       "search": "天津大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1lao0bf-855",
+      "id": "ddl-2026-1lao0bf-848",
       "year": "2026",
       "school": "天津大学",
       "dept": "计算机学院",
@@ -14553,7 +14434,7 @@ window.BOLU_DDL = {
       "search": "天津大学 计算机学院"
     },
     {
-      "id": "ddl-2026-0fbg41h-856",
+      "id": "ddl-2026-0fbg41h-849",
       "year": "2026",
       "school": "天津大学",
       "dept": "计算机学院",
@@ -14570,7 +14451,7 @@ window.BOLU_DDL = {
       "search": "天津大学 计算机学院"
     },
     {
-      "id": "ddl-2026-1sz59hk-857",
+      "id": "ddl-2026-1sz59hk-850",
       "year": "2026",
       "school": "中山大学",
       "dept": "电子与通信工程学院",
@@ -14587,7 +14468,7 @@ window.BOLU_DDL = {
       "search": "中山大学 电子与通信工程学院"
     },
     {
-      "id": "ddl-2026-0yhrr5k-858",
+      "id": "ddl-2026-0yhrr5k-851",
       "year": "2026",
       "school": "哈尔滨工业大学（威海）",
       "dept": "汽车工程学院",
@@ -14604,7 +14485,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（威海） 汽车工程学院"
     },
     {
-      "id": "ddl-2026-0ipexws-859",
+      "id": "ddl-2026-0ipexws-852",
       "year": "2026",
       "school": "哈尔滨工业大学（威海）",
       "dept": "汽车工程学院",
@@ -14621,7 +14502,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（威海） 汽车工程学院"
     },
     {
-      "id": "ddl-2026-02ii07s-860",
+      "id": "ddl-2026-02ii07s-853",
       "year": "2026",
       "school": "南昌大学",
       "dept": "数学与计算机学院",
@@ -14638,7 +14519,7 @@ window.BOLU_DDL = {
       "search": "南昌大学 数学与计算机学院"
     },
     {
-      "id": "ddl-2026-1ez9c2e-861",
+      "id": "ddl-2026-1ez9c2e-854",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "电子信息学院",
@@ -14655,7 +14536,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 电子信息学院"
     },
     {
-      "id": "ddl-2026-1bb8wl5-862",
+      "id": "ddl-2026-1bb8wl5-855",
       "year": "2026",
       "school": "北京科技大学",
       "dept": "钢铁共性技术协同创新中心",
@@ -14672,7 +14553,7 @@ window.BOLU_DDL = {
       "search": "北京科技大学 钢铁共性技术协同创新中心"
     },
     {
-      "id": "ddl-2026-0c89rvc-863",
+      "id": "ddl-2026-0c89rvc-856",
       "year": "2026",
       "school": "大连理工大学",
       "dept": "电气工程学院",
@@ -14689,7 +14570,7 @@ window.BOLU_DDL = {
       "search": "大连理工大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-1afbinn-864",
+      "id": "ddl-2026-1afbinn-857",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "电子科学技术研究院",
@@ -14706,7 +14587,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 电子科学技术研究院"
     },
     {
-      "id": "ddl-2026-1yz5zeh-865",
+      "id": "ddl-2026-1yz5zeh-858",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "人工智能学院",
@@ -14723,7 +14604,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1dfpmt7-866",
+      "id": "ddl-2026-1dfpmt7-859",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "信息与通信学院",
@@ -14740,7 +14621,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 信息与通信学院"
     },
     {
-      "id": "ddl-2026-12vhxeu-867",
+      "id": "ddl-2026-12vhxeu-860",
       "year": "2026",
       "school": "华中科技大学",
       "dept": "电气与电子工程学院",
@@ -14757,7 +14638,7 @@ window.BOLU_DDL = {
       "search": "华中科技大学 电气与电子工程学院"
     },
     {
-      "id": "ddl-2026-0z9fl3w-868",
+      "id": "ddl-2026-0z9fl3w-861",
       "year": "2026",
       "school": "华中科技大学",
       "dept": "计算机科学与技术学院",
@@ -14774,7 +14655,7 @@ window.BOLU_DDL = {
       "search": "华中科技大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-0nqe0ty-869",
+      "id": "ddl-2026-0nqe0ty-862",
       "year": "2026",
       "school": "东北大学",
       "dept": "计算机科学与工程学院",
@@ -14791,7 +14672,7 @@ window.BOLU_DDL = {
       "search": "东北大学 计算机科学与工程学院"
     },
     {
-      "id": "ddl-2026-1rxfivl-870",
+      "id": "ddl-2026-1rxfivl-863",
       "year": "2026",
       "school": "华东师范大学",
       "dept": "心理与认知科学学院",
@@ -14808,7 +14689,7 @@ window.BOLU_DDL = {
       "search": "华东师范大学 心理与认知科学学院"
     },
     {
-      "id": "ddl-2026-1ew85mp-871",
+      "id": "ddl-2026-1ew85mp-864",
       "year": "2026",
       "school": "西安电子科技大学",
       "dept": "国家卓越工程师学院粤港澳大湾区基地（广州研究院）",
@@ -14825,7 +14706,7 @@ window.BOLU_DDL = {
       "search": "西安电子科技大学 国家卓越工程师学院粤港澳大湾区基地（广州研究院）"
     },
     {
-      "id": "ddl-2026-0qwjir2-872",
+      "id": "ddl-2026-0qwjir2-865",
       "year": "2026",
       "school": "西安电子科技大学",
       "dept": "国家卓越工程师学院长三角基地（杭州研究院）",
@@ -14842,7 +14723,7 @@ window.BOLU_DDL = {
       "search": "西安电子科技大学 国家卓越工程师学院长三角基地（杭州研究院）"
     },
     {
-      "id": "ddl-2026-0uh393c-873",
+      "id": "ddl-2026-0uh393c-866",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "光电学院",
@@ -14859,7 +14740,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 光电学院"
     },
     {
-      "id": "ddl-2026-11s8j0a-874",
+      "id": "ddl-2026-11s8j0a-867",
       "year": "2026",
       "school": "华中科技大学",
       "dept": "软件学院",
@@ -14876,7 +14757,7 @@ window.BOLU_DDL = {
       "search": "华中科技大学 软件学院"
     },
     {
-      "id": "ddl-2026-0gqqsxh-875",
+      "id": "ddl-2026-0gqqsxh-868",
       "year": "2026",
       "school": "南京师范大学",
       "dept": "计算机与电子信息学院/人工智能学院",
@@ -14893,7 +14774,7 @@ window.BOLU_DDL = {
       "search": "南京师范大学 计算机与电子信息学院/人工智能学院"
     },
     {
-      "id": "ddl-2026-148yb3c-876",
+      "id": "ddl-2026-148yb3c-869",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "浦江国际学院",
@@ -14910,7 +14791,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 浦江国际学院"
     },
     {
-      "id": "ddl-2026-1736foq-877",
+      "id": "ddl-2026-1736foq-870",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "软件学院",
@@ -14927,7 +14808,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 软件学院"
     },
     {
-      "id": "ddl-2026-08b8vlk-878",
+      "id": "ddl-2026-08b8vlk-871",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "信息与软件工程学院",
@@ -14944,7 +14825,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 信息与软件工程学院"
     },
     {
-      "id": "ddl-2026-0zz1rtr-879",
+      "id": "ddl-2026-0zz1rtr-872",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "空天科学与技术学院",
@@ -14961,7 +14842,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 空天科学与技术学院"
     },
     {
-      "id": "ddl-2026-0uq9588-880",
+      "id": "ddl-2026-0uq9588-873",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "杭州高等研究院-智能科学与技术学院",
@@ -14978,7 +14859,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 杭州高等研究院-智能科学与技术学院"
     },
     {
-      "id": "ddl-2026-1wuel08-881",
+      "id": "ddl-2026-1wuel08-874",
       "year": "2026",
       "school": "山东大学",
       "dept": "低空科学与工程学院",
@@ -14995,7 +14876,7 @@ window.BOLU_DDL = {
       "search": "山东大学 低空科学与工程学院"
     },
     {
-      "id": "ddl-2026-1ny38jv-882",
+      "id": "ddl-2026-1ny38jv-875",
       "year": "2026",
       "school": "西南大学",
       "dept": "计算机与信息科学学院 软件学院",
@@ -15012,7 +14893,7 @@ window.BOLU_DDL = {
       "search": "西南大学 计算机与信息科学学院 软件学院"
     },
     {
-      "id": "ddl-2026-1vlsjg9-883",
+      "id": "ddl-2026-1vlsjg9-876",
       "year": "2026",
       "school": "西南大学",
       "dept": "人工智能学院",
@@ -15029,7 +14910,7 @@ window.BOLU_DDL = {
       "search": "西南大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0c5jzes-884",
+      "id": "ddl-2026-0c5jzes-877",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "机械与电气工程学院",
@@ -15046,7 +14927,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 机械与电气工程学院"
     },
     {
-      "id": "ddl-2026-1q7nrej-885",
+      "id": "ddl-2026-1q7nrej-878",
       "year": "2026",
       "school": "中国海洋大学",
       "dept": "卓越工程师专项",
@@ -15063,7 +14944,7 @@ window.BOLU_DDL = {
       "search": "中国海洋大学 卓越工程师专项"
     },
     {
-      "id": "ddl-2026-1x4hpp6-886",
+      "id": "ddl-2026-1x4hpp6-879",
       "year": "2026",
       "school": "空军工程大学",
       "dept": "",
@@ -15080,7 +14961,7 @@ window.BOLU_DDL = {
       "search": "空军工程大学"
     },
     {
-      "id": "ddl-2026-1m4embr-887",
+      "id": "ddl-2026-1m4embr-880",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电气工程学院",
@@ -15097,7 +14978,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-1vsks8k-888",
+      "id": "ddl-2026-1vsks8k-881",
       "year": "2026",
       "school": "华中科技大学",
       "dept": "网络空间安全学院",
@@ -15114,7 +14995,7 @@ window.BOLU_DDL = {
       "search": "华中科技大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-09hzvp8-889",
+      "id": "ddl-2026-09hzvp8-882",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电子与信息学部网络空间安全学院",
@@ -15131,7 +15012,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电子与信息学部网络空间安全学院"
     },
     {
-      "id": "ddl-2026-0yt42r9-890",
+      "id": "ddl-2026-0yt42r9-883",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电子与信息学部-信息与通信工程学院",
@@ -15148,7 +15029,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电子与信息学部-信息与通信工程学院"
     },
     {
-      "id": "ddl-2026-0hojr0o-891",
+      "id": "ddl-2026-0hojr0o-884",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "网络空间安全学院",
@@ -15165,7 +15046,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-0dfyhwn-892",
+      "id": "ddl-2026-0dfyhwn-885",
       "year": "2026",
       "school": "陆军工程大学",
       "dept": "",
@@ -15182,7 +15063,7 @@ window.BOLU_DDL = {
       "search": "陆军工程大学"
     },
     {
-      "id": "ddl-2026-14pudak-893",
+      "id": "ddl-2026-14pudak-886",
       "year": "2026",
       "school": "长安大学",
       "dept": "机器人与具身智能学院",
@@ -15199,7 +15080,7 @@ window.BOLU_DDL = {
       "search": "长安大学 机器人与具身智能学院"
     },
     {
-      "id": "ddl-2026-0wq4f8l-894",
+      "id": "ddl-2026-0wq4f8l-887",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电子与信息学部计算机科学与技术学院",
@@ -15216,7 +15097,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电子与信息学部计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-04fr54z-895",
+      "id": "ddl-2026-04fr54z-888",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电子与信息学部软件学院",
@@ -15233,7 +15114,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电子与信息学部软件学院"
     },
     {
-      "id": "ddl-2026-1uhmssr-896",
+      "id": "ddl-2026-1uhmssr-889",
       "year": "2026",
       "school": "西安电子科技大学",
       "dept": "空间科学与技术学院",
@@ -15250,7 +15131,7 @@ window.BOLU_DDL = {
       "search": "西安电子科技大学 空间科学与技术学院"
     },
     {
-      "id": "ddl-2026-18m4w6c-897",
+      "id": "ddl-2026-18m4w6c-890",
       "year": "2026",
       "school": "南京航空航天大学",
       "dept": "计算机科学与技术学院/软件学院",
@@ -15267,7 +15148,7 @@ window.BOLU_DDL = {
       "search": "南京航空航天大学 计算机科学与技术学院/软件学院"
     },
     {
-      "id": "ddl-2026-0d9jp3v-898",
+      "id": "ddl-2026-0d9jp3v-891",
       "year": "2026",
       "school": "天津大学",
       "dept": "香港理工大学深圳未来技术学院",
@@ -15284,7 +15165,7 @@ window.BOLU_DDL = {
       "search": "天津大学 香港理工大学深圳未来技术学院"
     },
     {
-      "id": "ddl-2026-0i31ovx-899",
+      "id": "ddl-2026-0i31ovx-892",
       "year": "2026",
       "school": "天津大学",
       "dept": "香港理工大学深圳未来技术学院",
@@ -15301,7 +15182,7 @@ window.BOLU_DDL = {
       "search": "天津大学 香港理工大学深圳未来技术学院"
     },
     {
-      "id": "ddl-2026-1tmskd5-900",
+      "id": "ddl-2026-1tmskd5-893",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "材料科学与工程学院",
@@ -15318,7 +15199,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 材料科学与工程学院"
     },
     {
-      "id": "ddl-2026-0w7zgyz-901",
+      "id": "ddl-2026-0w7zgyz-894",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "材料科学与工程学院",
@@ -15335,7 +15216,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 材料科学与工程学院"
     },
     {
-      "id": "ddl-2026-0f4sovw-902",
+      "id": "ddl-2026-0f4sovw-895",
       "year": "2026",
       "school": "暨南大学",
       "dept": "信息科学技术学院",
@@ -15352,7 +15233,7 @@ window.BOLU_DDL = {
       "search": "暨南大学 信息科学技术学院"
     },
     {
-      "id": "ddl-2026-1kwse6o-903",
+      "id": "ddl-2026-1kwse6o-896",
       "year": "2026",
       "school": "浙江大学",
       "dept": "伊利诺伊大学厄巴纳香槟校区联合学院",
@@ -15369,7 +15250,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 伊利诺伊大学厄巴纳香槟校区联合学院"
     },
     {
-      "id": "ddl-2026-0rg5i3b-904",
+      "id": "ddl-2026-0rg5i3b-897",
       "year": "2026",
       "school": "南京航空航天大学",
       "dept": "直升机动力学全国重点实验室",
@@ -15386,7 +15267,7 @@ window.BOLU_DDL = {
       "search": "南京航空航天大学 直升机动力学全国重点实验室"
     },
     {
-      "id": "ddl-2026-1quedpm-905",
+      "id": "ddl-2026-1quedpm-898",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "密码学院",
@@ -15403,7 +15284,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 密码学院"
     },
     {
-      "id": "ddl-2026-0xb6d8c-906",
+      "id": "ddl-2026-0xb6d8c-899",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "能源科学与工程学院",
@@ -15420,7 +15301,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 能源科学与工程学院"
     },
     {
-      "id": "ddl-2026-0jyw4ly-907",
+      "id": "ddl-2026-0jyw4ly-900",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "能源科学与工程学院",
@@ -15437,7 +15318,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 能源科学与工程学院"
     },
     {
-      "id": "ddl-2026-0ifj8n0-908",
+      "id": "ddl-2026-0ifj8n0-901",
       "year": "2026",
       "school": "深圳大学",
       "dept": "计算机与软件学院",
@@ -15454,7 +15335,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 计算机与软件学院"
     },
     {
-      "id": "ddl-2026-1d09vb4-909",
+      "id": "ddl-2026-1d09vb4-902",
       "year": "2026",
       "school": "深圳大学",
       "dept": "光明实验室",
@@ -15471,7 +15352,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 光明实验室"
     },
     {
-      "id": "ddl-2026-1wj6494-910",
+      "id": "ddl-2026-1wj6494-903",
       "year": "2026",
       "school": "南昌大学",
       "dept": "信息工程学院",
@@ -15488,7 +15369,7 @@ window.BOLU_DDL = {
       "search": "南昌大学 信息工程学院"
     },
     {
-      "id": "ddl-2026-0styn4s-911",
+      "id": "ddl-2026-0styn4s-904",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电信学部微电子学院",
@@ -15505,7 +15386,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电信学部微电子学院"
     },
     {
-      "id": "ddl-2026-1a0bqpa-912",
+      "id": "ddl-2026-1a0bqpa-905",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电子与信息学部电子科学与工程学院",
@@ -15522,7 +15403,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电子与信息学部电子科学与工程学院"
     },
     {
-      "id": "ddl-2026-08uvpwv-913",
+      "id": "ddl-2026-08uvpwv-906",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "电子与信息学部自动化科学与工程学院",
@@ -15539,7 +15420,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 电子与信息学部自动化科学与工程学院"
     },
     {
-      "id": "ddl-2026-0tkt1fi-914",
+      "id": "ddl-2026-0tkt1fi-907",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "国家储能技术产教融合创新平台（中心）",
@@ -15556,7 +15437,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 国家储能技术产教融合创新平台（中心）"
     },
     {
-      "id": "ddl-2026-1wrgl90-915",
+      "id": "ddl-2026-1wrgl90-908",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "前沿科学技术研究院",
@@ -15573,7 +15454,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 前沿科学技术研究院"
     },
     {
-      "id": "ddl-2026-0a1eoct-916",
+      "id": "ddl-2026-0a1eoct-909",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "人工智能与机器人研究所暨人工智能学院",
@@ -15590,7 +15471,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 人工智能与机器人研究所暨人工智能学院"
     },
     {
-      "id": "ddl-2026-1q7gmuz-917",
+      "id": "ddl-2026-1q7gmuz-910",
       "year": "2026",
       "school": "西安交通大学",
       "dept": "未来技术学院",
@@ -15607,7 +15488,7 @@ window.BOLU_DDL = {
       "search": "西安交通大学 未来技术学院"
     },
     {
-      "id": "ddl-2026-17u8c5l-918",
+      "id": "ddl-2026-17u8c5l-911",
       "year": "2026",
       "school": "南昌大学",
       "dept": "人工智能学院",
@@ -15624,7 +15505,7 @@ window.BOLU_DDL = {
       "search": "南昌大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0czjtp7-919",
+      "id": "ddl-2026-0czjtp7-912",
       "year": "2026",
       "school": "西南交通大学",
       "dept": "利兹学院",
@@ -15641,7 +15522,7 @@ window.BOLU_DDL = {
       "search": "西南交通大学 利兹学院"
     },
     {
-      "id": "ddl-2026-1rhvz04-920",
+      "id": "ddl-2026-1rhvz04-913",
       "year": "2026",
       "school": "长安大学",
       "dept": "信息工程学院",
@@ -15658,7 +15539,7 @@ window.BOLU_DDL = {
       "search": "长安大学 信息工程学院"
     },
     {
-      "id": "ddl-2026-0y8h4kh-921",
+      "id": "ddl-2026-0y8h4kh-914",
       "year": "2026",
       "school": "兰州大学",
       "dept": "信息科学与工程学院",
@@ -15675,7 +15556,7 @@ window.BOLU_DDL = {
       "search": "兰州大学 信息科学与工程学院"
     },
     {
-      "id": "ddl-2026-1tuxv2j-922",
+      "id": "ddl-2026-1tuxv2j-915",
       "year": "2026",
       "school": "首都师范大学",
       "dept": "信息工程学院",
@@ -15692,7 +15573,7 @@ window.BOLU_DDL = {
       "search": "首都师范大学 信息工程学院"
     },
     {
-      "id": "ddl-2026-162v9kw-923",
+      "id": "ddl-2026-162v9kw-916",
       "year": "2026",
       "school": "华中科技大学",
       "dept": "集成电路学院",
@@ -15709,7 +15590,7 @@ window.BOLU_DDL = {
       "search": "华中科技大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-0vqw5fs-924",
+      "id": "ddl-2026-0vqw5fs-917",
       "year": "2026",
       "school": "电子科技大学（深圳）",
       "dept": "高等研究院",
@@ -15726,7 +15607,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学（深圳） 高等研究院"
     },
     {
-      "id": "ddl-2026-0pbutni-925",
+      "id": "ddl-2026-0pbutni-918",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "电子科学与工程学院",
@@ -15743,7 +15624,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 电子科学与工程学院"
     },
     {
-      "id": "ddl-2026-1ezkmgj-926",
+      "id": "ddl-2026-1ezkmgj-919",
       "year": "2026",
       "school": "北京邮电大学",
       "dept": "卓越工程师学院",
@@ -15760,7 +15641,7 @@ window.BOLU_DDL = {
       "search": "北京邮电大学 卓越工程师学院"
     },
     {
-      "id": "ddl-2026-0phn58s-927",
+      "id": "ddl-2026-0phn58s-920",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "集成电路科学与工程学院",
@@ -15777,7 +15658,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 集成电路科学与工程学院"
     },
     {
-      "id": "ddl-2026-0mm2l7p-928",
+      "id": "ddl-2026-0mm2l7p-921",
       "year": "2026",
       "school": "中山大学",
       "dept": "系统科学与工程学院",
@@ -15794,7 +15675,7 @@ window.BOLU_DDL = {
       "search": "中山大学 系统科学与工程学院"
     },
     {
-      "id": "ddl-2026-02wygxt-929",
+      "id": "ddl-2026-02wygxt-922",
       "year": "2026",
       "school": "大连理工大学",
       "dept": "人工智能学院",
@@ -15811,7 +15692,7 @@ window.BOLU_DDL = {
       "search": "大连理工大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0cmqoed-930",
+      "id": "ddl-2026-0cmqoed-923",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "电子信息工程学院",
@@ -15828,7 +15709,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 电子信息工程学院"
     },
     {
-      "id": "ddl-2026-0giyfgl-931",
+      "id": "ddl-2026-0giyfgl-924",
       "year": "2026",
       "school": "北京邮电大学",
       "dept": "卓越工程师学院-工程硕博士培养改革专项",
@@ -15845,7 +15726,7 @@ window.BOLU_DDL = {
       "search": "北京邮电大学 卓越工程师学院-工程硕博士培养改革专项"
     },
     {
-      "id": "ddl-2026-05827gw-932",
+      "id": "ddl-2026-05827gw-925",
       "year": "2026",
       "school": "上海交通大学",
       "dept": "电气工程学院",
@@ -15862,7 +15743,7 @@ window.BOLU_DDL = {
       "search": "上海交通大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-0ej6gcx-933",
+      "id": "ddl-2026-0ej6gcx-926",
       "year": "2026",
       "school": "陆军军医大学",
       "dept": "",
@@ -15879,7 +15760,7 @@ window.BOLU_DDL = {
       "search": "陆军军医大学"
     },
     {
-      "id": "ddl-2026-1xpt1m0-934",
+      "id": "ddl-2026-1xpt1m0-927",
       "year": "2026",
       "school": "华中科技大学",
       "dept": "航空航天学院",
@@ -15896,7 +15777,7 @@ window.BOLU_DDL = {
       "search": "华中科技大学 航空航天学院"
     },
     {
-      "id": "ddl-2026-148x0yd-935",
+      "id": "ddl-2026-148x0yd-928",
       "year": "2026",
       "school": "中国药科大学",
       "dept": "人工智能学院",
@@ -15913,7 +15794,7 @@ window.BOLU_DDL = {
       "search": "中国药科大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1euj3q3-936",
+      "id": "ddl-2026-1euj3q3-929",
       "year": "2026",
       "school": "中山大学",
       "dept": "集成电路学院",
@@ -15930,7 +15811,7 @@ window.BOLU_DDL = {
       "search": "中山大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-0p2c9w0-937",
+      "id": "ddl-2026-0p2c9w0-930",
       "year": "2026",
       "school": "西南大学",
       "dept": "电子信息工程学院",
@@ -15947,7 +15828,7 @@ window.BOLU_DDL = {
       "search": "西南大学 电子信息工程学院"
     },
     {
-      "id": "ddl-2026-0b4d0v0-938",
+      "id": "ddl-2026-0b4d0v0-931",
       "year": "2026",
       "school": "西南大学",
       "dept": "柑桔研究所",
@@ -15964,7 +15845,7 @@ window.BOLU_DDL = {
       "search": "西南大学 柑桔研究所"
     },
     {
-      "id": "ddl-2026-12kpvvn-939",
+      "id": "ddl-2026-12kpvvn-932",
       "year": "2026",
       "school": "山东大学",
       "dept": "空间科学与技术学院",
@@ -15981,7 +15862,7 @@ window.BOLU_DDL = {
       "search": "山东大学 空间科学与技术学院"
     },
     {
-      "id": "ddl-2026-1cm6vwr-940",
+      "id": "ddl-2026-1cm6vwr-933",
       "year": "2026",
       "school": "中国科学院",
       "dept": "沈阳自动化研究所",
@@ -15998,7 +15879,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 沈阳自动化研究所"
     },
     {
-      "id": "ddl-2026-1c9wja2-941",
+      "id": "ddl-2026-1c9wja2-934",
       "year": "2026",
       "school": "山东大学",
       "dept": "智能通信技术研究院",
@@ -16015,7 +15896,7 @@ window.BOLU_DDL = {
       "search": "山东大学 智能通信技术研究院"
     },
     {
-      "id": "ddl-2026-0ajz1w5-942",
+      "id": "ddl-2026-0ajz1w5-935",
       "year": "2026",
       "school": "合肥工业大学",
       "dept": "智能软件工程学院",
@@ -16032,7 +15913,7 @@ window.BOLU_DDL = {
       "search": "合肥工业大学 智能软件工程学院"
     },
     {
-      "id": "ddl-2026-0sl03iy-943",
+      "id": "ddl-2026-0sl03iy-936",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "计算机科学与工程学院",
@@ -16049,7 +15930,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 计算机科学与工程学院"
     },
     {
-      "id": "ddl-2026-0s83ehv-944",
+      "id": "ddl-2026-0s83ehv-937",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "人工智能学院/无人系统技术研究院",
@@ -16066,7 +15947,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 人工智能学院/无人系统技术研究院"
     },
     {
-      "id": "ddl-2026-1d5yfuw-945",
+      "id": "ddl-2026-1d5yfuw-938",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "应急管理科学与工程学院",
@@ -16083,7 +15964,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 应急管理科学与工程学院"
     },
     {
-      "id": "ddl-2026-1f8mojz-946",
+      "id": "ddl-2026-1f8mojz-939",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "高等理工学院",
@@ -16100,7 +15981,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 高等理工学院"
     },
     {
-      "id": "ddl-2026-0ucxma4-947",
+      "id": "ddl-2026-0ucxma4-940",
       "year": "2026",
       "school": "华中科技大学",
       "dept": "电子信息与通信学院",
@@ -16117,7 +15998,7 @@ window.BOLU_DDL = {
       "search": "华中科技大学 电子信息与通信学院"
     },
     {
-      "id": "ddl-2026-0nkn8lv-948",
+      "id": "ddl-2026-0nkn8lv-941",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "大科学装置研究院",
@@ -16134,7 +16015,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 大科学装置研究院"
     },
     {
-      "id": "ddl-2026-19b7jww-949",
+      "id": "ddl-2026-19b7jww-942",
       "year": "2026",
       "school": "苏州大学",
       "dept": "光电科学与工程学院",
@@ -16151,7 +16032,7 @@ window.BOLU_DDL = {
       "search": "苏州大学 光电科学与工程学院"
     },
     {
-      "id": "ddl-2026-1fa9kwu-950",
+      "id": "ddl-2026-1fa9kwu-943",
       "year": "2026",
       "school": "苏州大学",
       "dept": "未来科学与工程学院",
@@ -16168,7 +16049,7 @@ window.BOLU_DDL = {
       "search": "苏州大学 未来科学与工程学院"
     },
     {
-      "id": "ddl-2026-0cwrrks-951",
+      "id": "ddl-2026-0cwrrks-944",
       "year": "2026",
       "school": "南京航空航天大学",
       "dept": "机电学院",
@@ -16185,7 +16066,7 @@ window.BOLU_DDL = {
       "search": "南京航空航天大学 机电学院"
     },
     {
-      "id": "ddl-2026-14m6pru-952",
+      "id": "ddl-2026-14m6pru-945",
       "year": "2026",
       "school": "西安电子科技大学",
       "dept": "集成电路学部",
@@ -16202,7 +16083,7 @@ window.BOLU_DDL = {
       "search": "西安电子科技大学 集成电路学部"
     },
     {
-      "id": "ddl-2026-0jiqswv-953",
+      "id": "ddl-2026-0jiqswv-946",
       "year": "2026",
       "school": "天津大学",
       "dept": "国际工程师学院",
@@ -16219,7 +16100,7 @@ window.BOLU_DDL = {
       "search": "天津大学 国际工程师学院"
     },
     {
-      "id": "ddl-2026-0bcqewt-954",
+      "id": "ddl-2026-0bcqewt-947",
       "year": "2026",
       "school": "天津大学",
       "dept": "国际工程师学院",
@@ -16236,7 +16117,7 @@ window.BOLU_DDL = {
       "search": "天津大学 国际工程师学院"
     },
     {
-      "id": "ddl-2026-1cj5abh-955",
+      "id": "ddl-2026-1cj5abh-948",
       "year": "2026",
       "school": "天津大学",
       "dept": "国际工程师学院",
@@ -16253,7 +16134,7 @@ window.BOLU_DDL = {
       "search": "天津大学 国际工程师学院"
     },
     {
-      "id": "ddl-2026-1tyqba5-956",
+      "id": "ddl-2026-1tyqba5-949",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "生命科学和医学学部",
@@ -16270,7 +16151,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 生命科学和医学学部"
     },
     {
-      "id": "ddl-2026-0kkb5tb-957",
+      "id": "ddl-2026-0kkb5tb-950",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "生命科学和医学学部",
@@ -16287,7 +16168,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 生命科学和医学学部"
     },
     {
-      "id": "ddl-2026-0a5e4gy-958",
+      "id": "ddl-2026-0a5e4gy-951",
       "year": "2026",
       "school": "中国科学院",
       "dept": "光电技术研究所",
@@ -16304,7 +16185,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 光电技术研究所"
     },
     {
-      "id": "ddl-2026-0y5yofz-959",
+      "id": "ddl-2026-0y5yofz-952",
       "year": "2026",
       "school": "西安电子科技大学",
       "dept": "电子工程学院",
@@ -16321,7 +16202,7 @@ window.BOLU_DDL = {
       "search": "西安电子科技大学 电子工程学院"
     },
     {
-      "id": "ddl-2026-0wels7h-960",
+      "id": "ddl-2026-0wels7h-953",
       "year": "2026",
       "school": "中国地质大学（北京）",
       "dept": "地球物理与信息技术学院",
@@ -16338,7 +16219,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（北京） 地球物理与信息技术学院"
     },
     {
-      "id": "ddl-2026-19gqww3-961",
+      "id": "ddl-2026-19gqww3-954",
       "year": "2026",
       "school": "中国地质大学（北京）",
       "dept": "数理学院",
@@ -16355,7 +16236,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（北京） 数理学院"
     },
     {
-      "id": "ddl-2026-06uf9j3-962",
+      "id": "ddl-2026-06uf9j3-955",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "天文与空间科学学院（紫金山天文台）",
@@ -16372,7 +16253,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 天文与空间科学学院（紫金山天文台）"
     },
     {
-      "id": "ddl-2026-080fxjw-963",
+      "id": "ddl-2026-080fxjw-956",
       "year": "2026",
       "school": "华南理工大学",
       "dept": "集成电路学院",
@@ -16389,7 +16270,7 @@ window.BOLU_DDL = {
       "search": "华南理工大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-0sw7ufm-964",
+      "id": "ddl-2026-0sw7ufm-957",
       "year": "2026",
       "school": "华南理工大学",
       "dept": "软件学院",
@@ -16406,7 +16287,7 @@ window.BOLU_DDL = {
       "search": "华南理工大学 软件学院"
     },
     {
-      "id": "ddl-2026-1xr9ky6-965",
+      "id": "ddl-2026-1xr9ky6-958",
       "year": "2026",
       "school": "华南理工大学",
       "dept": "微电子学院",
@@ -16423,7 +16304,7 @@ window.BOLU_DDL = {
       "search": "华南理工大学 微电子学院"
     },
     {
-      "id": "ddl-2026-1ieaajo-966",
+      "id": "ddl-2026-1ieaajo-959",
       "year": "2026",
       "school": "华南理工大学",
       "dept": "未来技术学院",
@@ -16440,7 +16321,7 @@ window.BOLU_DDL = {
       "search": "华南理工大学 未来技术学院"
     },
     {
-      "id": "ddl-2026-0fbzclc-967",
+      "id": "ddl-2026-0fbzclc-960",
       "year": "2026",
       "school": "华南理工大学",
       "dept": "吴贤铭智能工程学院",
@@ -16457,7 +16338,7 @@ window.BOLU_DDL = {
       "search": "华南理工大学 吴贤铭智能工程学院"
     },
     {
-      "id": "ddl-2026-01g2hs8-968",
+      "id": "ddl-2026-01g2hs8-961",
       "year": "2026",
       "school": "华南理工大学",
       "dept": "电力学院",
@@ -16474,7 +16355,7 @@ window.BOLU_DDL = {
       "search": "华南理工大学 电力学院"
     },
     {
-      "id": "ddl-2026-1iy2a6u-969",
+      "id": "ddl-2026-1iy2a6u-962",
       "year": "2026",
       "school": "华南理工大学",
       "dept": "计算机科学与工程学院",
@@ -16491,7 +16372,7 @@ window.BOLU_DDL = {
       "search": "华南理工大学 计算机科学与工程学院"
     },
     {
-      "id": "ddl-2026-0z4kjya-970",
+      "id": "ddl-2026-0z4kjya-963",
       "year": "2026",
       "school": "华南理工大学",
       "dept": "自动化科学与工程学院",
@@ -16508,7 +16389,7 @@ window.BOLU_DDL = {
       "search": "华南理工大学 自动化科学与工程学院"
     },
     {
-      "id": "ddl-2026-18gow9y-971",
+      "id": "ddl-2026-18gow9y-964",
       "year": "2026",
       "school": "天津大学",
       "dept": "计算机科学与技术学院-直博",
@@ -16525,7 +16406,7 @@ window.BOLU_DDL = {
       "search": "天津大学 计算机科学与技术学院-直博"
     },
     {
-      "id": "ddl-2026-1jwpz27-972",
+      "id": "ddl-2026-1jwpz27-965",
       "year": "2026",
       "school": "天津大学",
       "dept": "网络安全学院-直博",
@@ -16542,7 +16423,7 @@ window.BOLU_DDL = {
       "search": "天津大学 网络安全学院-直博"
     },
     {
-      "id": "ddl-2026-1lu8ku9-973",
+      "id": "ddl-2026-1lu8ku9-966",
       "year": "2026",
       "school": "中国石油大学（华东）",
       "dept": "海洋与空间信息学院",
@@ -16559,7 +16440,7 @@ window.BOLU_DDL = {
       "search": "中国石油大学（华东） 海洋与空间信息学院"
     },
     {
-      "id": "ddl-2026-0zvd2yn-974",
+      "id": "ddl-2026-0zvd2yn-967",
       "year": "2026",
       "school": "湖南大学",
       "dept": "集成电路学院",
@@ -16576,7 +16457,7 @@ window.BOLU_DDL = {
       "search": "湖南大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-1uov7d0-975",
+      "id": "ddl-2026-1uov7d0-968",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "无人系统研究院",
@@ -16593,7 +16474,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 无人系统研究院"
     },
     {
-      "id": "ddl-2026-159b9wy-976",
+      "id": "ddl-2026-159b9wy-969",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "智能计算研究院",
@@ -16610,7 +16491,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 智能计算研究院"
     },
     {
-      "id": "ddl-2026-1kkezxm-977",
+      "id": "ddl-2026-1kkezxm-970",
       "year": "2026",
       "school": "东北大学",
       "dept": "秦皇岛分校",
@@ -16627,7 +16508,7 @@ window.BOLU_DDL = {
       "search": "东北大学 秦皇岛分校"
     },
     {
-      "id": "ddl-2026-1s4g5o5-978",
+      "id": "ddl-2026-1s4g5o5-971",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "中法航空学院-国际卓越工程师项目",
@@ -16644,7 +16525,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 中法航空学院-国际卓越工程师项目"
     },
     {
-      "id": "ddl-2026-0yt98wb-979",
+      "id": "ddl-2026-0yt98wb-972",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "集成电路科学与工程学院",
@@ -16661,7 +16542,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 集成电路科学与工程学院"
     },
     {
-      "id": "ddl-2026-13lazrt-980",
+      "id": "ddl-2026-13lazrt-973",
       "year": "2026",
       "school": "华北电力大学",
       "dept": "控制与计算机工程学院",
@@ -16678,7 +16559,7 @@ window.BOLU_DDL = {
       "search": "华北电力大学 控制与计算机工程学院"
     },
     {
-      "id": "ddl-2026-056wgvq-981",
+      "id": "ddl-2026-056wgvq-974",
       "year": "2026",
       "school": "华中科技大学",
       "dept": "人工智能与自动化学院",
@@ -16695,7 +16576,7 @@ window.BOLU_DDL = {
       "search": "华中科技大学 人工智能与自动化学院"
     },
     {
-      "id": "ddl-2026-0n7qsn7-982",
+      "id": "ddl-2026-0n7qsn7-975",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "（珠海）数据要素科学与技术交叉学科",
@@ -16712,7 +16593,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 （珠海）数据要素科学与技术交叉学科"
     },
     {
-      "id": "ddl-2026-0b1oniv-983",
+      "id": "ddl-2026-0b1oniv-976",
       "year": "2026",
       "school": "华北电力大学（保定）",
       "dept": "计算机系",
@@ -16729,7 +16610,7 @@ window.BOLU_DDL = {
       "search": "华北电力大学（保定） 计算机系"
     },
     {
-      "id": "ddl-2026-08y1t41-984",
+      "id": "ddl-2026-08y1t41-977",
       "year": "2026",
       "school": "中国科学院",
       "dept": "深海科学与工程研究所",
@@ -16746,7 +16627,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 深海科学与工程研究所"
     },
     {
-      "id": "ddl-2026-1e5qijy-985",
+      "id": "ddl-2026-1e5qijy-978",
       "year": "2026",
       "school": "中国石油大学（华东）",
       "dept": "理学院",
@@ -16763,7 +16644,7 @@ window.BOLU_DDL = {
       "search": "中国石油大学（华东） 理学院"
     },
     {
-      "id": "ddl-2026-04jn1gg-986",
+      "id": "ddl-2026-04jn1gg-979",
       "year": "2026",
       "school": "中国石油大学（华东）",
       "dept": "青岛软件学院、计算机科学与技术学院",
@@ -16780,7 +16661,7 @@ window.BOLU_DDL = {
       "search": "中国石油大学（华东） 青岛软件学院、计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-0n4ls06-987",
+      "id": "ddl-2026-0n4ls06-980",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "杭州国际创新研究院",
@@ -16797,7 +16678,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 杭州国际创新研究院"
     },
     {
-      "id": "ddl-2026-1888i4v-988",
+      "id": "ddl-2026-1888i4v-981",
       "year": "2026",
       "school": "吉林大学",
       "dept": "计算机科学与技术学院",
@@ -16814,7 +16695,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-1q6knhe-989",
+      "id": "ddl-2026-1q6knhe-982",
       "year": "2026",
       "school": "吉林大学",
       "dept": "交通学院",
@@ -16831,7 +16712,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 交通学院"
     },
     {
-      "id": "ddl-2026-1l5hzb5-990",
+      "id": "ddl-2026-1l5hzb5-983",
       "year": "2026",
       "school": "吉林大学",
       "dept": "软件学院",
@@ -16848,7 +16729,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 软件学院"
     },
     {
-      "id": "ddl-2026-1wgs0gh-991",
+      "id": "ddl-2026-1wgs0gh-984",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "中法未来科技学院",
@@ -16865,7 +16746,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 中法未来科技学院"
     },
     {
-      "id": "ddl-2026-0sck9y1-992",
+      "id": "ddl-2026-0sck9y1-985",
       "year": "2026",
       "school": "华北电力大学（保定）",
       "dept": "电力工程系",
@@ -16882,7 +16763,7 @@ window.BOLU_DDL = {
       "search": "华北电力大学（保定） 电力工程系"
     },
     {
-      "id": "ddl-2026-0p4od5m-993",
+      "id": "ddl-2026-0p4od5m-986",
       "year": "2026",
       "school": "华北电力大学（保定）",
       "dept": "电子与通信工程系",
@@ -16899,7 +16780,7 @@ window.BOLU_DDL = {
       "search": "华北电力大学（保定） 电子与通信工程系"
     },
     {
-      "id": "ddl-2026-0pup8jw-994",
+      "id": "ddl-2026-0pup8jw-987",
       "year": "2026",
       "school": "吉林大学",
       "dept": "仪器科学与电气工程学院",
@@ -16916,7 +16797,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 仪器科学与电气工程学院"
     },
     {
-      "id": "ddl-2026-05wwssv-995",
+      "id": "ddl-2026-05wwssv-988",
       "year": "2026",
       "school": "华南理工大学",
       "dept": "全日制技术转移硕士",
@@ -16933,7 +16814,7 @@ window.BOLU_DDL = {
       "search": "华南理工大学 全日制技术转移硕士"
     },
     {
-      "id": "ddl-2026-1376c1q-996",
+      "id": "ddl-2026-1376c1q-989",
       "year": "2026",
       "school": "西南大学",
       "dept": "人工智能学院",
@@ -16950,7 +16831,7 @@ window.BOLU_DDL = {
       "search": "西南大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1gz3sbg-997",
+      "id": "ddl-2026-1gz3sbg-990",
       "year": "2026",
       "school": "华南师范大学",
       "dept": "计算机学院",
@@ -16967,7 +16848,7 @@ window.BOLU_DDL = {
       "search": "华南师范大学 计算机学院"
     },
     {
-      "id": "ddl-2026-1w12eam-998",
+      "id": "ddl-2026-1w12eam-991",
       "year": "2026",
       "school": "电子科技大学",
       "dept": "航空航天学院",
@@ -16984,7 +16865,7 @@ window.BOLU_DDL = {
       "search": "电子科技大学 航空航天学院"
     },
     {
-      "id": "ddl-2026-0gf600h-999",
+      "id": "ddl-2026-0gf600h-992",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "中法航空学院-国际双硕士学位项目",
@@ -17001,7 +16882,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 中法航空学院-国际双硕士学位项目"
     },
     {
-      "id": "ddl-2026-190y1co-1000",
+      "id": "ddl-2026-190y1co-993",
       "year": "2026",
       "school": "吉林大学",
       "dept": "通信工程学院",
@@ -17018,7 +16899,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 通信工程学院"
     },
     {
-      "id": "ddl-2026-0hve1n4-1001",
+      "id": "ddl-2026-0hve1n4-994",
       "year": "2026",
       "school": "西安电子科技大学",
       "dept": "人工智能学院（更改到17日）",
@@ -17035,7 +16916,7 @@ window.BOLU_DDL = {
       "search": "西安电子科技大学 人工智能学院（更改到17日）"
     },
     {
-      "id": "ddl-2026-0weh0nj-1002",
+      "id": "ddl-2026-0weh0nj-995",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "生医工学院",
@@ -17052,7 +16933,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 生医工学院"
     },
     {
-      "id": "ddl-2026-1o682pf-1003",
+      "id": "ddl-2026-1o682pf-996",
       "year": "2026",
       "school": "天津大学",
       "dept": "纳电子科学与芯片工程学院",
@@ -17069,7 +16950,7 @@ window.BOLU_DDL = {
       "search": "天津大学 纳电子科学与芯片工程学院"
     },
     {
-      "id": "ddl-2026-03hyb5u-1004",
+      "id": "ddl-2026-03hyb5u-997",
       "year": "2026",
       "school": "深圳大学",
       "dept": "集成电路学院",
@@ -17086,7 +16967,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-1bnb7wu-1005",
+      "id": "ddl-2026-1bnb7wu-998",
       "year": "2026",
       "school": "深圳大学",
       "dept": "电子与信息工程学院",
@@ -17103,7 +16984,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 电子与信息工程学院"
     },
     {
-      "id": "ddl-2026-026d37t-1006",
+      "id": "ddl-2026-026d37t-999",
       "year": "2026",
       "school": "重庆大学",
       "dept": "电气工程学院",
@@ -17120,7 +17001,7 @@ window.BOLU_DDL = {
       "search": "重庆大学 电气工程学院"
     },
     {
-      "id": "ddl-2026-0zku9h7-1007",
+      "id": "ddl-2026-0zku9h7-1000",
       "year": "2026",
       "school": "广东工业大学",
       "dept": "信息工程学院",
@@ -17137,7 +17018,7 @@ window.BOLU_DDL = {
       "search": "广东工业大学 信息工程学院"
     },
     {
-      "id": "ddl-2026-10hhlxw-1008",
+      "id": "ddl-2026-10hhlxw-1001",
       "year": "2026",
       "school": "江南大学",
       "dept": "集成电路学院",
@@ -17154,7 +17035,7 @@ window.BOLU_DDL = {
       "search": "江南大学 集成电路学院"
     },
     {
-      "id": "ddl-2026-1y4vs5q-1009",
+      "id": "ddl-2026-1y4vs5q-1002",
       "year": "2026",
       "school": "江南大学",
       "dept": "人工智能与计算机学院",
@@ -17171,7 +17052,7 @@ window.BOLU_DDL = {
       "search": "江南大学 人工智能与计算机学院"
     },
     {
-      "id": "ddl-2026-138bsa5-1010",
+      "id": "ddl-2026-138bsa5-1003",
       "year": "2026",
       "school": "江南大学",
       "dept": "自动化与智能科学学院",
@@ -17188,7 +17069,7 @@ window.BOLU_DDL = {
       "search": "江南大学 自动化与智能科学学院"
     },
     {
-      "id": "ddl-2026-1rig46o-1011",
+      "id": "ddl-2026-1rig46o-1004",
       "year": "2026",
       "school": "中央音乐学院",
       "dept": "音乐人工智能与音乐信息科技方向",
@@ -17205,7 +17086,7 @@ window.BOLU_DDL = {
       "search": "中央音乐学院 音乐人工智能与音乐信息科技方向"
     },
     {
-      "id": "ddl-2026-1gn1wkc-1012",
+      "id": "ddl-2026-1gn1wkc-1005",
       "year": "2026",
       "school": "华北电力大学",
       "dept": "怀柔实验室学院",
@@ -17222,7 +17103,7 @@ window.BOLU_DDL = {
       "search": "华北电力大学 怀柔实验室学院"
     },
     {
-      "id": "ddl-2026-1megdyl-1013",
+      "id": "ddl-2026-1megdyl-1006",
       "year": "2026",
       "school": "南京师范大学",
       "dept": "电气与自动化工程学院",
@@ -17239,7 +17120,7 @@ window.BOLU_DDL = {
       "search": "南京师范大学 电气与自动化工程学院"
     },
     {
-      "id": "ddl-2026-1owlwur-1014",
+      "id": "ddl-2026-1owlwur-1007",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "生命学院",
@@ -17256,7 +17137,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 生命学院"
     },
     {
-      "id": "ddl-2026-1cxj1ci-1015",
+      "id": "ddl-2026-1cxj1ci-1008",
       "year": "2026",
       "school": "华南师范大学",
       "dept": "电子科学与工程学院",
@@ -17273,7 +17154,7 @@ window.BOLU_DDL = {
       "search": "华南师范大学 电子科学与工程学院"
     },
     {
-      "id": "ddl-2026-0ilq9bv-1016",
+      "id": "ddl-2026-0ilq9bv-1009",
       "year": "2026",
       "school": "中国矿业大学",
       "dept": "国家卓越工程师学院",
@@ -17290,7 +17171,7 @@ window.BOLU_DDL = {
       "search": "中国矿业大学 国家卓越工程师学院"
     },
     {
-      "id": "ddl-2026-1ap86mg-1017",
+      "id": "ddl-2026-1ap86mg-1010",
       "year": "2026",
       "school": "中国地质大学（武汉）",
       "dept": "未来技术学院",
@@ -17307,7 +17188,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（武汉） 未来技术学院"
     },
     {
-      "id": "ddl-2026-0lqtsl3-1018",
+      "id": "ddl-2026-0lqtsl3-1011",
       "year": "2026",
       "school": "郑州大学",
       "dept": "网络空间安全学院",
@@ -17324,7 +17205,7 @@ window.BOLU_DDL = {
       "search": "郑州大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-1nz20wz-1019",
+      "id": "ddl-2026-1nz20wz-1012",
       "year": "2026",
       "school": "哈尔滨工程大学",
       "dept": "计算机科学与技术学院",
@@ -17341,7 +17222,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工程大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-11nybsp-1020",
+      "id": "ddl-2026-11nybsp-1013",
       "year": "2026",
       "school": "吉林大学",
       "dept": "电子科学与工程学院、集成电路学院",
@@ -17358,7 +17239,7 @@ window.BOLU_DDL = {
       "search": "吉林大学 电子科学与工程学院、集成电路学院"
     },
     {
-      "id": "ddl-2026-1sh4vpc-1021",
+      "id": "ddl-2026-1sh4vpc-1014",
       "year": "2026",
       "school": "兰州大学",
       "dept": "国优计划",
@@ -17375,7 +17256,7 @@ window.BOLU_DDL = {
       "search": "兰州大学 国优计划"
     },
     {
-      "id": "ddl-2026-1502ekv-1022",
+      "id": "ddl-2026-1502ekv-1015",
       "year": "2026",
       "school": "重庆大学",
       "dept": "智能汽车技术学院",
@@ -17392,7 +17273,7 @@ window.BOLU_DDL = {
       "search": "重庆大学 智能汽车技术学院"
     },
     {
-      "id": "ddl-2026-1recn74-1023",
+      "id": "ddl-2026-1recn74-1016",
       "year": "2026",
       "school": "广东工业大学",
       "dept": "计算机学院",
@@ -17409,7 +17290,7 @@ window.BOLU_DDL = {
       "search": "广东工业大学 计算机学院"
     },
     {
-      "id": "ddl-2026-0x6kpau-1024",
+      "id": "ddl-2026-0x6kpau-1017",
       "year": "2026",
       "school": "西南交通大学",
       "dept": "计算机与人工智能学院",
@@ -17426,7 +17307,7 @@ window.BOLU_DDL = {
       "search": "西南交通大学 计算机与人工智能学院"
     },
     {
-      "id": "ddl-2026-0nvd1a6-1025",
+      "id": "ddl-2026-0nvd1a6-1018",
       "year": "2026",
       "school": "中国地质大学（武汉）",
       "dept": "国家地理信息系统工程技术研究中心",
@@ -17443,7 +17324,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（武汉） 国家地理信息系统工程技术研究中心"
     },
     {
-      "id": "ddl-2026-120drsl-1026",
+      "id": "ddl-2026-120drsl-1019",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "计算机学院",
@@ -17460,7 +17341,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 计算机学院"
     },
     {
-      "id": "ddl-2026-08nce9v-1027",
+      "id": "ddl-2026-08nce9v-1020",
       "year": "2026",
       "school": "中国地质大学（武汉）",
       "dept": "人工智能与自动化学院",
@@ -17477,7 +17358,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（武汉） 人工智能与自动化学院"
     },
     {
-      "id": "ddl-2026-1tp36mn-1028",
+      "id": "ddl-2026-1tp36mn-1021",
       "year": "2026",
       "school": "哈尔滨工程大学",
       "dept": "信息与通信工程学院",
@@ -17494,7 +17375,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工程大学 信息与通信工程学院"
     },
     {
-      "id": "ddl-2026-0li0w7t-1029",
+      "id": "ddl-2026-0li0w7t-1022",
       "year": "2026",
       "school": "河北工业大学",
       "dept": "电子信息工程学院",
@@ -17511,7 +17392,7 @@ window.BOLU_DDL = {
       "search": "河北工业大学 电子信息工程学院"
     },
     {
-      "id": "ddl-2026-153x568-1030",
+      "id": "ddl-2026-153x568-1023",
       "year": "2026",
       "school": "重庆邮电大学",
       "dept": "人工智能学院",
@@ -17528,7 +17409,7 @@ window.BOLU_DDL = {
       "search": "重庆邮电大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-14qt3tq-1031",
+      "id": "ddl-2026-14qt3tq-1024",
       "year": "2026",
       "school": "郑州大学",
       "dept": "电气与信息工程学院",
@@ -17545,7 +17426,7 @@ window.BOLU_DDL = {
       "search": "郑州大学 电气与信息工程学院"
     },
     {
-      "id": "ddl-2026-0cnzena-1032",
+      "id": "ddl-2026-0cnzena-1025",
       "year": "2026",
       "school": "中国科学院",
       "dept": "上海应用物理研究所",
@@ -17562,7 +17443,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 上海应用物理研究所"
     },
     {
-      "id": "ddl-2026-0luomf3-1033",
+      "id": "ddl-2026-0luomf3-1026",
       "year": "2026",
       "school": "哈尔滨工业大学（威海）",
       "dept": "信息科学与工程学院",
@@ -17579,7 +17460,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（威海） 信息科学与工程学院"
     },
     {
-      "id": "ddl-2026-1i1vnbl-1034",
+      "id": "ddl-2026-1i1vnbl-1027",
       "year": "2026",
       "school": "哈尔滨工业大学（威海）",
       "dept": "信息科学与工程学院",
@@ -17596,7 +17477,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（威海） 信息科学与工程学院"
     },
     {
-      "id": "ddl-2026-1afcw4x-1035",
+      "id": "ddl-2026-1afcw4x-1028",
       "year": "2026",
       "school": "上海科技大学",
       "dept": "上海创芯学院",
@@ -17613,7 +17494,7 @@ window.BOLU_DDL = {
       "search": "上海科技大学 上海创芯学院"
     },
     {
-      "id": "ddl-2026-0eektez-1036",
+      "id": "ddl-2026-0eektez-1029",
       "year": "2026",
       "school": "哈尔滨工程大学",
       "dept": "烟台研究院",
@@ -17630,7 +17511,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工程大学 烟台研究院"
     },
     {
-      "id": "ddl-2026-08txseo-1037",
+      "id": "ddl-2026-08txseo-1030",
       "year": "2026",
       "school": "太原理工大学",
       "dept": "计算机科学与技术学院（大数据学院）",
@@ -17647,7 +17528,7 @@ window.BOLU_DDL = {
       "search": "太原理工大学 计算机科学与技术学院（大数据学院）"
     },
     {
-      "id": "ddl-2026-0nd5bmm-1038",
+      "id": "ddl-2026-0nd5bmm-1031",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "未来工学院",
@@ -17664,7 +17545,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 未来工学院"
     },
     {
-      "id": "ddl-2026-19pmuhx-1039",
+      "id": "ddl-2026-19pmuhx-1032",
       "year": "2026",
       "school": "北京航空航天大学",
       "dept": "国家卓越工程师学院大飞机班专项",
@@ -17681,7 +17562,7 @@ window.BOLU_DDL = {
       "search": "北京航空航天大学 国家卓越工程师学院大飞机班专项"
     },
     {
-      "id": "ddl-2026-0fgu5se-1040",
+      "id": "ddl-2026-0fgu5se-1033",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "国家卓越工程师学院（先进技术研究院）",
@@ -17698,7 +17579,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 国家卓越工程师学院（先进技术研究院）"
     },
     {
-      "id": "ddl-2026-1ptoihr-1041",
+      "id": "ddl-2026-1ptoihr-1034",
       "year": "2026",
       "school": "海南大学",
       "dept": "",
@@ -17715,7 +17596,7 @@ window.BOLU_DDL = {
       "search": "海南大学"
     },
     {
-      "id": "ddl-2026-0xakf00-1042",
+      "id": "ddl-2026-0xakf00-1035",
       "year": "2026",
       "school": "中国地质大学（武汉）",
       "dept": "计算机学院",
@@ -17732,7 +17613,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（武汉） 计算机学院"
     },
     {
-      "id": "ddl-2026-1oxaxja-1043",
+      "id": "ddl-2026-1oxaxja-1036",
       "year": "2026",
       "school": "上海大学",
       "dept": "机电工程与自动化学院",
@@ -17749,7 +17630,7 @@ window.BOLU_DDL = {
       "search": "上海大学 机电工程与自动化学院"
     },
     {
-      "id": "ddl-2026-0cux44e-1044",
+      "id": "ddl-2026-0cux44e-1037",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "集成电路学院（微电子学院）",
@@ -17766,7 +17647,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 集成电路学院（微电子学院）"
     },
     {
-      "id": "ddl-2026-1wqmrw6-1045",
+      "id": "ddl-2026-1wqmrw6-1038",
       "year": "2026",
       "school": "郑州大学",
       "dept": "计算机与人工智能学院",
@@ -17783,7 +17664,7 @@ window.BOLU_DDL = {
       "search": "郑州大学 计算机与人工智能学院"
     },
     {
-      "id": "ddl-2026-0zmscd4-1046",
+      "id": "ddl-2026-0zmscd4-1039",
       "year": "2026",
       "school": "深圳大学",
       "dept": "建筑与城市规划学院",
@@ -17800,7 +17681,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 建筑与城市规划学院"
     },
     {
-      "id": "ddl-2026-0e5amd7-1047",
+      "id": "ddl-2026-0e5amd7-1040",
       "year": "2026",
       "school": "天津大学",
       "dept": "新媒体与传播学院",
@@ -17817,7 +17698,7 @@ window.BOLU_DDL = {
       "search": "天津大学 新媒体与传播学院"
     },
     {
-      "id": "ddl-2026-0ido5pw-1048",
+      "id": "ddl-2026-0ido5pw-1041",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "化工与化学学院",
@@ -17834,7 +17715,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 化工与化学学院"
     },
     {
-      "id": "ddl-2026-1tlb38y-1049",
+      "id": "ddl-2026-1tlb38y-1042",
       "year": "2026",
       "school": "中国科学院",
       "dept": "微小卫星创新研究院",
@@ -17851,7 +17732,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 微小卫星创新研究院"
     },
     {
-      "id": "ddl-2026-1oj89w4-1050",
+      "id": "ddl-2026-1oj89w4-1043",
       "year": "2026",
       "school": "中国科学院",
       "dept": "青岛生物能源与过程研究所",
@@ -17868,7 +17749,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 青岛生物能源与过程研究所"
     },
     {
-      "id": "ddl-2026-1g0m8s1-1051",
+      "id": "ddl-2026-1g0m8s1-1044",
       "year": "2026",
       "school": "中国科学院",
       "dept": "声学研究所东海研究站",
@@ -17885,7 +17766,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 声学研究所东海研究站"
     },
     {
-      "id": "ddl-2026-1ppo58r-1052",
+      "id": "ddl-2026-1ppo58r-1045",
       "year": "2026",
       "school": "深圳大学",
       "dept": "测绘科学与技术学科",
@@ -17902,7 +17783,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 测绘科学与技术学科"
     },
     {
-      "id": "ddl-2026-0uvwhw6-1053",
+      "id": "ddl-2026-0uvwhw6-1046",
       "year": "2026",
       "school": "太原理工大学",
       "dept": "人工智能学院",
@@ -17919,7 +17800,7 @@ window.BOLU_DDL = {
       "search": "太原理工大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-1hja0nb-1054",
+      "id": "ddl-2026-1hja0nb-1047",
       "year": "2026",
       "school": "中山大学",
       "dept": "网络空间安全学院（第二批）",
@@ -17936,7 +17817,7 @@ window.BOLU_DDL = {
       "search": "中山大学 网络空间安全学院（第二批）"
     },
     {
-      "id": "ddl-2026-06pehmi-1055",
+      "id": "ddl-2026-06pehmi-1048",
       "year": "2026",
       "school": "西安电子科技大学",
       "dept": "信息交叉学部",
@@ -17953,7 +17834,7 @@ window.BOLU_DDL = {
       "search": "西安电子科技大学 信息交叉学部"
     },
     {
-      "id": "ddl-2026-0n4xrqq-1056",
+      "id": "ddl-2026-0n4xrqq-1049",
       "year": "2026",
       "school": "中国科学院",
       "dept": "脑科学与智能技术卓越创新中心",
@@ -17970,7 +17851,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 脑科学与智能技术卓越创新中心"
     },
     {
-      "id": "ddl-2026-09pi187-1057",
+      "id": "ddl-2026-09pi187-1050",
       "year": "2026",
       "school": "中山大学",
       "dept": "软件工程学院",
@@ -17987,7 +17868,7 @@ window.BOLU_DDL = {
       "search": "中山大学 软件工程学院"
     },
     {
-      "id": "ddl-2026-0nodoak-1058",
+      "id": "ddl-2026-0nodoak-1051",
       "year": "2026",
       "school": "中国科学院",
       "dept": "国家授时中心",
@@ -18004,7 +17885,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 国家授时中心"
     },
     {
-      "id": "ddl-2026-0k1nu5h-1059",
+      "id": "ddl-2026-0k1nu5h-1052",
       "year": "2026",
       "school": "国防科技大学",
       "dept": "入伍博士研究生",
@@ -18021,7 +17902,7 @@ window.BOLU_DDL = {
       "search": "国防科技大学 入伍博士研究生"
     },
     {
-      "id": "ddl-2026-0q7vjss-1060",
+      "id": "ddl-2026-0q7vjss-1053",
       "year": "2026",
       "school": "中国科学技术大学",
       "dept": "科学岛分院",
@@ -18038,7 +17919,7 @@ window.BOLU_DDL = {
       "search": "中国科学技术大学 科学岛分院"
     },
     {
-      "id": "ddl-2026-1ohg4j7-1061",
+      "id": "ddl-2026-1ohg4j7-1054",
       "year": "2026",
       "school": "厦门大学",
       "dept": "马来西亚分校",
@@ -18055,7 +17936,7 @@ window.BOLU_DDL = {
       "search": "厦门大学 马来西亚分校"
     },
     {
-      "id": "ddl-2026-0iz3txe-1062",
+      "id": "ddl-2026-0iz3txe-1055",
       "year": "2026",
       "school": "中国科学院",
       "dept": "上海微系统与信息技术研究所",
@@ -18072,7 +17953,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 上海微系统与信息技术研究所"
     },
     {
-      "id": "ddl-2026-03ai2ot-1063",
+      "id": "ddl-2026-03ai2ot-1056",
       "year": "2026",
       "school": "中国科学院",
       "dept": "重庆研究院",
@@ -18089,7 +17970,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 重庆研究院"
     },
     {
-      "id": "ddl-2026-1yy120g-1064",
+      "id": "ddl-2026-1yy120g-1057",
       "year": "2026",
       "school": "中国电信人工智能研究院",
       "dept": "",
@@ -18106,7 +17987,7 @@ window.BOLU_DDL = {
       "search": "中国电信人工智能研究院"
     },
     {
-      "id": "ddl-2026-1gktinv-1065",
+      "id": "ddl-2026-1gktinv-1058",
       "year": "2026",
       "school": "东南大学",
       "dept": "PALM实验室",
@@ -18123,7 +18004,7 @@ window.BOLU_DDL = {
       "search": "东南大学 PALM实验室"
     },
     {
-      "id": "ddl-2026-1bz82nl-1066",
+      "id": "ddl-2026-1bz82nl-1059",
       "year": "2026",
       "school": "哈尔滨工业大学",
       "dept": "机电工程学院",
@@ -18140,7 +18021,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学 机电工程学院"
     },
     {
-      "id": "ddl-2026-0z5etjd-1067",
+      "id": "ddl-2026-0z5etjd-1060",
       "year": "2026",
       "school": "中国科学院",
       "dept": "软件研究所基础软件验证研究室",
@@ -18157,7 +18038,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 软件研究所基础软件验证研究室"
     },
     {
-      "id": "ddl-2026-0sggt51-1068",
+      "id": "ddl-2026-0sggt51-1061",
       "year": "2026",
       "school": "哈尔滨工业大学（威海）",
       "dept": "新能源学院",
@@ -18174,7 +18055,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（威海） 新能源学院"
     },
     {
-      "id": "ddl-2026-1y1zfde-1069",
+      "id": "ddl-2026-1y1zfde-1062",
       "year": "2026",
       "school": "哈尔滨工业大学（威海）",
       "dept": "材料科学与工程学院",
@@ -18191,7 +18072,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（威海） 材料科学与工程学院"
     },
     {
-      "id": "ddl-2026-032rd1y-1070",
+      "id": "ddl-2026-032rd1y-1063",
       "year": "2026",
       "school": "哈尔滨工业大学（威海）",
       "dept": "海洋工程学院",
@@ -18208,7 +18089,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（威海） 海洋工程学院"
     },
     {
-      "id": "ddl-2026-1tb646g-1071",
+      "id": "ddl-2026-1tb646g-1064",
       "year": "2026",
       "school": "华侨大学",
       "dept": "计算机科学与技术学院",
@@ -18225,7 +18106,7 @@ window.BOLU_DDL = {
       "search": "华侨大学 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-0vtxqd4-1072",
+      "id": "ddl-2026-0vtxqd4-1065",
       "year": "2026",
       "school": "中国科学院",
       "dept": "空天信息创新研究院",
@@ -18242,7 +18123,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 空天信息创新研究院"
     },
     {
-      "id": "ddl-2026-1c4g348-1073",
+      "id": "ddl-2026-1c4g348-1066",
       "year": "2026",
       "school": "中国科学院",
       "dept": "云南天文台",
@@ -18259,7 +18140,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 云南天文台"
     },
     {
-      "id": "ddl-2026-06wrqh1-1074",
+      "id": "ddl-2026-06wrqh1-1067",
       "year": "2026",
       "school": "哈尔滨工业大学（威海）",
       "dept": "计算机科学与技术学院",
@@ -18276,7 +18157,7 @@ window.BOLU_DDL = {
       "search": "哈尔滨工业大学（威海） 计算机科学与技术学院"
     },
     {
-      "id": "ddl-2026-1fey6wi-1075",
+      "id": "ddl-2026-1fey6wi-1068",
       "year": "2026",
       "school": "长安大学",
       "dept": "数据科学与人工智能研究院",
@@ -18293,7 +18174,7 @@ window.BOLU_DDL = {
       "search": "长安大学 数据科学与人工智能研究院"
     },
     {
-      "id": "ddl-2026-0d3j9b0-1076",
+      "id": "ddl-2026-0d3j9b0-1069",
       "year": "2026",
       "school": "中国科学院",
       "dept": "信息工程研究所",
@@ -18310,7 +18191,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 信息工程研究所"
     },
     {
-      "id": "ddl-2026-00knvf8-1077",
+      "id": "ddl-2026-00knvf8-1070",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "杭州高等研究院",
@@ -18327,7 +18208,7 @@ window.BOLU_DDL = {
       "search": "中国科学院大学 杭州高等研究院"
     },
     {
-      "id": "ddl-2026-1g2ueka-1078",
+      "id": "ddl-2026-1g2ueka-1071",
       "year": "2026",
       "school": "湖南大学",
       "dept": "计算机学院",
@@ -18344,7 +18225,7 @@ window.BOLU_DDL = {
       "search": "湖南大学 计算机学院"
     },
     {
-      "id": "ddl-2026-0lf4rsx-1079",
+      "id": "ddl-2026-0lf4rsx-1072",
       "year": "2026",
       "school": "湖南大学",
       "dept": "网络空间安全学院",
@@ -18361,7 +18242,7 @@ window.BOLU_DDL = {
       "search": "湖南大学 网络空间安全学院"
     },
     {
-      "id": "ddl-2026-1dkiely-1080",
+      "id": "ddl-2026-1dkiely-1073",
       "year": "2026",
       "school": "长安大学",
       "dept": "信息工程学院",
@@ -18378,7 +18259,7 @@ window.BOLU_DDL = {
       "search": "长安大学 信息工程学院"
     },
     {
-      "id": "ddl-2026-1vnqzlc-1081",
+      "id": "ddl-2026-1vnqzlc-1074",
       "year": "2026",
       "school": "深圳大学",
       "dept": "人工智能学院",
@@ -18395,7 +18276,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 人工智能学院"
     },
     {
-      "id": "ddl-2026-0e3s5wo-1082",
+      "id": "ddl-2026-0e3s5wo-1075",
       "year": "2026",
       "school": "深圳大学",
       "dept": "中国经济特区研究中心",
@@ -18412,7 +18293,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 中国经济特区研究中心"
     },
     {
-      "id": "ddl-2026-06oxhxh-1083",
+      "id": "ddl-2026-06oxhxh-1076",
       "year": "2026",
       "school": "中国地质大学（武汉）",
       "dept": "地理与信息工程学院",
@@ -18429,7 +18310,7 @@ window.BOLU_DDL = {
       "search": "中国地质大学（武汉） 地理与信息工程学院"
     },
     {
-      "id": "ddl-2026-1vl8pqm-1084",
+      "id": "ddl-2026-1vl8pqm-1077",
       "year": "2026",
       "school": "东华大学",
       "dept": "工程硕博士改革专项",
@@ -18446,7 +18327,7 @@ window.BOLU_DDL = {
       "search": "东华大学 工程硕博士改革专项"
     },
     {
-      "id": "ddl-2026-0nf7gx8-1085",
+      "id": "ddl-2026-0nf7gx8-1078",
       "year": "2026",
       "school": "湖南大学",
       "dept": "物理与微电子科学学院",
@@ -18463,7 +18344,7 @@ window.BOLU_DDL = {
       "search": "湖南大学 物理与微电子科学学院"
     },
     {
-      "id": "ddl-2026-0zppwnz-1086",
+      "id": "ddl-2026-0zppwnz-1079",
       "year": "2026",
       "school": "深圳理工大学",
       "dept": "深圳大学联合培养项目",
@@ -18480,7 +18361,7 @@ window.BOLU_DDL = {
       "search": "深圳理工大学 深圳大学联合培养项目"
     },
     {
-      "id": "ddl-2026-1ntrfv8-1087",
+      "id": "ddl-2026-1ntrfv8-1080",
       "year": "2026",
       "school": "中国科学院",
       "dept": "软件所",
@@ -18497,7 +18378,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 软件所"
     },
     {
-      "id": "ddl-2026-1391vjm-1088",
+      "id": "ddl-2026-1391vjm-1081",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "信息与电子学院",
@@ -18514,7 +18395,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 信息与电子学院"
     },
     {
-      "id": "ddl-2026-1xq2cz6-1089",
+      "id": "ddl-2026-1xq2cz6-1082",
       "year": "2026",
       "school": "西北工业大学",
       "dept": "自动化学院",
@@ -18531,7 +18412,7 @@ window.BOLU_DDL = {
       "search": "西北工业大学 自动化学院"
     },
     {
-      "id": "ddl-2026-0gym2x0-1090",
+      "id": "ddl-2026-0gym2x0-1083",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "集成电路与电子学院信号与图像处理研究所",
@@ -18548,7 +18429,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 集成电路与电子学院信号与图像处理研究所"
     },
     {
-      "id": "ddl-2026-1c2ktsv-1091",
+      "id": "ddl-2026-1c2ktsv-1084",
       "year": "2026",
       "school": "北京理工大学",
       "dept": "自动化学院",
@@ -18565,7 +18446,7 @@ window.BOLU_DDL = {
       "search": "北京理工大学 自动化学院"
     },
     {
-      "id": "ddl-2026-1mtw54e-1092",
+      "id": "ddl-2026-1mtw54e-1085",
       "year": "2026",
       "school": "深圳大学",
       "dept": "大湾区国际创新学院和人工智能学院联培",
@@ -18582,7 +18463,7 @@ window.BOLU_DDL = {
       "search": "深圳大学 大湾区国际创新学院和人工智能学院联培"
     },
     {
-      "id": "ddl-2026-0y4f7ji-1093",
+      "id": "ddl-2026-0y4f7ji-1086",
       "year": "2026",
       "school": "西安电子科技大学",
       "dept": "网络安全与密码学部",
@@ -18599,7 +18480,7 @@ window.BOLU_DDL = {
       "search": "西安电子科技大学 网络安全与密码学部"
     },
     {
-      "id": "ddl-2026-1phxefn-1094",
+      "id": "ddl-2026-1phxefn-1087",
       "year": "2026",
       "school": "浙江大学",
       "dept": "基础交叉研究院-基础交叉博士生专项",
@@ -18616,7 +18497,7 @@ window.BOLU_DDL = {
       "search": "浙江大学 基础交叉研究院-基础交叉博士生专项"
     },
     {
-      "id": "ddl-2026-0lr3b8f-1095",
+      "id": "ddl-2026-0lr3b8f-1088",
       "year": "2026",
       "school": "中国科学院",
       "dept": "国家空间科学中心",
@@ -18633,7 +18514,7 @@ window.BOLU_DDL = {
       "search": "中国科学院 国家空间科学中心"
     },
     {
-      "id": "ddl-2026-08ukwbp-1096",
+      "id": "ddl-2026-08ukwbp-1089",
       "year": "2026",
       "school": "中国科学院大学",
       "dept": "杭州高等研究院与宁波诺丁汉大学联培博士生项目",

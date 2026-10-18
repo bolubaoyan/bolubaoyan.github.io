@@ -1,0 +1,42 @@
+/* 小红书笔记卡片：暖白底色、图片优先，保留站点深蓝强调色。 */
+.notes-heading { display:block; }
+.notes-heading .text-link { flex-shrink:0; white-space:nowrap; }
+.notes-section { padding-top:30px; }
+.notes-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:26px 24px; align-items:start; }
+.note-card { display:block; width:100%; min-width:0; margin:0; border:1px solid var(--line); border-radius:14px; background:white; overflow:hidden; text-decoration:none; color:var(--ink); transition:transform .18s,border-color .18s; }
+.note-card:hover { transform:translateY(-3px); border-color:#9baabb; text-decoration:none; }
+.note-card:focus-visible { outline:3px solid var(--blue); outline-offset:4px; }
+.note-cover { display:block; width:100%; height:auto; background:var(--soft); }
+.note-cover-fallback { display:flex; aspect-ratio:3/4; align-items:center; justify-content:center; padding:28px; color:var(--blue); font-size:24px; font-weight:650; background:#edf1f6; }
+.note-copy { padding:17px 18px 18px; }
+.note-copy h2 { font-size:17px; line-height:1.6; margin:0 0 8px; overflow-wrap:anywhere; }
+.note-copy p { color:var(--muted); font-size:14px; line-height:1.7; margin:0 0 18px; overflow-wrap:anywhere; }
+.note-meta { display:flex; justify-content:space-between; align-items:center; gap:12px; font-size:12px; color:var(--muted); }
+.note-destination { color:var(--blue); white-space:nowrap; }
+.notes-profile { display:flex; align-items:center; justify-content:space-between; gap:24px; padding:0; margin-top:24px; }
+.notes-profile-copy { flex:1; }
+.notes-profile h2 { font-size:20px; margin:0 0 8px; }
+.notes-profile p { font-size:14px; color:var(--muted); margin:0; }
+.notes-account { display:inline-flex; align-items:center; gap:12px; flex-shrink:0; padding:8px 0; color:var(--ink); text-decoration:none; border-radius:6px; }
+.notes-account-avatar { display:block; flex-shrink:0; width:48px; height:48px; border-radius:50%; object-fit:cover; border:1px solid var(--line); }
+.notes-account-info { display:flex; flex-direction:column; gap:2px; }
+.notes-account-info strong { font-size:15px; line-height:1.5; font-weight:600; }
+.notes-account-info > span { font-size:12px; line-height:1.5; color:var(--muted); }
+.notes-account-arrow { color:var(--blue); font-size:18px; margin-left:4px; }
+.notes-account:hover { color:var(--blue); text-decoration:none; }
+.notes-account:focus-visible { outline:2px solid var(--blue); outline-offset:5px; }
+@media(max-width:960px) { .notes-grid { grid-template-columns:repeat(2,minmax(0,1fr)); column-gap:20px; } .notes-profile { flex-wrap:wrap; gap:20px; } }
+@media(max-width:600px) {
+ .notes-heading { display:block; }
+ .notes-heading .text-link { margin-top:16px; }
+ .notes-grid { gap:16px 12px; }
+ .note-card { border-radius:10px; }
+ .note-copy { padding:12px 10px; }
+ .note-copy h2 { font-size:15px; }
+ .note-copy p { font-size:12px; margin-bottom:12px; }
+ .note-meta { align-items:flex-start; flex-direction:column; gap:4px; }
+ .notes-profile { display:block; }
+ .notes-profile .notes-account { margin-top:16px; }
+}
+@media(max-width:340px) { .notes-grid { grid-template-columns:1fr; } }
+@media(prefers-reduced-motion:reduce) { .note-card { transition:none; } .note-card:hover { transform:none; } }
